@@ -1,4 +1,4 @@
-# Glimsherinrichting
+#Glimsherinrichting
 
 Hier staan de laaste versies van de bestanden voor de Glims herinrichtng Medische Microbiologie UMC-Utrecht.
 
@@ -15,5 +15,6 @@ virologische en parasitologische taxonomie zijn nog niet gevuld. Mycologische is
 Kolom J tm X bevatten de data voor de Glims organisme tabel.
 Kolom Y is een hulpkolom en bevat de naam van de breekpuntgroep in kolom X
 
+-
 
 
