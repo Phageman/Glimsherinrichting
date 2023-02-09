@@ -137,7 +137,8 @@ Organismen
 │   │   │   ├── Actinbple (Actinobacillus pleuropneumoniae) nan
 │   │   │   ├── Actinbros (Actinobacillus rossii) nan
 │   │   │   ├── Actinbsem (Actinobacillus seminis) nan
-│   │   │   └── Actinbsui (Actinobacillus suis) nan
+│   │   │   ├── Actinbsui (Actinobacillus suis) nan
+│   │   │   └── Actinbure (Actinobacillus ureae) nan
 │   │   ├── Advenaspe (Advenella species) nan
 │   │   │   ├── Advenainc (Advenella incenata) nan
 │   │   │   └── Advenakas (Advenella kashmirensis) nan
@@ -194,6 +195,7 @@ Organismen
 │   │   │       ├── Oligeaureo (Oligella ureolytica) nan
 │   │   │       └── Oligeauret (Oligella urethralis) nan
 │   │   ├── Aliivospe (Aliivibrio species) nan
+│   │   │   └── Aliivofis (Aliivibrio fischeri) nan
 │   │   ├── Alishaspe (Alishewanella species) nan
 │   │   │   └── Alishafet (Alishewanella fetalis) nan
 │   │   ├── Alistsspe (Alistipes species) 300.0
@@ -213,6 +215,7 @@ Organismen
 │   │   ├── Arcobrspe (Arcobacter species) nan
 │   │   │   ├── Arcobrbut (Arcobacter butzleri) nan
 │   │   │   ├── Arcobrcib (Arcobacter cibarius) nan
+│   │   │   ├── Arcobrcry (Arcobacter cryaerophilus) nan
 │   │   │   ├── Arcobrhal (Arcobacter halophilus) nan
 │   │   │   ├── Arcobrnit (Arcobacter nitrofigilis) nan
 │   │   │   └── Arcobrski (Arcobacter skirrowii) nan
@@ -323,7 +326,6 @@ Organismen
 │   │   ├── Caenisspe (Caenibius species) nan
 │   │   │   └── Caenistar (Caenibius tardaugens) nan
 │   │   ├── Campyrspe (Campylobacter species) 120.0
-│   │   │   ├── Arcobrcry (Arcobacter cryaerophilus) nan
 │   │   │   ├── Campyravi (Campylobacter avium) 120.0
 │   │   │   ├── Campyrcan (Campylobacter canadensis) 120.0
 │   │   │   ├── Campyrcol (Campylobacter coli) 120.03
@@ -367,8 +369,7 @@ Organismen
 │   │   ├── Cauloefam (Caulobacteraceae) nan
 │   │   │   └── Caulorspe (Caulobacter species) nan
 │   │   │       ├── Caulorseg (Caulobacter segnis) nan
-│   │   │       ├── Caulorvib (Caulobacter vibrioides) nan
-│   │   │       └── Sphinslei (Sphingomonas leidyi) 380.0
+│   │   │       └── Caulorvib (Caulobacter vibrioides) nan
 │   │   ├── Cetobmspe (Cetobacterium species) nan
 │   │   │   └── Cetobmsom (Cetobacterium somerae) nan
 │   │   ├── Chrommspe (Chromobacterium species) nan
@@ -631,10 +632,10 @@ Organismen
 │   │   │   │   │   ├── Photostem (Photorhabdus temperata) 10.0
 │   │   │   │   │   └── Photosthr (Photorhabdus thracensis) 10.0
 │   │   │   │   ├── Protesspe (Proteus species) 10.12
+│   │   │   │   │   ├── Proteshau (Proteus hauseri) 10.15
 │   │   │   │   │   ├── Protesmir (Proteus mirabilis) 10.13
 │   │   │   │   │   ├── Protespen (Proteus penneri) 10.14
 │   │   │   │   │   └── Protesvul (Proteus vulgaris) 10.15
-│   │   │   │   │       └── Proteshau (Proteus hauseri) 10.15
 │   │   │   │   ├── Proviaspe (Providencia species) 10.16
 │   │   │   │   │   ├── Proviaalc (Providencia alcalifaciens) 10.16
 │   │   │   │   │   ├── Proviahei (Providencia heimbachae) 10.16
@@ -715,8 +716,7 @@ Organismen
 │   │   │   ├── Flavomplu (Flavobacterium plurextorum) 380.0
 │   │   │   ├── Flavompsy (Flavobacterium psychrophilum) 380.0
 │   │   │   ├── Flavomsac (Flavobacterium saccharophilum) 380.0
-│   │   │   ├── Flavomuro (Flavobacterium urocaniciphilum) 380.0
-│   │   │   └── Sphinbmiz (Sphingobacterium mizutaii) nan
+│   │   │   └── Flavomuro (Flavobacterium urocaniciphilum) 380.0
 │   │   ├── Francaspe (Francisella species) nan
 │   │   │   ├── Francaphi (Francisella philomiragia) nan
 │   │   │   └── Francatul (Francisella tularensis) nan
@@ -744,9 +744,9 @@ Organismen
 │   │   ├── Glaesaspe (Glaesserella species) nan
 │   │   │   └── Glaesapar (Glaesserella parasuis) nan
 │   │   ├── Glucorspe (Gluconobacter species) nan
+│   │   │   ├── Glucorcer (Gluconobacter cerinus) nan
 │   │   │   └── Glucoroxy (Gluconobacter oxydans) nan
 │   │   ├── Glucotspe (Gluconacetobacter species) nan
-│   │   │   ├── Glucorcer (Gluconobacter cerinus) nan
 │   │   │   └── Glucotliq (Gluconacetobacter liquefaciens) nan
 │   │   ├── Grimoaspe (Grimontia species) nan
 │   │   │   └── Grimoahol (Grimontia hollisae) 480.0
@@ -832,7 +832,6 @@ Organismen
 │   │   │   ├── Legioabel (Legionella beliardensis) nan
 │   │   │   ├── Legioabir (Legionella birminghamensis) nan
 │   │   │   ├── Legioaboz (Legionella bozemanae) nan
-│   │   │   │   └── Legioaboz-s (Legionella bozemanii Serogroep 1) nan
 │   │   │   ├── Legioabru (Legionella brunensis) nan
 │   │   │   ├── Legioache (Legionella cherrii) nan
 │   │   │   ├── Legioacin (Legionella cincinnatiensis) nan
@@ -924,6 +923,7 @@ Organismen
 │   │   ├── Nordeaspe (Nordella species) nan
 │   │   │   └── Nordeaoli (Nordella oligomobilis) nan
 │   │   ├── Novosmspe (Novosphingobium species) nan
+│   │   │   ├── Novosmaro (Novosphingobium aromaticivorans) nan
 │   │   │   ├── Novosmhas (Novosphingobium hassiacum) nan
 │   │   │   ├── Novosmlen (Novosphingobium lentum) nan
 │   │   │   ├── Novosmnap (Novosphingobium naphthalenivorans) nan
@@ -969,7 +969,6 @@ Organismen
 │   │   ├── Parazsspe (Parazoarcus species) nan
 │   │   │   └── Parazscom (Parazoarcus communis) nan
 │   │   ├── Pasteaspe (Pasteurella species) 470.0
-│   │   │   ├── Actinbure (Actinobacillus ureae) nan
 │   │   │   ├── Pasteaaer (Pasteurella aerogenes) 470.0
 │   │   │   ├── Pasteabet (Pasteurella bettyae) 470.0
 │   │   │   ├── Pasteacan (Pasteurella canis) 470.0
@@ -994,7 +993,6 @@ Organismen
 │   │   │   ├── Phocaaple (Phocaeicola plebeius) 300.01
 │   │   │   └── Phocaavul (Phocaeicola vulgatus) 300.01
 │   │   ├── Photomspe (Photobacterium species) nan
-│   │   │   ├── Aliivofis (Aliivibrio fischeri) nan
 │   │   │   ├── Photomdam (Photobacterium damselae) nan
 │   │   │   │   ├── Photomdam-d (Photobacterium damselae - damselae) nan
 │   │   │   │   └── Photomdam-p (Photobacterium damselae - piscicida) nan
@@ -1205,6 +1203,7 @@ Organismen
 │   │   ├── Sphinbspe (Sphingobacterium species) nan
 │   │   │   ├── Sphinbdae (Sphingobacterium daejeonense) nan
 │   │   │   ├── Sphinbfae (Sphingobacterium faecium) nan
+│   │   │   ├── Sphinbmiz (Sphingobacterium mizutaii) nan
 │   │   │   ├── Sphinbmul (Sphingobacterium multivorum) nan
 │   │   │   ├── Sphinbspi (Sphingobacterium spiritivorum) nan
 │   │   │   └── Sphinbtha (Sphingobacterium thalpophilum) nan
@@ -1221,7 +1220,6 @@ Organismen
 │   │   │   ├── Sphinmxen (Sphingobium xenophagum) nan
 │   │   │   └── Sphinmyan (Sphingobium yanoikuyae) nan
 │   │   ├── Sphinsspe (Sphingomonas species) 380.0
-│   │   │   ├── Novosmaro (Novosphingobium aromaticivorans) nan
 │   │   │   ├── Sphinsaba (Sphingomonas abaci) 380.0
 │   │   │   ├── Sphinsadh (Sphingomonas adhaesiva) 380.0
 │   │   │   ├── Sphinsaer (Sphingomonas aerolata) 380.0
@@ -1236,6 +1234,7 @@ Organismen
 │   │   │   ├── Sphinsgin (Sphingomonas ginsenosidimutans) 380.0
 │   │   │   ├── Sphinshal (Sphingomonas haloaromaticamans) 380.0
 │   │   │   ├── Sphinskor (Sphingomonas koreensis) 380.0
+│   │   │   ├── Sphinslei (Sphingomonas leidyi) 380.0
 │   │   │   ├── Sphinsmal (Sphingomonas mali) 380.0
 │   │   │   ├── Sphinsmel (Sphingomonas melonis) 380.0
 │   │   │   ├── Sphinsmol (Sphingomonas molluscorum) 380.0
@@ -1685,11 +1684,11 @@ Organismen
 │   │   │   └── Actinalib (Actinocorallia libanotica) nan
 │   │   ├── Actingspe (Actinotignum species) 240.0
 │   │   │   ├── Actingsan (Actinotignum sanguinis) 240.0
-│   │   │   └── Actingsch (Actinotignum schaalii) 240.0
+│   │   │   ├── Actingsch (Actinotignum schaalii) 240.0
+│   │   │   └── Actinguri (Actinotignum urinale) 240.0
 │   │   ├── Actinkspe (Actinokineospora species) nan
 │   │   │   └── Actinkfas (Actinokineospora fastidiosa) nan
 │   │   ├── Actinmspe (Actinobaculum species) 240.0
-│   │   │   ├── Actinguri (Actinotignum urinale) 240.0
 │   │   │   ├── Actinmmas (Actinobaculum massiliense) 240.0
 │   │   │   └── Actinmsui (Actinobaculum suis) 240.0
 │   │   ├── Actinsspe (Actinomyces species) 240.0
@@ -1838,6 +1837,8 @@ Organismen
 │   │   │   ├── Arthrrtec (Arthrobacter tecti) nan
 │   │   │   ├── Arthrrtum (Arthrobacter tumbae) nan
 │   │   │   └── Arthrrwol (Arthrobacter woluwensis) nan
+│   │   ├── Asaccaspe (Asaccharospora species) 240.0
+│   │   │   └── Asaccairr (Asaccharospora irregularis) 240.0
 │   │   ├── Atopomspe (Atopobium species) 240.0
 │   │   │   └── Atopommin (Atopobium minutum) 240.0
 │   │   ├── Austwaspe (Austwickia species) nan
@@ -1869,9 +1870,7 @@ Organismen
 │   │   │   ├── Bacilssub (Bacillus subtilis) 220.0
 │   │   │   ├── Bacilssub-sp (Bacillus spizizenii) 220.0
 │   │   │   ├── Bacilsthe (Bacillus thermoamylovorans) 220.0
-│   │   │   ├── Bacilsval (Bacillus vallismortis) 220.0
-│   │   │   ├── Fictisbar (Fictibacillus barbaricus) nan
-│   │   │   └── Lysinsody (Lysinibacillus odysseyi) 220.0
+│   │   │   └── Bacilsval (Bacillus vallismortis) 220.0
 │   │   ├── Bhargaspe (Bhargavaea species) nan
 │   │   │   └── Bhargaull (Bhargavaea ullalensis) nan
 │   │   ├── Bifidmspe (Bifidobacterium species) 240.0
@@ -1959,12 +1958,12 @@ Organismen
 │   │   │   ├── Cellusgel (Cellulomonas gelida) nan
 │   │   │   ├── Celluspak (Cellulomonas pakistanensis) nan
 │   │   │   └── Cellusuda (Cellulomonas uda) nan
+│   │   ├── Cellutspe (Cellulosilyticum species) 240.0
+│   │   │   └── Cellutlen (Cellulosilyticum lentocellum) 240.0
 │   │   ├── Clavirspe (Clavibacter species) nan
 │   │   │   ├── Clavirmic (Clavibacter michiganensis) nan
 │   │   │   └── Clavirtes (Clavibacter tessellarius) nan
 │   │   ├── Clostmspe (Clostridium species) 240.0
-│   │   │   ├── Asaccairr (Asaccharospora irregularis) nan
-│   │   │   ├── Cellutlen (Cellulosilyticum lentocellum) nan
 │   │   │   ├── Clostmace (Clostridium acetobutylicum) 240.0
 │   │   │   ├── Clostmaci (Clostridium aciditolerans) 240.0
 │   │   │   ├── Clostmalg (Clostridium algidicarnis) 240.0
@@ -2138,6 +2137,7 @@ Organismen
 │   │   ├── Ectobsspe (Ectobacillus species) nan
 │   │   │   └── Ectobsfun (Ectobacillus funiculus) nan
 │   │   ├── Eggeraspe (Eggerthia species) nan
+│   │   │   └── Eggeracat (Eggerthia catenaformis) nan
 │   │   ├── Eggerespe (Eggerthella species) nan
 │   │   │   └── Eggerelen (Eggerthella lenta) 240.0
 │   │   ├── Entecrspe (Enterocloster (Clostridium) species) 240.0
@@ -2169,6 +2169,7 @@ Organismen
 │   │   │   └── Fannyavag (Fannyhessea vaginae) nan
 │   │   ├── Fictisspe (Fictibacillus species) nan
 │   │   │   ├── Fictisars (Fictibacillus arsenicus) nan
+│   │   │   ├── Fictisbar (Fictibacillus barbaricus) nan
 │   │   │   └── Fictismac (Fictibacillus macauensis) nan
 │   │   ├── Filifrspe (Filifactor species) nan
 │   │   │   ├── Filifralo (Filifactor alocis) nan
@@ -2241,6 +2242,7 @@ Organismen
 │   │   ├── Jonesaspe (Jonesia species) nan
 │   │   │   └── Jonesaden (Jonesia denitrificans) nan
 │   │   ├── Kandlaspe (Kandleria species) nan
+│   │   │   └── Kandlavit (Kandleria vitulina) nan
 │   │   ├── Kitasaspe (Kitasatospora species) nan
 │   │   │   ├── Kitasaaur (Kitasatospora aureofaciens) nan
 │   │   │   └── Kitasapho (Kitasatospora phosalacinea) nan
@@ -2269,8 +2271,6 @@ Organismen
 │   │   │   ├── Lactipspla (Lactiplantibacillus plantarum) 240.02
 │   │   │   └── Lactipspla-p (Lactiplantibacillus plantarum plantarum) 240.02
 │   │   ├── Lactosspe (Lactobacillus species) 240.02
-│   │   │   ├── Eggeracat (Eggerthia catenaformis) nan
-│   │   │   ├── Kandlavit (Kandleria vitulina) nan
 │   │   │   ├── Lactosacio (Lactobacillus acidophilus) 240.02
 │   │   │   ├── Lactosamy (Lactobacillus amylolyticus) 240.02
 │   │   │   ├── Lactosamyv (Lactobacillus amylovorus) 240.02
@@ -2382,6 +2382,7 @@ Organismen
 │   │   │   ├── Lysinsbor (Lysinibacillus boronitolerans) 220.0
 │   │   │   ├── Lysinscon (Lysinibacillus contaminans) 220.0
 │   │   │   ├── Lysinsfus (Lysinibacillus fusiformis) 220.0
+│   │   │   ├── Lysinsody (Lysinibacillus odysseyi) 220.0
 │   │   │   ├── Lysinssph (Lysinibacillus sphaericus) 220.0
 │   │   │   └── Lysinsxyl (Lysinibacillus xylanilyticus) 220.0
 │   │   ├── Maledrspe (Maledivibacter species) nan
@@ -3256,8 +3257,7 @@ Organismen
 │   │   ├── Candiavin (Candida vini) 400.0
 │   │   ├── Candiavis (Candida viswanathii) 400.0
 │   │   ├── Candiazey (Candida zeylanoides) 400.0
-│   │   ├── Canibrori (Canibacter oris) nan
-│   │   └── Kazacapin (Kazachstania pintolopesii) nan
+│   │   └── Canibrori (Canibacter oris) nan
 │   ├── Chaetmspe (Chaetomium species) nan
 │   │   └── Chaetmglo (Chaetomium globosum) nan
 │   ├── Chrysrspe (Chrysosporium species) nan
@@ -3279,7 +3279,6 @@ Organismen
 │   │   ├── Cryptsgat (Cryptococcus gattii) nan
 │   │   ├── Cryptsmac (Cryptococcus macerans) nan
 │   │   ├── Cryptsneo (Cryptococcus neoformans) 410.0
-│   │   │   └── Cryptsuni (Cryptococcus uniguttulatus) nan
 │   │   └── Cryptssai (Cryptococcus saitoi) nan
 │   ├── Curvuaspe (Curvularia species) nan
 │   │   ├── Curvuacla (Curvularia clavata) nan
@@ -3316,6 +3315,7 @@ Organismen
 │   │   ├── Diutiing (Diutina catenulata) nan
 │   │   └── Diutirug (Diutina rugosa) nan
 │   ├── Dydimspe (Didymella species) nan
+│   │   └── Dydimaglo (Didymella glomerata) nan
 │   ├── Emeriaspe (Emericella species) nan
 │   ├── Epicomspe (Epicoccum species) nan
 │   │   ├── Epicomnig (Epicoccum nigrum) nan
@@ -3323,13 +3323,15 @@ Organismen
 │   ├── Epidenspe (Epidermophyton species) nan
 │   │   └── Epidenflo (Epidermophyton floccosum) nan
 │   ├── Exophaspe (Exophiala species) nan
+│   │   └── Exophader (Exophiala dermatitidis) nan
 │   ├── Exsermspe (Exserohilum species) nan
 │   │   └── Exsermros (Exserohilum rostratum) nan
 │   ├── Farysaspe (Farysia species) nan
 │   │   └── Farrysaach (Farysia acheniorum) nan
 │   ├── Filobmspe (Filobasidium species) nan
 │   │   ├── Filobmflo (Filobasidium floriforme) nan
-│   │   └── Filobmmag (Filobasidium magnum) nan
+│   │   ├── Filobmmag (Filobasidium magnum) nan
+│   │   └── Filobmuni (Filobasidium uniguttulatum) nan
 │   ├── Fusarmspe (Fusarium species) nan
 │   │   ├── Fusarmchl (Fusarium chlamydosporum) nan
 │   │   ├── Fusarmcul (Fusarium culmorum) nan
@@ -3371,6 +3373,7 @@ Organismen
 │   │   ├── Kazacaexi (Kazachstania exigua) nan
 │   │   ├── Kazacakun (Kazachstania kunashirensis) nan
 │   │   ├── Kazacalod (Kazachstania lodderae) nan
+│   │   ├── Kazacapin (Kazachstania pintolopesii) nan
 │   │   ├── Kazacasin (Kazachstania sinensis) nan
 │   │   ├── Kazacaslo (Kazachstania slooffiae) nan
 │   │   ├── Kazacaspen (Kazachstania spencerorum) nan
@@ -3418,8 +3421,7 @@ Organismen
 │   │   ├── Microrequ (Microsporum equinum) nan
 │   │   ├── Microrful (Microsporum fulvum) nan
 │   │   ├── Microrgyp (Microsporum gypseum) nan
-│   │   ├── Microrpra (Microsporum praecox) nan
-│   │   └── Parapncoo (Paraphyton cookei) nan
+│   │   └── Microrpra (Microsporum praecox) nan
 │   ├── Microstaspe (Microstroma species) nan
 │   │   └── Microabac (Microstroma bacarum) nan
 │   ├── Milleaspe (Millerozyma species) nan
@@ -3469,6 +3471,7 @@ Organismen
 │   │   ├── Papilagla (Papiliotrema flavescens) nan
 │   │   └── Papilalaur (Papiliotrema laurentii) nan
 │   ├── Parapnspe (Paraphyton species) nan
+│   │   └── Parapncoo (Paraphyton cookei) nan
 │   ├── Penicmspe (Penicillium species) nan
 │   │   ├── Penicmbre (Penicillium brevicompactum) nan
 │   │   ├── Penicmcam (Penicillium camemberti) nan
@@ -3497,7 +3500,6 @@ Organismen
 │   │   └── Phialabub (Phialophora bubakii) nan
 │   ├── Phialmspe (Phialemonium species) nan
 │   ├── Phomaspe (Phoma species) nan
-│   │   ├── Dydimaglo (Didymella glomerata) nan
 │   │   └── Phomaher (Phoma herbarum) nan
 │   ├── Pichiaspe (Pichia species) nan
 │   │   ├── Pichiacac (Pichia cactophila) nan
@@ -3516,7 +3518,6 @@ Organismen
 │   ├── Plectaspe (Plectosphaerella species) nan
 │   │   └── Plectacuc (Plectosphaerella cucumerina) nan
 │   ├── Plectmspe (Plectosporium species) nan
-│   │   └── Fusarmtab (Fusarium tabacinum) nan
 │   ├── Pleuraspe (Pleurostoma species) nan
 │   │   └── Pleuraric (Pleurostoma richardsiae) nan
 │   ├── Pricesspe (Priceomyces species) nan
@@ -3553,10 +3554,7 @@ Organismen
 │   ├── Scedomspe (Scedosporium species) nan
 │   │   ├── Scedomaur (Scedosporium aurantiacum) nan
 │   │   ├── Scedomboy (Scedosporium boydii) nan
-│   │   ├── Scedompro (Scedosporium prolificans) nan
-│   │   └── Starmaspe (Starmerella species) 400.0
-│   │       ├── Starmalac-con (Starmerella lactis-condensi) 400.0
-│   │       └── Starmamag (Starmerella magnoliae) 400.0
+│   │   └── Scedompro (Scedosporium prolificans) nan
 │   ├── Schefspe (Scheffersomyces species) nan
 │   │   ├── Schefsins (Scheffersomyces insectosus) nan
 │   │   └── Schefsshe (Scheffersomyces shehatae) nan
@@ -3583,6 +3581,9 @@ Organismen
 │   │   └── Sporomros (Sporobolomyces roseus) nan
 │   ├── Sporoxspe (Sporothrix species) nan
 │   │   └── Sporoxsch (Sporothrix schenckii) nan
+│   ├── Starmaspe (Starmerella species) 400.0
+│   │   ├── Starmalac-con (Starmerella lactis-condensi) 400.0
+│   │   └── Starmamag (Starmerella magnoliae) 400.0
 │   ├── Stempmspe (Stemphylium species) nan
 │   ├── Suhomsspe (Suhomyces species) nan
 │   │   └── Suhomsamb (Suhomyces ambrosiae) nan
@@ -3629,7 +3630,6 @@ Organismen
 │   ├── Vanriaspe (Vanrija species) nan
 │   │   └── Vanriahum (Vanrija humicola) nan
 │   ├── Wangiaspe (Wangiella species) nan
-│   │   └── Exophader (Exophiala dermatitidis) nan
 │   ├── Wickespe (Wickerhamiella species) nan
 │   │   ├── Wickeainf (Wickerhamiella infanticola) nan
 │   │   ├── Wickeapar (Wickerhamiella pararugosa) nan
