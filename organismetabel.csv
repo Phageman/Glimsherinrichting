@@ -609,8 +609,7 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 774161,Bradymbet,Bradyrhizobium,betae,,,,,774161,Bradymbet,Bradyrhizobium betae,Germ,Bradyrhizobium betae,?,Bradymbet,Bradymspe,Antibiogram,Yes,no,1,no,no,no,,,,413702008
 789104,Bradymden,Bradyrhizobium,denitrificans,,,,,789104,Bradymden,Bradyrhizobium denitrificans,Germ,Bradyrhizobium denitrificans,?,Bradymden,Bradymspe,Antibiogram,Yes,no,1,no,no,no,,,,7821000146101
 516981,Bradymspe,Bradyrhizobium,,,,,,516981,Bradymspe,Bradyrhizobium species,Germ,Bradyrhizobium species,?,Bradymspe,Nitrobacaceae,Antibiogram,Yes,no,1,no,no,no,,,Bradsp,414323008
-774167,Branhacat,Branhamella,catarrhalis,,,,,774167,Branhacat,Branhamella catarrhalis,Germ,Branhamella (Moraxella) catarrhalis,yes,Branhacat,Branhaspe,,,,,,,,,,,
-515266,Branhaspe,Branhamella,,,,,,515266,Branhaspe,Branhamella species,Germ,Branhamella species,yes,Branhaspe,Gramnegcoc,Antibiogram,Yes,no,1,no,no,no,,,,
+774167,Moraxacat,Moraxella,catarrhalis,,,,,774167,Moraxacat,Moraxella catarrhalis,Germ,Moraxella catarrhalis,yes,Moraxacat,Moraxaspe,Antibiogram,Yes,no,1,no,no,no,,,,24226003
 774169,Brennaaln,Brenneria,alni,,,,,774169,Brennaaln,Brenneria alni,Germ,Brenneria alni,yes,Brennaaln,Brennaspe,Antibiogram,Yes,no,1,no,no,no,,,,431680007
 774170,Brennanig,Brenneria,nigrifluens,,,,,774170,Brennanig,Brenneria nigrifluens,Germ,Brenneria nigrifluens,yes,Brennanig,Brennaspe,Antibiogram,Yes,no,1,no,no,no,,,,420490008
 774172,Brennarub,Brenneria,rubrifaciens,,,,,774172,Brennarub,Brenneria rubrifaciens,Germ,Brenneria rubrifaciens,yes,Brennarub,Brennaspe,Antibiogram,Yes,no,1,no,no,no,,,,422105006
