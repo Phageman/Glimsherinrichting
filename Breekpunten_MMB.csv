@@ -3395,9 +3395,13 @@ AMB;AMPHO-B;Micro-organisme;no;0.001;0.001;no;yes;groep 420.05
 ISA;ISAVUCON;Micro-organisme;no;1;1;no;yes;groep 420.05
 ITR;ITRACONA;Micro-organisme;no;1;1;no;yes;groep 420.05
 POS;POSACONA;Micro-organisme;no;0.125;0.25;no;yes;groep 420.05
-CLI;CLINDA;Micro-organisme;no;0.5;2;no;yes;groep 430
-LEV;LEVOFLOX;Micro-organisme;no;1;2;no;yes;groep 430
-PEN;PENICIL;Micro-organisme;no;0.125;2;no;yes;groep 430
+AMO;AMOXI;Micro-organisme;no;0.5;0.5;no;yes;groep 430
+CTX;CEFTRIAX;Micro-organisme;no;0.25;0.25;no;yes;groep 430
+MER;MEROPEM;Micro-organisme;no;2;2;no;yes;groep 430
+CLI;CLINDA;Micro-organisme;no;0.5;0.5;no;yes;groep 430
+RFA;RIFAMPI;Micro-organisme;no;0.125;0.125;no;yes;groep 430
+VAN;VANCO;Micro-organisme;no;2;2;no;yes;groep 430
+LEV;LEVOFLOX;Micro-organisme;no;0.5;1;no;yes;groep 430
 CLI;CLINDA;Micro-organisme;no;0.5;2;no;yes;groep 440
 PEN;PENICIL;Micro-organisme;no;0.125;2;no;yes;groep 440
 VAN;VANCO;Micro-organisme;no;2;2;no;yes;groep 440
