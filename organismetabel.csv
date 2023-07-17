@@ -64,7 +64,7 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 ,.Verg?,NULL,NULL,NULL,,,,,.verg?,"Vergroenende streptokok, determinatie volgt",Germ,"Vergroenende streptokok, determinatie volgt",yes,.verg?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,.Vibrioch?,NULL,NULL,NULL,,,,,.vibrioch?,"Gram-negatieve staaf, mogelijk Vibrio cholerae",Germ,,yes,.vibrioch?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,.Yersiasp?,NULL,NULL,NULL,,,,,.yersiasp?,"Gram-negatieve staaf, mogelijk Yersinia species",Germ,,yes,.yersiasp?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
-772468,Abiotadef,Abiotrophia,defectiva,,,,,772468,Abiotadef,Abiotrophia defectiva,Germ,Abiotrophia defectiva,yes,Abiotadef,Abiotaspe,Antibiogram,Yes,no,1,no,no,no,450,Abiotrophia en Granulicatella CLSI M45A,Abiode,113714003
+772468,Abiotadef,Abiotrophia,defectiva,,,,,772468,Abiotadef,Abiotrophia defectiva,Germ,Abiotrophia defectiva,yes,Abiotadef,Abiotaspe,Antibiogram,Yes,no,1,no,no,no,?,?,Abiode,113714003
 514986,Abiotaspe,Abiotrophia,,,,,,514986,Abiotaspe,Abiotrophia species,Germ,Abiotrophia species,yes,Abiotaspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,,,,115161005
 ,Absidacae,NULL,NULL,NULL,,,,,Absidacae,Absidia caerulea,Germ,Absidia caerulea,yes,Absidacae,Absidaspe,Antibiogram,Yes,no,1,no,no,no,,,,2591000146102
 ,Absidaspe,NULL,NULL,NULL,,,20001,,Absidaspe,Absidia species,Germ,Absidia species,yes,Absidaspe,Mucorales,Antibiogram,Yes,no,1,no,no,no,,,Absisp,57145009
@@ -178,12 +178,12 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 783323,Advenainc,Advenella,incenata,,,,,783323,Advenainc,Advenella incenata,Germ,Advenella incenata,?,Advenainc,Advenaspe,Antibiogram,Yes,no,1,no,no,no,,,,427215003
 788036,Advenakas,Advenella,kashmirensis,,,,,788036,Advenakas,Advenella kashmirensis,Germ,Advenella kashmirensis,?,Advenakas,Advenaspe,Antibiogram,Yes,no,1,no,no,no,,,Adveka,433511002
 517165,Advenaspe,Advenella,,,,,,517165,Advenaspe,Advenella species,Germ,Advenella species,?,Advenaspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,,,Advesp,427071009
-772877,Aerocschr,Aerococcus,christensenii,,,,,772877,Aerocschr,Aerococcus christensenii,Germ,Aerococcus christensenii,yes,Aerocschr,Aerocsspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Aercch,409818008
-772879,Aerocssan,Aerococcus,sanguinicola,,,,,772879,Aerocssan,Aerococcus sanguinicola,Germ,Aerococcus sanguinicola,yes,Aerocssan,Aerocsspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Aercsa,427222006
-515050,Aerocsspe,Aerococcus,,,,,,515050,Aerocsspe,Aerococcus species,Germ,Aerococcus species,yes,Aerocsspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Aercsp,9008009
-772880,Aerocsuri,Aerococcus,urinae,,,,,772880,Aerocsuri,Aerococcus urinae,Germ,Aerococcus urinae,yes,Aerocsuri,Aerocsspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Aercur,243230001
-772882,Aerocsurih,Aerococcus,urinaehominis,,,,,772882,Aerocsurih,Aerococcus urinaehominis,Germ,Aerococcus urinaehominis,yes,Aerocsurih,Aerocsspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,,409819000
-772883,Aerocsvir,Aerococcus,viridans,,,,,772883,Aerocsvir,Aerococcus viridans,Germ,Aerococcus viridans,yes,Aerocsvir,Aerocsspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Aercvi,78803006
+772877,Aerocschr,Aerococcus,christensenii,,,,,772877,Aerocschr,Aerococcus christensenii,Germ,Aerococcus christensenii,yes,Aerocschr,Aerocsspe,Antibiogram,Yes,no,1,no,no,no,?,?,Aercch,409818008
+772879,Aerocssan,Aerococcus,sanguinicola,,,,,772879,Aerocssan,Aerococcus sanguinicola,Germ,Aerococcus sanguinicola,yes,Aerocssan,Aerocsspe,Antibiogram,Yes,no,1,no,no,no,?,?,Aercsa,427222006
+515050,Aerocsspe,Aerococcus,,,,,,515050,Aerocsspe,Aerococcus species,Germ,Aerococcus species,yes,Aerocsspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,?,?,Aercsp,9008009
+772880,Aerocsuri,Aerococcus,urinae,,,,,772880,Aerocsuri,Aerococcus urinae,Germ,Aerococcus urinae,yes,Aerocsuri,Aerocsspe,Antibiogram,Yes,no,1,no,no,no,?,?,Aercur,243230001
+772882,Aerocsurih,Aerococcus,urinaehominis,,,,,772882,Aerocsurih,Aerococcus urinaehominis,Germ,Aerococcus urinaehominis,yes,Aerocsurih,Aerocsspe,Antibiogram,Yes,no,1,no,no,no,?,?,,409819000
+772883,Aerocsvir,Aerococcus,viridans,,,,,772883,Aerocsvir,Aerococcus viridans,Germ,Aerococcus viridans,yes,Aerocsvir,Aerocsspe,Antibiogram,Yes,no,1,no,no,no,?,?,Aercvi,78803006
 786346,Aerommfla,Aeromicrobium,flavum,,,,,786346,Aerommfla,Aeromicrobium flavum,Germ,Aeromicrobium flavum,yes,Aerommfla,Aerommspe,Antibiogram,Yes,no,1,no,no,no,,,,450932009
 515051,Aerommspe,Aeromicrobium,,,,,,515051,Aerommspe,Aeromicrobium species,Germ,Aeromicrobium species,yes,Aerommspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,,,,114083004
 772894,Aeromsbes,Aeromonas,bestiarum,,,,,772894,Aeromsbes,Aeromonas bestiarum,Germ,Aeromonas species (waarschijnlijk A. bestiarum),yes,Aeromsbes,Aeromsspe,Antibiogram,Yes,no,1,no,no,no,350,Aeromonas spp,Aermbe,115027006
@@ -214,10 +214,10 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 772933,Afipiamas,Afipia,massiliensis,,,,,772933,Afipiamas,Afipia massiliensis,Germ,Afipia massiliensis,yes,Afipiamas,Afipiaspe,Antibiogram,Yes,no,1,no,no,no,,,,426673003
 515054,Afipiaspe,Afipia,,,,,,515054,Afipiaspe,Afipia species,Germ,Afipia species,yes,Afipiaspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,,,Afipsp,114234007
 ,Agaricomycetes,NULL,NULL,NULL,,,,,Agaricomycetes,Class Agaricomycetes,Germ,Agaricomyceet,yes,Agaricomycetes,Schimmel,Antibiogram,Yes,no,1,no,no,no,,,,709536008
-785424,Aggreract,Aggregatibacter,actinomycetemcomitans,,,,,785424,Aggreract,Aggregatibacter actinomycetemcomitans,Germ,Aggregatibacter actinomycetemcomitans,yes,Aggreract,Aggrerspe,Antibiogram,Yes,no,1,no,no,no,460,HACEK m.u.v. Kingella kingae CLSI M45A,Aggrac,442680008
-785425,Aggreraph,Aggregatibacter,aphrophilus,,,,,785425,Aggreraph,Aggregatibacter aphrophilus,Germ,Aggregatibacter aphrophilus,yes,Aggreraph,Aggrerspe,Antibiogram,Yes,no,1,no,no,no,460,HACEK m.u.v. Kingella kingae CLSI M45A,Aggrap,442683005
-785426,Aggrerseg,Aggregatibacter,segnis,,,,,785426,Aggrerseg,Aggregatibacter segnis,Germ,Aggregatibacter segnis,yes,Aggrerseg,Aggrerspe,Antibiogram,Yes,no,1,no,no,no,460,HACEK m.u.v. Kingella kingae CLSI M45A,Aggrse,442651004
-517473,Aggrerspe,Aggregatibacter,,,,,,517473,Aggrerspe,Aggregatibacter species,Germ,Aggregatibacter species,yes,Aggrerspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,460,HACEK m.u.v. Kingella kingae CLSI M45A,Aggrsp,441718002
+785424,Aggreract,Aggregatibacter,actinomycetemcomitans,,,,,785424,Aggreract,Aggregatibacter actinomycetemcomitans,Germ,Aggregatibacter actinomycetemcomitans,yes,Aggreract,Aggrerspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Aggrac,442680008
+785425,Aggreraph,Aggregatibacter,aphrophilus,,,,,785425,Aggreraph,Aggregatibacter aphrophilus,Germ,Aggregatibacter aphrophilus,yes,Aggreraph,Aggrerspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Aggrap,442683005
+785426,Aggrerseg,Aggregatibacter,segnis,,,,,785426,Aggrerseg,Aggregatibacter segnis,Germ,Aggregatibacter segnis,yes,Aggrerseg,Aggrerspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Aggrse,442651004
+517473,Aggrerspe,Aggregatibacter,,,,,,517473,Aggrerspe,Aggregatibacter species,Germ,Aggregatibacter species,yes,Aggrerspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Aggrsp,441718002
 772957,Agrobmrad,Agrobacterium,radiobacter,,,,,772957,Agrobmrad,Agrobacterium radiobacter,Germ,Agrobacterium radiobacter,?,Agrobmrad,Agrobmspe,Antibiogram,Yes,no,1,no,no,no,,,,
 772959,Agrobmrub,Agrobacterium,rubi,,,,,772959,Agrobmrub,Agrobacterium rubi,Germ,Agrobacterium rubi,?,Agrobmrub,Agrobmspe,Antibiogram,Yes,no,1,no,no,no,,,,
 515059,Agrobmspe,Agrobacterium,,,,,,515059,Agrobmspe,Agrobacterium species,Germ,Agrobacterium species,yes,Agrobmspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,,,Agrosp,33436009
@@ -276,32 +276,32 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 515078,Alistsspe,Alistipes,,,,,,515078,Alistsspe,Alistipes species,Germ,Alistipes species,no,Alistsspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,300,Gram negative anaerobes,Alissp,427315001
 14734,Alkalcscha,Alkalicoccus,chagannorensis,,,,,14734,Alkalcscha,Alkalicoccus chagannorensis,Germ,Alkalicoccus (Bacillus) chagannorensis,yes,Alkalcscha,Alkalcsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,
 519169,Alkalcsspe,Alkalicoccus,,,,,,519169,Alkalcsspe,Alkalicoccus species,Germ,Alkalicoccus (Bacillus) species,?,Alkalcsspe,Gramposstaaf,,,,,,,,220,Bacillus spp,,
-7347,Alkalhsaki,Alkalihalobacillus,akibai,,,,,7347,Alkalhsaki,Alkalihalobacillus akibai,Germ,Alkalihalobacillus (Bacillus) akibai,yes,Alkalhsaki,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,
-5933,Alkalhsalc,Alkalihalobacillus,alcalophilus,,,,,5933,Alkalhsalc,Alkalihalobacillus alcalophilus,Germ,Alkalihalobacillus (Bacillus) alcalophilus,yes,Alkalhsalc,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,
-7348,Alkalhsalg,Alkalihalobacillus,algicola,,,,,7348,Alkalhsalg,Alkalihalobacillus algicola,Germ,Alkalihalobacillus (Bacillus) algicola,yes,Alkalhsalg,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,
-7356,Alkalhscla,Alkalihalobacillus,clausii,,,,,7356,Alkalhscla,Alkalihalobacillus clausii,Germ,Alkalihalobacillus (Bacillus) clausii,yes,Alkalhscla,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,
-7357,Alkalhsdec,Alkalihalobacillus,decolorationis,,,,,7357,Alkalhsdec,Alkalihalobacillus decolorationis,Germ,Alkalihalobacillus (Bacillus) decolorationis,yes,Alkalhsdec,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,
-14737,Alkalhsgib,Alkalihalobacillus,gibsonii,,,,,14737,Alkalhsgib,Alkalihalobacillus gibsonii,Germ,Alkalihalobacillus (Bacillus) gibsonii,yes,Alkalhsgib,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Alkagi,
-7362,Alkalhshal,Alkalihalobacillus,halodurans,,,,,7362,Alkalhshal,Alkalihalobacillus halodurans,Germ,Alkalihalobacillus (Bacillus) halodurans,yes,Alkalhshal,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,
-7363,Alkalhshem,Alkalihalobacillus,hemicellulosilyticus,,,,,7363,Alkalhshem,Alkalihalobacillus hemicellulosilyticus,Germ,Alkalihalobacillus (Bacillus) hemicellulosilyticus,yes,Alkalhshem,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,
-7366,Alkalhshwa,Alkalihalobacillus,hwajinpoensis,,,,,7366,Alkalhshwa,Alkalihalobacillus hwajinpoensis,Germ,Alkalihalobacillus (Bacillus) hwajinpoensis,yes,Alkalhshwa,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,
-7369,Alkalhskru,Alkalihalobacillus,krulwichiae,,,,,7369,Alkalhskru,Alkalihalobacillus krulwichiae,Germ,Alkalihalobacillus (Bacillus) krulwichiae,yes,Alkalhskru,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,
-7380,Alkalhsokh,Alkalihalobacillus,okhensis,,,,,7380,Alkalhsokh,Alkalihalobacillus okhensis,Germ,Alkalihalobacillus (Bacillus) okhensis,yes,Alkalhsokh,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,
-7381,Alkalhsoku,Alkalihalobacillus,okuhidensis,,,,,7381,Alkalhsoku,Alkalihalobacillus okuhidensis,Germ,Alkalihalobacillus (Bacillus) okuhidensis,yes,Alkalhsoku,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,
-7382,Alkalhsosh,Alkalihalobacillus,oshimensis,,,,,7382,Alkalhsosh,Alkalihalobacillus oshimensis,Germ,Alkalihalobacillus (Bacillus) oshimensis,yes,Alkalhsosh,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,
-7383,Alkalhspat,Alkalihalobacillus,patagoniensis,,,,,7383,Alkalhspat,Alkalihalobacillus patagoniensis,Germ,Alkalihalobacillus (Bacillus) patagoniensis,yes,Alkalhspat,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,
-7385,Alkalhspsea,Alkalihalobacillus,pseudalcaliphilus,,,,,7385,Alkalhspsea,Alkalihalobacillus pseudalcaliphilus,Germ,Alkalihalobacillus (Bacillus) pseudalcaliphilus,yes,Alkalhspsea,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,
-26731,Alkalhspsef,Alkalihalophilus,pseudofirmus,,,,,26731,Alkalhspsef,Alkalihalobacillus pseudofirmus,Germ,Alkalihalobacillus (Bacillus) pseudofirmus,yes,Alkalhspsef,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,
-4936,Alkalhsspe,Alkalihalobacillus,,,,,,4936,Alkalhsspe,Alkalihalobacillus species,Germ,Alkalihalobacillus (Bacillus) species,?,Alkalhsspe,Gramposstaaf,,,,,,,,220,Bacillus spp,,
-7394,Alkalhswak,Alkalihalobacillus,wakoensis,,,,,7394,Alkalhswak,Alkalihalobacillus wakoensis,Germ,Alkalihalobacillus (Bacillus) wakoensis,yes,Alkalhswak,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,
+7347,Alkalhsaki,Alkalihalobacillus,akibai,,,,,7347,Alkalhsaki,Alkalihalobacillus akibai,Germ,Alkalihalobacillus (Bacillus) akibai,yes,Alkalhsaki,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,?,?,,
+5933,Alkalhsalc,Alkalihalobacillus,alcalophilus,,,,,5933,Alkalhsalc,Alkalihalobacillus alcalophilus,Germ,Alkalihalobacillus (Bacillus) alcalophilus,yes,Alkalhsalc,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,?,?,,
+7348,Alkalhsalg,Alkalihalobacillus,algicola,,,,,7348,Alkalhsalg,Alkalihalobacillus algicola,Germ,Alkalihalobacillus (Bacillus) algicola,yes,Alkalhsalg,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,?,?,,
+7356,Alkalhscla,Alkalihalobacillus,clausii,,,,,7356,Alkalhscla,Alkalihalobacillus clausii,Germ,Alkalihalobacillus (Bacillus) clausii,yes,Alkalhscla,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,?,?,,
+7357,Alkalhsdec,Alkalihalobacillus,decolorationis,,,,,7357,Alkalhsdec,Alkalihalobacillus decolorationis,Germ,Alkalihalobacillus (Bacillus) decolorationis,yes,Alkalhsdec,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,?,?,,
+14737,Alkalhsgib,Alkalihalobacillus,gibsonii,,,,,14737,Alkalhsgib,Alkalihalobacillus gibsonii,Germ,Alkalihalobacillus (Bacillus) gibsonii,yes,Alkalhsgib,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,?,?,Alkagi,
+7362,Alkalhshal,Alkalihalobacillus,halodurans,,,,,7362,Alkalhshal,Alkalihalobacillus halodurans,Germ,Alkalihalobacillus (Bacillus) halodurans,yes,Alkalhshal,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,?,?,,
+7363,Alkalhshem,Alkalihalobacillus,hemicellulosilyticus,,,,,7363,Alkalhshem,Alkalihalobacillus hemicellulosilyticus,Germ,Alkalihalobacillus (Bacillus) hemicellulosilyticus,yes,Alkalhshem,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,?,?,,
+7366,Alkalhshwa,Alkalihalobacillus,hwajinpoensis,,,,,7366,Alkalhshwa,Alkalihalobacillus hwajinpoensis,Germ,Alkalihalobacillus (Bacillus) hwajinpoensis,yes,Alkalhshwa,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,?,?,,
+7369,Alkalhskru,Alkalihalobacillus,krulwichiae,,,,,7369,Alkalhskru,Alkalihalobacillus krulwichiae,Germ,Alkalihalobacillus (Bacillus) krulwichiae,yes,Alkalhskru,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,?,?,,
+7380,Alkalhsokh,Alkalihalobacillus,okhensis,,,,,7380,Alkalhsokh,Alkalihalobacillus okhensis,Germ,Alkalihalobacillus (Bacillus) okhensis,yes,Alkalhsokh,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,?,?,,
+7381,Alkalhsoku,Alkalihalobacillus,okuhidensis,,,,,7381,Alkalhsoku,Alkalihalobacillus okuhidensis,Germ,Alkalihalobacillus (Bacillus) okuhidensis,yes,Alkalhsoku,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,?,?,,
+7382,Alkalhsosh,Alkalihalobacillus,oshimensis,,,,,7382,Alkalhsosh,Alkalihalobacillus oshimensis,Germ,Alkalihalobacillus (Bacillus) oshimensis,yes,Alkalhsosh,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,?,?,,
+7383,Alkalhspat,Alkalihalobacillus,patagoniensis,,,,,7383,Alkalhspat,Alkalihalobacillus patagoniensis,Germ,Alkalihalobacillus (Bacillus) patagoniensis,yes,Alkalhspat,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,?,?,,
+7385,Alkalhspsea,Alkalihalobacillus,pseudalcaliphilus,,,,,7385,Alkalhspsea,Alkalihalobacillus pseudalcaliphilus,Germ,Alkalihalobacillus (Bacillus) pseudalcaliphilus,yes,Alkalhspsea,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,?,?,,
+26731,Alkalhspsef,Alkalihalophilus,pseudofirmus,,,,,26731,Alkalhspsef,Alkalihalobacillus pseudofirmus,Germ,Alkalihalobacillus (Bacillus) pseudofirmus,yes,Alkalhspsef,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,?,?,,
+4936,Alkalhsspe,Alkalihalobacillus,,,,,,4936,Alkalhsspe,Alkalihalobacillus species,Germ,Alkalihalobacillus (Bacillus) species,?,Alkalhsspe,Gramposstaaf,,,,,,,,?,?,,
+7394,Alkalhswak,Alkalihalobacillus,wakoensis,,,,,7394,Alkalhswak,Alkalihalobacillus wakoensis,Germ,Alkalihalobacillus (Bacillus) wakoensis,yes,Alkalhswak,Alkalhsspe,Antibiogram,Yes,no,1,no,no,no,?,?,,
 26521,Alkalphsspe,Alkalihalophilus,,,,,,26521,Alkalphsspe,Alkalihalophilus species,Germ,Alkalihalophilus species,?,Alkalphsspe,Gramposstaaf,,,,,,,,,,,
-773067,Alkalshal,Alkalibacillus,haloalkaliphilus,,,,,773067,Alkalshal,Alkalibacillus haloalkaliphilus,Germ,Alkalibacillus haloalkaliphilus,?,Alkalshal,Alkalsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,2821000146103
-515079,Alkalsspe,Alkalibacillus,,,,,,515079,Alkalsspe,Alkalibacillus species,Germ,Alkalibacillus species,?,Alkalsspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,4551000146100
+773067,Alkalshal,Alkalibacillus,haloalkaliphilus,,,,,773067,Alkalshal,Alkalibacillus haloalkaliphilus,Germ,Alkalibacillus haloalkaliphilus,?,Alkalshal,Alkalsspe,Antibiogram,Yes,no,1,no,no,no,?,?,,2821000146103
+515079,Alkalsspe,Alkalibacillus,,,,,,515079,Alkalsspe,Alkalibacillus species,Germ,Alkalibacillus species,?,Alkalsspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,?,?,,4551000146100
 773087,Alloisoti,Alloiococcus,otitis,,,,,773087,Alloisoti,Alloiococcus otitis,Germ,Alloiococcus otitis,yes,Alloisoti,Alloisspe,Antibiogram,Yes,no,1,no,no,no,,,,396454000
 515092,Alloisspe,Alloiococcus,,,,,,515092,Alloisspe,Alloiococcus species,Germ,Alloiococcus species,yes,Alloisspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,,,,396453006
-790647,Alloparav,Alloprevotella,rava,,,,,790647,Alloparav,Alloprevotella rava,Germ,Alloprevotella rava,no,Alloparav,Allopaspe,Antibiogram,Yes,no,1,no,no,no,,,Allora,
-518330,Allopaspe,Alloprevotella,,,,,,518330,Allopaspe,Alloprevotella species,Germ,Alloprevotella species,no,Allopaspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,,,Allospe,
-790648,Allopatan,Alloprevotella,tannerae,,,,,790648,Allopatan,Alloprevotella tannerae,Germ,Alloprevotella tannerae,no,Allopatan,Allopaspe,Antibiogram,Yes,no,1,no,no,no,,,Allota,
+790647,Alloparav,Alloprevotella,rava,,,,,790647,Alloparav,Alloprevotella rava,Germ,Alloprevotella rava,no,Alloparav,Allopaspe,Antibiogram,Yes,no,1,no,no,no,300,Gram negative anaerobes,Allora,
+518330,Allopaspe,Alloprevotella,,,,,,518330,Allopaspe,Alloprevotella species,Germ,Alloprevotella species,no,Allopaspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,300,Gram negative anaerobes,Allospe,
+790648,Allopatan,Alloprevotella,tannerae,,,,,790648,Allopatan,Alloprevotella tannerae,Germ,Alloprevotella tannerae,no,Allopatan,Allopaspe,Antibiogram,Yes,no,1,no,no,no,300,Gram negative anaerobes,Allota,
 786483,Allosaomn,Alloscardovia,omnicolens,,,,,786483,Allosaomn,Alloscardovia omnicolens,Germ,Alloscardovia omnicolens,?,Allosaomn,Allosaspe,Antibiogram,Yes,no,1,no,no,no,,,Alloom,429317001
 517608,Allosaspe,Alloscardovia,,,,,,517608,Allosaspe,Alloscardovia species,Germ,Alloscardovia species,?,Allosaspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,,,Allosp,429601004
 ,Alteraalt,NULL,NULL,NULL,,,119834,,Alteraalt,Alternaria alternata,Germ,Alternaria alternata,yes,Alteraalt,Alteraspe,Antibiogram,Yes,no,1,no,no,no,,,Alteal,36703000
@@ -326,24 +326,24 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 10728,Amylosamyt,Amylolactobacillus,amylotrophicus,,,,,10728,Amylosamyt,Amylolactobacillus amylotrophicus,Germ,Amylolactobacillus (Lactobacillus) amylotrophicus,no,Amylosamyt,Amylosspe,Antibiogram,Yes,no,1,no,no,no,,,,
 10473,Amylosspe,Amylolactobacillus,,,,,,10473,Amylosspe,Amylolactobacillus species,Germ,Amylolactobacillus (Lactobacillus) species,?,Amylosspe,Gramposstaaf,,,,,,,,,,,
 794358,Anaerajej,Anaerocolumna,jejuensis,,,,,794358,Anaerajej,Anaerocolumna jejuensis,Germ,Anaerocolumna (Clostridium) jejuensis,no,Anaerajej,Anaeraspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,,
-518989,Anaeraspe,Anaerocolumna,,,,,,518989,Anaeraspe,Anaerocolumna species,Germ,Anaerocolumna (Clostridium) species,?,Anaeraspe,Gramposstaaf,,,,,,,,240,Gram positieve anaeroben,,
+518989,Anaeraspe,Anaerocolumna,,,,,,518989,Anaeraspe,Anaerocolumna species,Germ,Anaerocolumna (Clostridium) species,no,Anaeraspe,Gramposstaaf,,,,,,,,240,Gram positieve anaeroben,,
 794359,Anaeraxyl,Anaerocolumna,xylanovorans,,,,,794359,Anaeraxyl,Anaerocolumna xylanovorans,Germ,Anaerocolumna (Clostridium) xylanovorans,no,Anaeraxyl,Anaeraspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,,
 515116,Anaermspe,Anaerobiospirillum,,,,,,515116,Anaermspe,Anaerobiospirillum species,Germ,Anaerobiospirillum species,no,Anaermspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,,,,55757006
 773238,Anaermsuc,Anaerobiospirillum,succiniciproducens,,,,,773238,Anaermsuc,Anaerobiospirillum succiniciproducens,Germ,Anaerobiospirillum succiniciproducens,no,Anaermsuc,Anaermspe,Antibiogram,Yes,no,1,no,no,no,,,,46934005
-795123,Anaersdeg,Anaerococcus,degeneri,,,,,795123,Anaersdeg,Anaerococcus degeneri,Germ,Anaerococcus degeneri,no,Anaersdeg,Anaersspe,Antibiogram,Yes,no,1,no,no,no,300,Gram negative anaerobes,Anaede,
-773244,Anaershyd,Anaerococcus,hydrogenalis,,,,,773244,Anaershyd,Anaerococcus hydrogenalis,Germ,Anaerococcus hydrogenalis,no,Anaershyd,Anaersspe,Antibiogram,Yes,no,1,no,no,no,300,Gram negative anaerobes,Anaehy,413519008
-773245,Anaerslac,Anaerococcus,lactolyticus,,,,,773245,Anaerslac,Anaerococcus lactolyticus,Germ,Anaerococcus lactolyticus,no,Anaerslac,Anaersspe,Antibiogram,Yes,no,1,no,no,no,300,Gram negative anaerobes,Anaela,413520002
-787355,Anaersmur,Anaerococcus,murdochii,,,,,787355,Anaersmur,Anaerococcus murdochii,Germ,Anaerococcus murdochii,no,Anaersmur,Anaersspe,Antibiogram,Yes,no,1,no,no,no,300,Gram negative anaerobes,Anaemu,712918007
-795125,Anaersnag,Anaerococcus,nagyae,,,,,795125,Anaersnag,Anaerococcus nagyae,Germ,Anaerococcus nagyae,no,Anaersnag,Anaersspe,Antibiogram,Yes,no,1,no,no,no,300,Gram negative anaerobes,Anaena,
-773246,Anaersoct,Anaerococcus,octavius,,,,,773246,Anaersoct,Anaerococcus octavius,Germ,Anaerococcus octavius,no,Anaersoct,Anaersspe,Antibiogram,Yes,no,1,no,no,no,300,Gram negative anaerobes,Anaeoc,413521003
-773247,Anaerspre,Anaerococcus,prevotii,,,,,773247,Anaerspre,Anaerococcus prevotii,Germ,Anaerococcus prevotii,no,Anaerspre,Anaersspe,Antibiogram,Yes,no,1,no,no,no,300,Gram negative anaerobes,,413522005
-515119,Anaersspe,Anaerococcus,,,,,,515119,Anaersspe,Anaerococcus species,Germ,Anaerococcus species,no,Anaersspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,300,Gram negative anaerobes,Anaesp,413518000
-773248,Anaerstet,Anaerococcus,tetradius,,,,,773248,Anaerstet,Anaerococcus tetradius,Germ,Anaerococcus tetradius,no,Anaerstet,Anaersspe,Antibiogram,Yes,no,1,no,no,no,300,Gram negative anaerobes,Anaete,427220003
-773249,Anaersvag,Anaerococcus,vaginalis,,,,,773249,Anaersvag,Anaerococcus vaginalis,Germ,Anaerococcus vaginalis,no,Anaersvag,Anaersspe,Antibiogram,Yes,no,1,no,no,no,300,Gram negative anaerobes,Anaeva,413525007
+795123,Anaersdeg,Anaerococcus,degeneri,,,,,795123,Anaersdeg,Anaerococcus degeneri,Germ,Anaerococcus degeneri,no,Anaersdeg,Anaersspe,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,Anaede,
+773244,Anaershyd,Anaerococcus,hydrogenalis,,,,,773244,Anaershyd,Anaerococcus hydrogenalis,Germ,Anaerococcus hydrogenalis,no,Anaershyd,Anaersspe,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,Anaehy,413519008
+773245,Anaerslac,Anaerococcus,lactolyticus,,,,,773245,Anaerslac,Anaerococcus lactolyticus,Germ,Anaerococcus lactolyticus,no,Anaerslac,Anaersspe,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,Anaela,413520002
+787355,Anaersmur,Anaerococcus,murdochii,,,,,787355,Anaersmur,Anaerococcus murdochii,Germ,Anaerococcus murdochii,no,Anaersmur,Anaersspe,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,Anaemu,712918007
+795125,Anaersnag,Anaerococcus,nagyae,,,,,795125,Anaersnag,Anaerococcus nagyae,Germ,Anaerococcus nagyae,no,Anaersnag,Anaersspe,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,Anaena,
+773246,Anaersoct,Anaerococcus,octavius,,,,,773246,Anaersoct,Anaerococcus octavius,Germ,Anaerococcus octavius,no,Anaersoct,Anaersspe,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,Anaeoc,413521003
+773247,Anaerspre,Anaerococcus,prevotii,,,,,773247,Anaerspre,Anaerococcus prevotii,Germ,Anaerococcus prevotii,no,Anaerspre,Anaersspe,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,,413522005
+515119,Anaersspe,Anaerococcus,,,,,,515119,Anaersspe,Anaerococcus species,Germ,Anaerococcus species,no,Anaersspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,Anaesp,413518000
+773248,Anaerstet,Anaerococcus,tetradius,,,,,773248,Anaerstet,Anaerococcus tetradius,Germ,Anaerococcus tetradius,no,Anaerstet,Anaersspe,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,Anaete,427220003
+773249,Anaersvag,Anaerococcus,vaginalis,,,,,773249,Anaersvag,Anaerococcus vaginalis,Germ,Anaerococcus vaginalis,no,Anaersvag,Anaersspe,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,Anaeva,413525007
 773262,Anaertcol,Anaerotruncus,colihominis,,,,,773262,Anaertcol,Anaerotruncus colihominis,Germ,Anaerotruncus colihominis,no,Anaertcol,Anaertspe,Antibiogram,Yes,no,1,no,no,no,,,,427083006
 796084,Anaertmlac,Anaerotignum,lactatifermentans,,,,,796084,Anaertmlac,Anaerotignum lactatifermentans,Germ,Anaerotignum lactatifermentans,no,Anaertmlac,Anaertmspe,Antibiogram,Yes,no,1,no,no,no,,,,
 796082,Anaertmpro,Anaerotignum,propionicum,,,,,796082,Anaertmpro,Anaerotignum propionicum,Germ,Anaerotignum (Clostridium) propionicum,no,Anaertmpro,Anaertmspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,,
-519280,Anaertmspe,Anaerotignum,,,,,,519280,Anaertmspe,Anaerotignum species,Germ,Anaerotignum (Clostridium) species,?,Anaertmspe,Gramposstaaf,,,,,,,,240,Gram positieve anaeroben,,
+519280,Anaertmspe,Anaerotignum,,,,,,519280,Anaertmspe,Anaerotignum species,Germ,Anaerotignum (Clostridium) species,no,Anaertmspe,Gramposstaaf,,,,,,,,240,Gram positieve anaeroben,,
 515130,Anaertspe,Anaerotruncus,,,,,,515130,Anaertspe,Anaerotruncus species,Germ,Anaerotruncus species,no,Anaertspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,,,,426181001
 ,Ancylaspe,NULL,NULL,NULL,,,,,Ancylaspe,Ancylostoma species,Parasite,Ancylostoma species,yes,Ancylaspe,Parasiet,Antibiogram,Yes,no,1,no,no,no,,,,17113000
 773274,Aneursane,Aneurinibacillus,aneurinilyticus,,,,,773274,Aneursane,Aneurinibacillus aneurinilyticus,Germ,Aneurinibacillus aneurinilyticus,yes,Aneursane,Aneursspe,Antibiogram,Yes,no,1,no,no,no,,,Aneuan,114126007
@@ -579,7 +579,7 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 ,Boereaexi,NULL,NULL,NULL,,,,,Boereaexi,Boeremia exigua,Germ,Boeremia exigua,yes,Boereaexi,Boereaspe,Antibiogram,Yes,no,1,no,no,no,,,,3411000146101
 ,Boereaspe,NULL,NULL,NULL,,,,,Boereaspe,Boeremia species,Germ,Boeremia species,yes,Boereaspe,Schimmel,Antibiogram,Yes,no,1,no,no,no,,,,4581000146105
 774099,Bordeaavi,Bordetella,avium,,,,,774099,Bordeaavi,Bordetella avium,Germ,Bordetella avium,yes,Bordeaavi,Bordeaspe,Antibiogram,Yes,no,1,no,no,no,,,Bordav,43354005
-774100,Bordeabro,Bordetella,bronchiseptica,,,,,774100,Bordeabro,Bordetella bronchiseptica,Germ,Bordetella bronchiseptica,yes,Bordeabro,Bordeaspe,Antibiogram,Yes,no,1,no,no,no,,,Bordbr,10620008
+774100,Bordeabro,Bordetella,bronchiseptica,,,,,774100,Bordeabro,Bordetella bronchiseptica,Germ,Bordetella bronchiseptica,yes,Bordeabro,Bordeaspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Bordbr,10620008
 774101,Bordeahin,Bordetella,hinzii,,,,,774101,Bordeahin,Bordetella hinzii,Germ,Bordetella hinzii,yes,Bordeahin,Bordeaspe,Antibiogram,Yes,no,1,no,no,no,,,,113495004
 774102,Bordeahol,Bordetella,holmesii,,,,,774102,Bordeahol,Bordetella holmesii,Germ,Bordetella holmesii,yes,Bordeahol,Bordeaspe,Antibiogram,Yes,no,1,no,no,no,,,,116035000
 774103,Bordeapar,Bordetella,parapertussis,,,,,774103,Bordeapar,Bordetella parapertussis,Germ,Bordetella parapertussis,yes,Bordeapar,Bordeaspe,Antibiogram,Yes,no,1,no,no,no,,,Bordpa,26183002
@@ -609,7 +609,7 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 774161,Bradymbet,Bradyrhizobium,betae,,,,,774161,Bradymbet,Bradyrhizobium betae,Germ,Bradyrhizobium betae,?,Bradymbet,Bradymspe,Antibiogram,Yes,no,1,no,no,no,,,,413702008
 789104,Bradymden,Bradyrhizobium,denitrificans,,,,,789104,Bradymden,Bradyrhizobium denitrificans,Germ,Bradyrhizobium denitrificans,?,Bradymden,Bradymspe,Antibiogram,Yes,no,1,no,no,no,,,,7821000146101
 516981,Bradymspe,Bradyrhizobium,,,,,,516981,Bradymspe,Bradyrhizobium species,Germ,Bradyrhizobium species,?,Bradymspe,Nitrobacaceae,Antibiogram,Yes,no,1,no,no,no,,,Bradsp,414323008
-774167,Moraxacat,Moraxella,catarrhalis,,,,,774167,Moraxacat,Moraxella catarrhalis,Germ,Moraxella catarrhalis,yes,Moraxacat,Moraxaspe,Antibiogram,Yes,no,1,no,no,no,,,,24226003
+774167,Moraxacat,Moraxella,catarrhalis,,,,,774167,Moraxacat,Moraxella catarrhalis,Germ,Moraxella catarrhalis,yes,Moraxacat,Moraxaspe,Antibiogram,Yes,no,1,no,no,no,100,Moraxalla catarrhalis,,24226003
 774169,Brennaaln,Brenneria,alni,,,,,774169,Brennaaln,Brenneria alni,Germ,Brenneria alni,yes,Brennaaln,Brennaspe,Antibiogram,Yes,no,1,no,no,no,,,,431680007
 774170,Brennanig,Brenneria,nigrifluens,,,,,774170,Brennanig,Brenneria nigrifluens,Germ,Brenneria nigrifluens,yes,Brennanig,Brennaspe,Antibiogram,Yes,no,1,no,no,no,,,,420490008
 774172,Brennarub,Brenneria,rubrifaciens,,,,,774172,Brennarub,Brenneria rubrifaciens,Germ,Brenneria rubrifaciens,yes,Brennarub,Brennaspe,Antibiogram,Yes,no,1,no,no,no,,,,422105006
@@ -629,17 +629,17 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 787630,Brevimrav,Brevibacterium,ravenspurgense,,,,,787630,Brevimrav,Brevibacterium ravenspurgense,Germ,Brevibacterium ravenspurgense,yes,Brevimrav,Brevimspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Brevra,446348002
 774233,Brevimsan,Brevibacterium,sanguinis,,,,,774233,Brevimsan,Brevibacterium sanguinis,Germ,Brevibacterium sanguinis,yes,Brevimsan,Brevimspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,,431681006
 515270,Brevimspe,Brevibacterium,,,,,,515270,Brevimspe,Brevibacterium species,Germ,Brevibacterium species,yes,Brevimspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Brevsp,3603008
-774183,Brevisagr,Brevibacillus,agri,,,,,774183,Brevisagr,Brevibacillus agri,Germ,Brevibacillus agri,yes,Brevisagr,Brevisspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Brevag,114115001
-774184,Brevisbor,Brevibacillus,borstelensis,,,,,774184,Brevisbor,Brevibacillus borstelensis,Germ,Brevibacillus borstelensis,yes,Brevisbor,Brevisspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Brevbo,114116000
-774185,Brevisbre,Brevibacillus,brevis,,,,,774185,Brevisbre,Brevibacillus brevis,Germ,Brevibacillus brevis,yes,Brevisbre,Brevisspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,,114117009
-774186,Breviscen,Brevibacillus,centrosporus,,,,,774186,Breviscen,Brevibacillus centrosporus,Germ,Brevibacillus centrosporus,yes,Breviscen,Brevisspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Brevcen,114118004
-774187,Brevischo,Brevibacillus,choshinensis,,,,,774187,Brevischo,Brevibacillus choshinensis,Germ,Brevibacillus choshinensis,yes,Brevischo,Brevisspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Brevch,114119007
-774188,Brevisfor,Brevibacillus,formosus,,,,,774188,Brevisfor,Brevibacillus formosus,Germ,Brevibacillus formosus,yes,Brevisfor,Brevisspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Brevfo,114120001
-774189,Brevisinv,Brevibacillus,invocatus,,,,,774189,Brevisinv,Brevibacillus invocatus,Germ,Brevibacillus invocatus,yes,Brevisinv,Brevisspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Brevin,385495009
-774190,Brevislat,Brevibacillus,laterosporus,,,,,774190,Brevislat,Brevibacillus laterosporus,Germ,Brevibacillus laterosporus,yes,Brevislat,Brevisspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,,114121002
-774192,Brevispar,Brevibacillus,parabrevis,,,,,774192,Brevispar,Brevibacillus parabrevis,Germ,Brevibacillus parabrevis,yes,Brevispar,Brevisspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Brevpab,114122009
-774193,Brevisreu,Brevibacillus,reuszeri,,,,,774193,Brevisreu,Brevibacillus reuszeri,Germ,Brevibacillus reuszeri,yes,Brevisreu,Brevisspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,,114123004
-515269,Brevisspe,Brevibacillus,,,,,,515269,Brevisspe,Brevibacillus species,Germ,Brevibacillus species,yes,Brevisspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Brevisp,114114002
+774183,Brevisagr,Brevibacillus,agri,,,,,774183,Brevisagr,Brevibacillus agri,Germ,Brevibacillus agri,yes,Brevisagr,Brevisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Brevag,114115001
+774184,Brevisbor,Brevibacillus,borstelensis,,,,,774184,Brevisbor,Brevibacillus borstelensis,Germ,Brevibacillus borstelensis,yes,Brevisbor,Brevisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Brevbo,114116000
+774185,Brevisbre,Brevibacillus,brevis,,,,,774185,Brevisbre,Brevibacillus brevis,Germ,Brevibacillus brevis,yes,Brevisbre,Brevisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,114117009
+774186,Breviscen,Brevibacillus,centrosporus,,,,,774186,Breviscen,Brevibacillus centrosporus,Germ,Brevibacillus centrosporus,yes,Breviscen,Brevisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Brevcen,114118004
+774187,Brevischo,Brevibacillus,choshinensis,,,,,774187,Brevischo,Brevibacillus choshinensis,Germ,Brevibacillus choshinensis,yes,Brevischo,Brevisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Brevch,114119007
+774188,Brevisfor,Brevibacillus,formosus,,,,,774188,Brevisfor,Brevibacillus formosus,Germ,Brevibacillus formosus,yes,Brevisfor,Brevisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Brevfo,114120001
+774189,Brevisinv,Brevibacillus,invocatus,,,,,774189,Brevisinv,Brevibacillus invocatus,Germ,Brevibacillus invocatus,yes,Brevisinv,Brevisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Brevin,385495009
+774190,Brevislat,Brevibacillus,laterosporus,,,,,774190,Brevislat,Brevibacillus laterosporus,Germ,Brevibacillus laterosporus,yes,Brevislat,Brevisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,114121002
+774192,Brevispar,Brevibacillus,parabrevis,,,,,774192,Brevispar,Brevibacillus parabrevis,Germ,Brevibacillus parabrevis,yes,Brevispar,Brevisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Brevpab,114122009
+774193,Brevisreu,Brevibacillus,reuszeri,,,,,774193,Brevisreu,Brevibacillus reuszeri,Germ,Brevibacillus reuszeri,yes,Brevisreu,Brevisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,114123004
+515269,Brevisspe,Brevibacillus,,,,,,515269,Brevisspe,Brevibacillus species,Germ,Brevibacillus species,yes,Brevisspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,?,?,Brevisp,114114002
 774243,Brevusaur,Brevundimonas,aurantiaca,,,,,774243,Brevusaur,Brevundimonas aurantiaca,Germ,Brevundimonas aurantiaca,yes,Brevusaur,Brevusspe,Antibiogram,Yes,no,1,no,no,no,,,,423035009
 774245,Brevusdim,Brevundimonas,diminuta,,,,,774245,Brevusdim,Brevundimonas diminuta,Germ,Brevundimonas diminuta,yes,Brevusdim,Brevusspe,Antibiogram,Yes,no,1,no,no,no,,,Brevdi,113689009
 774246,Brevusint,Brevundimonas,intermedia,,,,,774246,Brevusint,Brevundimonas intermedia,Germ,Brevundimonas intermedia,yes,Brevusint,Brevusspe,Antibiogram,Yes,no,1,no,no,no,,,,423923008
@@ -655,9 +655,9 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 11081,Bruceagal,Brucella,gallinifaecis,,,,,11081,Bruceagal,Brucella gallinifaecis,Germ,Brucella (Ochrobactrum) gallinifaecis,yes,Bruceagal,Bruceaspe,Antibiogram,Yes,no,1,no,no,no,80,Ochrobactrum anthropi,,
 11082,Bruceagri,Brucella,grignonensis,,,,,11082,Bruceagri,Brucella grignonensis,Germ,Brucella (Ochrobactrum) grignonensis,yes,Bruceagri,Bruceaspe,Antibiogram,Yes,no,1,no,no,no,80,Ochrobactrum anthropi,,
 11075,Bruceaint,Brucella,intermedia,,,,,11075,Bruceaint,Brucella intermedia,Germ,Brucella (Ochrobactrum) intermedia,yes,Bruceaint,Bruceaspe,Antibiogram,Yes,no,1,no,no,no,80,Ochrobactrum anthropi,,
-783564,Bruceamel,Brucella,melitensis,,,,,783564,Bruceamel,Brucella melitensis,Germ,Brucella melitensis,yes,Bruceamel,Bruceaspe,Antibiogram,Yes,no,1,no,no,no,,,Brucme,72829003
-515274,Bruceaspe,Brucella,,,,,,515274,Bruceaspe,Brucella species,Germ,Brucella species,yes,Bruceaspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,,,Brucsp,26250004
-11092,Bruceatri,Brucella,tritici,,,,,11092,Bruceatri,Brucella tritici,Germ,Brucella (Ochrobactrum) tritici,yes,Bruceatri,Bruceaspe,Antibiogram,Yes,no,1,no,no,no,,,,
+783564,Bruceamel,Brucella,melitensis,,,,,783564,Bruceamel,Brucella melitensis,Germ,Brucella melitensis,yes,Bruceamel,Bruceaspe,Antibiogram,Yes,no,1,no,no,no,?,,Brucme,72829003
+515274,Bruceaspe,Brucella,,,,,,515274,Bruceaspe,Brucella species,Germ,Brucella species,yes,Bruceaspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,?,,Brucsp,26250004
+11092,Bruceatri,Brucella,tritici,,,,,11092,Bruceatri,Brucella tritici,Germ,Brucella (Ochrobactrum) tritici,yes,Bruceatri,Bruceaspe,Antibiogram,Yes,no,1,no,no,no,80,Ochrobactrum anthropi,,
 ,Brugiamal,NULL,NULL,NULL,,,,,Brugiamal,Brugia malayi,Parasite,Brugia malayi,yes,Brugiamal,Brugiaspe,Antibiogram,Yes,no,1,no,no,no,,,,112443002
 ,Brugiaspe,NULL,NULL,NULL,,,,,Brugiaspe,Brugia species,Parasite,Brugia species,yes,Brugiaspe,Parasiet,Antibiogram,Yes,no,1,no,no,no,,,,58998006
 798112,Buchaahor,Buchananella,hordeovulneris,,,,,798112,Buchaahor,Buchananella hordeovulneris,Germ,Buchananella (Actinomyces) hordeovulneris,no,Buchaahor,Buchaaspe,Antibiogram,Yes,no,1,no,no,no,,,,
@@ -706,31 +706,31 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 14810,Caldasman,Caldalkalibacillus,mannanilyticus,,,,,14810,Caldasman,Caldalkalibacillus mannanilyticus,Germ,Caldalkalibacillus (Bacillus) mannanilyticus,yes,Caldasman,Caldasspe,Antibiogram,Yes,no,1,no,no,no,,,,
 517192,Caldasspe,Caldalkalibacillus,,,,,,517192,Caldasspe,Caldalkalibacillus species,Germ,Caldalkalibacillus (Bacillus) species,?,Caldasspe,Gramposstaaf,,,,,,,,,,,
 14502,Calidsspe,Calidifontibacillus,,,,,,14502,Calidsspe,Calidifontibacillus species,Germ,Calidifontibacillus (Bacillus) species,?,Calidsspe,Gramposstaaf,,,,,,,,,,,
-788099,Campyravi,Campylobacter,avium,,,,,788099,Campyravi,Campylobacter avium,Germ,Campylobacter avium,?,Campyravi,Campyrspe,Antibiogram,Yes,no,1,no,no,no,120,Campylobacter spp,,448130009
-786930,Campyrcan,Campylobacter,canadensis,,,,,786930,Campyrcan,Campylobacter canadensis,Germ,Campylobacter canadensis,?,Campyrcan,Campyrspe,Antibiogram,Yes,no,1,no,no,no,120,Campylobacter spp,,447727006
+788099,Campyravi,Campylobacter,avium,,,,,788099,Campyravi,Campylobacter avium,Germ,Campylobacter avium,?,Campyravi,Campyrspe,Antibiogram,Yes,no,1,no,no,no,?,?,,448130009
+786930,Campyrcan,Campylobacter,canadensis,,,,,786930,Campyrcan,Campylobacter canadensis,Germ,Campylobacter canadensis,?,Campyrcan,Campyrspe,Antibiogram,Yes,no,1,no,no,no,?,?,,447727006
 774373,Campyrcol,Campylobacter,coli,,,,,774373,Campyrcol,Campylobacter coli,Germ,Campylobacter coli,?,Campyrcol,Campyrspe,Antibiogram,Yes,no,1,no,no,no,120.03,Campylobacter coli,Campco,40614002
-774374,Campyrcon,Campylobacter,concisus,,,,,774374,Campyrcon,Campylobacter concisus,Germ,Campylobacter concisus,?,Campyrcon,Campyrspe,Antibiogram,Yes,no,1,no,no,no,120,Campylobacter spp,Campcn,9892000
-774376,Campyrcur,Campylobacter,curvus,,,,,774376,Campyrcur,Campylobacter curvus,Germ,Campylobacter curvus,?,Campyrcur,Campyrspe,Antibiogram,Yes,no,1,no,no,no,120,Campylobacter spp,Campcu,116037008
-783585,Campyrfet,Campylobacter,fetus,,,,,783585,Campyrfet,Campylobacter fetus,Germ,Campylobacter fetus,?,Campyrfet,Campyrspe,Antibiogram,Yes,no,1,no,no,no,120.01,Campylobacter fetus,Campfe,84210007
-774379,Campyrfet-f,Campylobacter,fetus,fetus,,,,774379,Campyrfet-f,Campylobacter fetus - fetus,Germ,Campylobacter fetus ssp. fetus,?,Campyrfet-f,Campyrfet,Antibiogram,Yes,no,1,no,no,no,120.01,Campylobacter fetus,,64589009
-783586,Campyrfet-v,Campylobacter,fetus,venerealis,,,,783586,Campyrfet-v,Campylobacter fetus - venerealis,Germ,Campylobacter fetus ssp. venerealis,?,Campyrfet-v,Campyrfet,Antibiogram,Yes,no,1,no,no,no,120.01,Campylobacter fetus,,60817000
-783587,Campyrgra,Campylobacter,gracilis,,,,,783587,Campyrgra,Campylobacter gracilis,Germ,Campylobacter gracilis,no,Campyrgra,Campyrspe,Antibiogram,Yes,no,1,no,no,no,120,Campylobacter spp,,113528007
+774374,Campyrcon,Campylobacter,concisus,,,,,774374,Campyrcon,Campylobacter concisus,Germ,Campylobacter concisus,?,Campyrcon,Campyrspe,Antibiogram,Yes,no,1,no,no,no,?,?,Campcn,9892000
+774376,Campyrcur,Campylobacter,curvus,,,,,774376,Campyrcur,Campylobacter curvus,Germ,Campylobacter curvus,?,Campyrcur,Campyrspe,Antibiogram,Yes,no,1,no,no,no,?,?,Campcu,116037008
+783585,Campyrfet,Campylobacter,fetus,,,,,783585,Campyrfet,Campylobacter fetus,Germ,Campylobacter fetus,?,Campyrfet,Campyrspe,Antibiogram,Yes,no,1,no,no,no,?,?,Campfe,84210007
+774379,Campyrfet-f,Campylobacter,fetus,fetus,,,,774379,Campyrfet-f,Campylobacter fetus - fetus,Germ,Campylobacter fetus ssp. fetus,?,Campyrfet-f,Campyrfet,Antibiogram,Yes,no,1,no,no,no,?,?,,64589009
+783586,Campyrfet-v,Campylobacter,fetus,venerealis,,,,783586,Campyrfet-v,Campylobacter fetus - venerealis,Germ,Campylobacter fetus ssp. venerealis,?,Campyrfet-v,Campyrfet,Antibiogram,Yes,no,1,no,no,no,?,?,,60817000
+783587,Campyrgra,Campylobacter,gracilis,,,,,783587,Campyrgra,Campylobacter gracilis,Germ,Campylobacter gracilis,no,Campyrgra,Campyrspe,Antibiogram,Yes,no,1,no,no,no,?,?,,113528007
 783588,Campyrhel,Campylobacter,helveticus,,,,,783588,Campyrhel,Campylobacter helveticus,Germ,Campylobacter helveticus,?,Campyrhel,Campyrspe,Antibiogram,Yes,no,1,no,no,no,,,,113522008
 783589,Campyrhom,Campylobacter,hominis,,,,,783589,Campyrhom,Campylobacter hominis,Germ,Campylobacter hominis,?,Campyrhom,Campyrspe,Antibiogram,Yes,no,1,no,no,no,,,,416679003
 783590,Campyrhyo,Campylobacter,hyointestinalis,,,,,783590,Campyrhyo,Campylobacter hyointestinalis,Germ,Campylobacter hyointestinalis,?,Campyrhyo,Campyrspe,Antibiogram,Yes,no,1,no,no,no,,,Camphy,9041007
 783593,Campyrjej,Campylobacter,jejuni,,,,,783593,Campyrjej,Campylobacter jejuni,Germ,Campylobacter jejuni,?,Campyrjej,Campyrspe,Antibiogram,Yes,no,1,no,no,no,120.02,Campylobacter jejuni,Campje,66543000
 783594,Campyrjej-d,Campylobacter,jejuni,doylei,,,,783594,Campyrjej-d,Campylobacter jejuni - doylei,Germ,Campylobacter jejuni ssp. doylei,?,Campyrjej-d,Campyrjej,Antibiogram,Yes,no,1,no,no,no,120.02,Campylobacter jejuni,,113523003
 774382,Campyrjej-j,Campylobacter,jejuni,jejuni,,,,774382,Campyrjej-j,Campylobacter jejuni - jejuni,Germ,Campylobacter jejuni ssp. jejuni,?,Campyrjej-j,Campyrjej,Antibiogram,Yes,no,1,no,no,no,120.02,Campylobacter jejuni,,113524009
-783595,Campyrlan,Campylobacter,lanienae,,,,,783595,Campyrlan,Campylobacter lanienae,Germ,Campylobacter lanienae,?,Campyrlan,Campyrspe,Antibiogram,Yes,no,1,no,no,no,120,Campylobacter spp,,432537009
-774383,Campyrlar,Campylobacter,lari,,,,,774383,Campyrlar,Campylobacter lari,Germ,Campylobacter lari,?,Campyrlar,Campyrspe,Antibiogram,Yes,no,1,no,no,no,120,Campylobacter spp,Campla,116386003
-787842,Campyrlar-l,Campylobacter,lari,lari,,,,787842,Campyrlar-l,Campylobacter lari - lari,Germ,Campylobacter lari ssp. lari,?,Campyrlar-l,Campyrlar,Antibiogram,Yes,no,1,no,no,no,120,Campylobacter spp,,448945001
-787844,Campyrpel,Campylobacter,peloridis,,,,,787844,Campyrpel,Campylobacter peloridis,Germ,Campylobacter peloridis,?,Campyrpel,Campyrspe,Antibiogram,Yes,no,1,no,no,no,120,Campylobacter spp,,447797004
-774386,Campyrrec,Campylobacter,rectus,,,,,774386,Campyrrec,Campylobacter rectus,Germ,Campylobacter rectus,?,Campyrrec,Campyrspe,Antibiogram,Yes,no,1,no,no,no,120,Campylobacter spp,Campre,113525005
-783601,Campyrsho,Campylobacter,showae,,,,,783601,Campyrsho,Campylobacter showae,Germ,Campylobacter showae,?,Campyrsho,Campyrspe,Antibiogram,Yes,no,1,no,no,no,120,Campylobacter spp,,113526006
-515304,Campyrspe,Campylobacter,,,,,,515304,Campyrspe,Campylobacter species,Germ,Campylobacter species,?,Campyrspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,120,Campylobacter spp,Campsp,35408001
-774388,Campyrspu,Campylobacter,sputorum,,,,,774388,Campyrspu,Campylobacter sputorum,Germ,Campylobacter sputorum,?,Campyrspu,Campyrspe,Antibiogram,Yes,no,1,no,no,no,120,Campylobacter spp,,91524009
-774389,Campyrspu-b,Campylobacter,sputorum,bubulus,,,,774389,Campyrspu-b,Campylobacter sputorum -bubulus,Germ,Campylobacter sputorum ssp. Bubulus,?,Campyrspu-b,Campyrspu,Antibiogram,Yes,no,1,no,no,no,120,Campylobacter spp,,19552006
-774391,Campyrups,Campylobacter,upsaliensis,,,,,774391,Campyrups,Campylobacter upsaliensis,Germ,Campylobacter upsaliensis,?,Campyrups,Campyrspe,Antibiogram,Yes,no,1,no,no,no,120,Campylobacter spp,Campup,103427005
+783595,Campyrlan,Campylobacter,lanienae,,,,,783595,Campyrlan,Campylobacter lanienae,Germ,Campylobacter lanienae,?,Campyrlan,Campyrspe,Antibiogram,Yes,no,1,no,no,no,?,?,,432537009
+774383,Campyrlar,Campylobacter,lari,,,,,774383,Campyrlar,Campylobacter lari,Germ,Campylobacter lari,?,Campyrlar,Campyrspe,Antibiogram,Yes,no,1,no,no,no,?,?,Campla,116386003
+787842,Campyrlar-l,Campylobacter,lari,lari,,,,787842,Campyrlar-l,Campylobacter lari - lari,Germ,Campylobacter lari ssp. lari,?,Campyrlar-l,Campyrlar,Antibiogram,Yes,no,1,no,no,no,?,?,,448945001
+787844,Campyrpel,Campylobacter,peloridis,,,,,787844,Campyrpel,Campylobacter peloridis,Germ,Campylobacter peloridis,?,Campyrpel,Campyrspe,Antibiogram,Yes,no,1,no,no,no,?,?,,447797004
+774386,Campyrrec,Campylobacter,rectus,,,,,774386,Campyrrec,Campylobacter rectus,Germ,Campylobacter rectus,?,Campyrrec,Campyrspe,Antibiogram,Yes,no,1,no,no,no,?,?,Campre,113525005
+783601,Campyrsho,Campylobacter,showae,,,,,783601,Campyrsho,Campylobacter showae,Germ,Campylobacter showae,?,Campyrsho,Campyrspe,Antibiogram,Yes,no,1,no,no,no,?,?,,113526006
+515304,Campyrspe,Campylobacter,,,,,,515304,Campyrspe,Campylobacter species,Germ,Campylobacter species,?,Campyrspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,?,?,Campsp,35408001
+774388,Campyrspu,Campylobacter,sputorum,,,,,774388,Campyrspu,Campylobacter sputorum,Germ,Campylobacter sputorum,?,Campyrspu,Campyrspe,Antibiogram,Yes,no,1,no,no,no,?,?,,91524009
+774389,Campyrspu-b,Campylobacter,sputorum,bubulus,,,,774389,Campyrspu-b,Campylobacter sputorum -bubulus,Germ,Campylobacter sputorum ssp. Bubulus,?,Campyrspu-b,Campyrspu,Antibiogram,Yes,no,1,no,no,no,?,?,,19552006
+774391,Campyrups,Campylobacter,upsaliensis,,,,,774391,Campyrups,Campylobacter upsaliensis,Germ,Campylobacter upsaliensis,?,Campyrups,Campyrspe,Antibiogram,Yes,no,1,no,no,no,?,?,Campup,103427005
 788744,Campyrure,Campylobacter,ureolyticus,,,,,788744,Campyrure,Campylobacter ureolyticus,Germ,Campylobacter (Bacteroides) ureolyticus,no,Campyrure,Campyrspe,Antibiogram,Yes,no,1,no,no,no,300,Gram negative anaerobes,,450602004
 ,Candiaala,NULL,NULL,NULL,,,,,Candiaala,Candida alai,Germ,Candida alai,yes,Candiaala,Candiaspe,Antibiogram,Yes,no,1,no,no,no,,,,3461000146104
 ,Candiaalb,NULL,NULL,NULL,,,256187,,Candiaalb,Candida albicans,Germ,Candida albicans,yes,Candiaalb,Candiaspe,Antibiogram,Yes,no,1,no,no,no,400.01,Candida albicans,Candal,53326005
@@ -796,10 +796,10 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 774469,Capnoaoch,Capnocytophaga,ochracea,,,,,774469,Capnoaoch,Capnocytophaga ochracea,Germ,Capnocytophaga ochracea,yes,Capnoaoch,Capnoaspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Capnoc,4256006
 515307,Capnoaspe,Capnocytophaga,,,,,,515307,Capnoaspe,Capnocytophaga species,Germ,Capnocytophaga species,yes,Capnoaspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Capnsp,22294008
 774470,Capnoaspu,Capnocytophaga,sputigena,,,,,774470,Capnoaspu,Capnocytophaga sputigena,Germ,Capnocytophaga sputigena,yes,Capnoaspu,Capnoaspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Capnsu,89892005
-774479,Cardimhom,Cardiobacterium,hominis,,,,,774479,Cardimhom,Cardiobacterium hominis,Germ,Cardiobacterium hominis,yes,Cardimhom,Cardimspe,Antibiogram,Yes,no,1,no,no,no,460,HACEK m.u.v. Kingella kingae CLSI M45A,Cardho,7333005
-515312,Cardimspe,Cardiobacterium,,,,,,515312,Cardimspe,Cardiobacterium species,Germ,Cardiobacterium species,yes,Cardimspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,460,HACEK m.u.v. Kingella kingae CLSI M45A,Cardsp,22292007
-774480,Cardimval,Cardiobacterium,valvarum,,,,,774480,Cardimval,Cardiobacterium valvarum,Germ,Cardiobacterium valvarum,yes,Cardimval,Cardimspe,Antibiogram,Yes,no,1,no,no,no,460,HACEK m.u.v. Kingella kingae CLSI M45A,,428148007
-774486,Carnommal,Carnobacterium,maltaromaticum,,,,,774486,Carnommal,Carnobacterium maltaromaticum,Germ,Carnobacterium maltaromaticum,?,Carnommal,Carnomspe,Antibiogram,Yes,no,1,no,no,no,,,Carnma,421436009
+774479,Cardimhom,Cardiobacterium,hominis,,,,,774479,Cardimhom,Cardiobacterium hominis,Germ,Cardiobacterium hominis,yes,Cardimhom,Cardimspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Cardho,7333005
+515312,Cardimspe,Cardiobacterium,,,,,,515312,Cardimspe,Cardiobacterium species,Germ,Cardiobacterium species,yes,Cardimspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Cardsp,22292007
+774480,Cardimval,Cardiobacterium,valvarum,,,,,774480,Cardimval,Cardiobacterium valvarum,Germ,Cardiobacterium valvarum,yes,Cardimval,Cardimspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,,428148007
+774486,Carnommal,Carnobacterium,maltaromaticum,,,,,774486,Carnommal,Carnobacterium maltaromaticum,Germ,Carnobacterium maltaromaticum,?,Carnommal,Carnomspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Carnma,421436009
 515313,Carnomspe,Carnobacterium,,,,,,515313,Carnomspe,Carnobacterium species,Germ,Carnobacterium species,?,Carnomspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,,,,115137003
 774494,Casteadef,Castellaniella,defragrans,,,,,774494,Casteadef,Castellaniella defragrans,Germ,Castellaniella defragrans,?,Casteadef,Casteaspe,Antibiogram,Yes,no,1,no,no,no,,,,422692004
 515316,Casteaspe,Castellaniella,,,,,,515316,Casteaspe,Castellaniella species,Germ,Castellaniella species,?,Casteaspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,,,,422507009
@@ -928,7 +928,7 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 775011,Clostmthe,Clostridium,thermopalmarium,,,,,775011,Clostmthe,Clostridium thermopalmarium,Germ,Clostridium thermopalmarium,no,Clostmthe,Clostmspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,,113600005
 775018,Clostmtyr,Clostridium,tyrobutyricum,,,,,775018,Clostmtyr,Clostridium tyrobutyricum,Germ,Clostridium tyrobutyricum,no,Clostmtyr,Clostmspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,,14909001
 794449,Clostsdif,Clostridioides,difficile,,,,,794449,Clostsdif,Clostridioides difficile,Germ,Clostridioides (Clostridium) difficile,no,Clostsdif,Clostsspe,Antibiogram,Yes,no,1,no,no,no,250,Clostridioides difficile.,,
-518997,Clostsspe,Clostridioides,,,,,,518997,Clostsspe,Clostridioides species,Germ,Clostridioides (Clostridium) species,?,Clostsspe,Gramposstaaf,,,,,,,,240,Gram positieve anaeroben,,
+518997,Clostsspe,Clostridioides,,,,,,518997,Clostsspe,Clostridioides species,Germ,Clostridioides (Clostridium) species,no,Clostsspe,Gramposstaaf,,,,,,,,240,Gram positieve anaeroben,,
 788575,Cohneafon,Cohnella,fontinalis,,,,,788575,Cohneafon,Cohnella fontinalis,Germ,Cohnella fontinalis,?,Cohneafon,Cohneaspe,Antibiogram,Yes,no,1,no,no,no,,,,4111000146109
 775037,Cohneahon,Cohnella,hongkongensis,,,,,775037,Cohneahon,Cohnella hongkongensis,Germ,Cohnella hongkongensis,?,Cohneahon,Cohneaspe,Antibiogram,Yes,no,1,no,no,no,,,Cohnho,4121000146104
 515394,Cohneaspe,Cohnella,,,,,,515394,Cohneaspe,Cohnella species,Germ,Cohnella species,?,Cohneaspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,,,Cohnsp,699334005
@@ -950,7 +950,7 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 10797,Compaspar,Companilactobacillus,paralimentarius,,,,,10797,Compaspar,Companilactobacillus paralimentarius,Germ,Companilactobacillus (Lactobacillus) paralimentarius,no,Compaspar,Compasspe,Antibiogram,Yes,no,1,no,no,no,240.02,Lactobacillus sp.,,
 10536,Compasspe,Companilactobacillus,,,,,,10536,Compasspe,Companilactobacillus species,Germ,Companilactobacillus (Lactobacillus) species,?,Compasspe,Gramposstaaf,,,,,,,,240.02,Lactobacillus sp.,,
 10825,Compasver,Companilactobacillus,versmoldensis,,,,,10825,Compasver,Companilactobacillus versmoldensis,Germ,Companilactobacillus (Lactobacillus) versmoldensis,no,Compasver,Compasspe,Antibiogram,Yes,no,1,no,no,no,240.02,Lactobacillus sp.,,
-,Coniomspe,NULL,NULL,NULL,,,,,Coniomspe,Coniothyrium species,Germ,Coniothyrium species,yes,Coniomspe,Schimmel,Antibiogram,Yes,no,1,no,no,no,,,Conisp,416782000
+,Coniomspe,NULL,NULL,NULL,,,,,Coniomspe,Coniothyrium species,Germ,Coniothyrium species,no,Coniomspe,Schimmel,Antibiogram,Yes,no,1,no,no,no,,,Conisp,416782000
 775119,Coproscat,Coprobacillus,cateniformis,,,,,775119,Coproscat,Coprobacillus cateniformis,Germ,Coprobacillus cateniformis,no,Coproscat,Coprosspe,Antibiogram,Yes,no,1,no,no,no,,,,434152005
 515416,Coprosspe,Coprobacillus,,,,,,515416,Coprosspe,Coprobacillus species,Germ,Coprobacillus species,no,Coprosspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,,,,432624004
 ,Cordysfar,NULL,NULL,NULL,,,,,Cordysfar,Cordyceps farinosa,Germ,Cordyceps (Isaria) farinosa,yes,Cordysfar,Cordysspe,Antibiogram,Yes,no,1,no,no,no,,,,
@@ -967,7 +967,7 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 775158,Corynmaur,Corynebacterium,auris,,,,,775158,Corynmaur,Corynebacterium auris,Germ,Corynebacterium auris,yes,Corynmaur,Corynmspe,Antibiogram,Yes,no,1,no,no,no,180,Corynebacterium spp,,413925000
 775159,Corynmaurc,Corynebacterium,auriscanis,,,,,775159,Corynmaurc,Corynebacterium auriscanis,Germ,Corynebacterium auriscanis,yes,Corynmaurc,Corynmspe,Antibiogram,Yes,no,1,no,no,no,180,Corynebacterium spp,Coryaur,424389005
 775157,Corynmauru,Corynebacterium,aurimucosum,,,,,775157,Corynmauru,Corynebacterium aurimucosum,Germ,Corynebacterium aurimucosum,yes,Corynmauru,Corynmspe,Antibiogram,Yes,no,1,no,no,no,180,Corynebacterium spp,Coryau,385503009
-,Corynmbel,NULL,NULL,NULL,,,,,Corynmbel,Corynebacterium belfanti,Germ,Corynebacterium belfantii,yes,Corynmbel,Corynmdip,Antibiogram,Yes,no,1,no,no,no,180,Corynebacterium spp,,
+798019,Corynmbel,NULL,NULL,NULL,,,,,Corynmbel,Corynebacterium belfanti,Germ,Corynebacterium belfantii,yes,Corynmbel,Corynmdip,Antibiogram,Yes,no,1,no,no,no,440,Corynebacterium diphtheriae CLSI M45A,,
 775164,Corynmbov,Corynebacterium,bovis,,,,,775164,Corynmbov,Corynebacterium bovis,Germ,Corynebacterium bovis,yes,Corynmbov,Corynmspe,Antibiogram,Yes,no,1,no,no,no,180,Corynebacterium spp,Corybo,44885001
 775165,Corynmcal,Corynebacterium,callunae,,,,,775165,Corynmcal,Corynebacterium callunae,Germ,Corynebacterium callunae,yes,Corynmcal,Corynmspe,Antibiogram,Yes,no,1,no,no,no,180,Corynebacterium spp,,88866008
 775166,Corynmcam,Corynebacterium,camporealensis,,,,,775166,Corynmcam,Corynebacterium camporealensis,Germ,Corynebacterium camporealensis,yes,Corynmcam,Corynmspe,Antibiogram,Yes,no,1,no,no,no,180,Corynebacterium spp,,424560007
@@ -977,7 +977,7 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 775174,Corynmcon,Corynebacterium,confusum,,,,,775174,Corynmcon,Corynebacterium confusum,Germ,Corynebacterium confusum,yes,Corynmcon,Corynmspe,Antibiogram,Yes,no,1,no,no,no,180,Corynebacterium spp,Corycon,417134008
 775175,Corynmcoy,Corynebacterium,coyleae,,,,,775175,Corynmcoy,Corynebacterium coyleae,Germ,Corynebacterium coyleae,yes,Corynmcoy,Corynmspe,Antibiogram,Yes,no,1,no,no,no,180,Corynebacterium spp,Coryco,116461008
 775177,Corynmcys,Corynebacterium,cystitidis,,,,,775177,Corynmcys,Corynebacterium cystitidis,Germ,Corynebacterium cystitidis,yes,Corynmcys,Corynmspe,Antibiogram,Yes,no,1,no,no,no,180,Corynebacterium spp,,50169005
-775178,Corynmdip,Corynebacterium,diphtheriae,,,,,775178,Corynmdip,Corynebacterium diphtheriae,Germ,Corynebacterium diphtheriae ssp. diphtheriae,yes,Corynmdip,Corynmspe,Antibiogram,Yes,no,1,no,no,no,440,Corynebacterium diphtheriae CLSI M45A,Corydi,5851001
+775178,Corynmdip,Corynebacterium,diphtheriae,,,,,775178,Corynmdip,Corynebacterium diphtheriae,Germ,Corynebacterium diphtheriae ssp. diphtheriae,yes,Corynmdip,Corynmspe,Antibiogram,Yes,no,1,no,no,no,?,?,Corydi,5851001
 ,Corynmdip-g,NULL,NULL,NULL,,,,,Corynmdip-g,Corynebacterium diphtheriae - gravis,Germ,Corynebacterium diphtheriae ssp. diphtheriae,yes,Corynmdip-g,Corynmdip,Antibiogram,Yes,no,1,no,no,no,440,Corynebacterium diphtheriae CLSI M45A,,83675005
 ,Corynmdip-m,NULL,NULL,NULL,,,,,Corynmdip-m,Corynebacterium diphtheriae - mitis,Germ,Corynebacterium diphtheriae ssp. diphtheriae,yes,Corynmdip-m,Corynmdip,Antibiogram,Yes,no,1,no,no,no,440,Corynebacterium diphtheriae CLSI M45A,,13755001
 788170,Corynmdoo,Corynebacterium,doosanense,,,,,788170,Corynmdoo,Corynebacterium doosanense,Germ,Corynebacterium doosanense,yes,Corynmdoo,Corynmspe,Antibiogram,Yes,no,1,no,no,no,180,Corynebacterium spp,Corydo,
@@ -1027,7 +1027,7 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 775260,Corynmtho,Corynebacterium,thomssenii,,,,,775260,Corynmtho,Corynebacterium thomssenii,Germ,Corynebacterium thomssenii,yes,Corynmtho,Corynmspe,Antibiogram,Yes,no,1,no,no,no,180,Corynebacterium spp,,416311000
 775262,Corynmtub,Corynebacterium,tuberculostearicum,,,,,775262,Corynmtub,Corynebacterium tuberculostearicum,Germ,Corynebacterium tuberculostearicum,yes,Corynmtub,Corynmspe,Antibiogram,Yes,no,1,no,no,no,180,Corynebacterium spp,,416356007
 785465,Corynmtus,Corynebacterium,tuscaniense,,,,,785465,Corynmtus,Corynebacterium tuscaniense,Germ,Corynebacterium tuscaniense,yes,Corynmtus,Corynmspe,Antibiogram,Yes,no,1,no,no,no,180,Corynebacterium spp,Coryts,450409000
-775264,Corynmulc,Corynebacterium,ulcerans,,,,,775264,Corynmulc,Corynebacterium ulcerans,Germ,Corynebacterium ulcerans,yes,Corynmulc,Corynmspe,Antibiogram,Yes,no,1,no,no,no,180,Corynebacterium spp,Coryul,103428000
+775264,Corynmulc,Corynebacterium,ulcerans,,,,,775264,Corynmulc,Corynebacterium ulcerans,Germ,Corynebacterium ulcerans,yes,Corynmulc,Corynmspe,Antibiogram,Yes,no,1,no,no,no,440,Corynebacterium diphtheriae CLSI M45A,Coryul,103428000
 775266,Corynmure,Corynebacterium,urealyticum,,,,,775266,Corynmure,Corynebacterium urealyticum,Germ,Corynebacterium urealyticum,yes,Corynmure,Corynmspe,Antibiogram,Yes,no,1,no,no,no,180,Corynebacterium spp,Coryur,113613004
 785382,Corynmurei,Corynebacterium,ureicelerivorans,,,,,785382,Corynmurei,Corynebacterium ureicelerivorans,Germ,Corynebacterium ureicelerivorans,yes,Corynmurei,Corynmspe,Antibiogram,Yes,no,1,no,no,no,180,Corynebacterium spp,Coryuv,429443001
 775267,Corynmvar,Corynebacterium,variabile,,,,,775267,Corynmvar,Corynebacterium variabile,Germ,Corynebacterium variabile,yes,Corynmvar,Corynmspe,Antibiogram,Yes,no,1,no,no,no,180,Corynebacterium spp,,11575001
@@ -1081,7 +1081,7 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 794765,Cutibmacn,Cutibacterium,acnes,,,,,794765,Cutibmacn,Cutibacterium acnes,Germ,Cutibacterium acnes,no,Cutibmacn,Cutibmspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,,
 794766,Cutibmavi,Cutibacterium,avidum,,,,,794766,Cutibmavi,Cutibacterium avidum,Germ,Cutibacterium avidum,no,Cutibmavi,Cutibmspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,,
 794767,Cutibmgra,Cutibacterium,granulosum,,,,,794767,Cutibmgra,Cutibacterium granulosum,Germ,Cutibacterium granulosum,no,Cutibmgra,Cutibmspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,,
-519072,Cutibmspe,Cutibacterium,,,,,,519072,Cutibmspe,Cutibacterium species,Germ,Cutibacterium species,?,Cutibmspe,Gramposstaaf,,,,,,,,240,Gram positieve anaeroben,,
+519072,Cutibmspe,Cutibacterium,,,,,,519072,Cutibmspe,Cutibacterium species,Germ,Cutibacterium species,no,Cutibmspe,Gramposstaaf,,,,,,,,240,Gram positieve anaeroben,,
 ,Cutnnjir,NULL,NULL,NULL,,,,,Cutnnjir,Cutaneotrichosporon jirovecii,Germ,Cutaneotrichosporon jirovecii,yes,Cutnnjir,Cutannspe,Antibiogram,Yes,no,1,no,no,no,,,,
 ,Cyberafab,NULL,NULL,NULL,,,534382,,Cyberafab,Cyberlindnera fabianii,Germ,Cyberlindnera fabianii (Candida fabianii),yes,Cyberafab,Cyberaspe,Antibiogram,Yes,no,1,no,no,no,,,Cybefa,10151000087104
 ,Cyberajad,NULL,NULL,NULL,,,,,Cyberajad,Cyberlindnera jadinii,Germ,Cyberlindnera jadinii (Candida utilis),yes,Cyberajad,Cyberaspe,Antibiogram,Yes,no,1,no,no,no,,,,4281000146108
@@ -1163,12 +1163,12 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 775881,Edwaraict,Edwardsiella,ictaluri,,,,,775881,Edwaraict,Edwardsiella ictaluri,Germ,Edwardsiella ictaluri,yes,Edwaraict,Edwaraspe,Antibiogram,Yes,no,1,no,no,no,10,Enterobacterales,Edwaic,68227003
 515566,Edwaraspe,Edwardsiella,,,,,,515566,Edwaraspe,Edwardsiella species,Germ,Edwardsiella species,yes,Edwaraspe,Hafniaceae,Antibiogram,Yes,no,1,no,no,no,10,Enterobacterales,,14566004
 775882,Edwaratar,Edwardsiella,tarda,,,,,775882,Edwaratar,Edwardsiella tarda,Germ,Edwardsiella tarda,yes,Edwaratar,Edwaraspe,Antibiogram,Yes,no,1,no,no,no,10,Enterobacterales,Edwata,74672006
-789495,Eggeracat,Eggerthia,catenaformis,,,,,789495,Eggeracat,Eggerthia catenaformis,Germ,Eggerthia catenaformis,no,Eggeracat,Eggeraspe,Antibiogram,Yes,no,1,no,no,no,,,,59836004
+789495,Eggeracat,Eggerthia,catenaformis,,,,,789495,Eggeracat,Eggerthia catenaformis,Germ,Eggerthia catenaformis,no,Eggeracat,Eggeraspe,Antibiogram,Yes,no,1,no,no,no,240.02,Lactobacillus sp.,,59836004
 518138,Eggeraspe,Eggerthia,,,,,,518138,Eggeraspe,Eggerthia species,Germ,Eggerthia species,no,Eggeraspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,,,,7991000146108
 775884,Eggerelen,Eggerthella,lenta,,,,,775884,Eggerelen,Eggerthella lenta,Germ,Eggerthella lenta,no,Eggerelen,Eggerespe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,Eggele,414077004
 515567,Eggerespe,Eggerthella,,,,,,515567,Eggerespe,Eggerthella species,Germ,Eggerthella species,no,Eggerespe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,,,,414075007
-775886,Eikenacor,Eikenella,corrodens,,,,,775886,Eikenacor,Eikenella corrodens,Germ,Eikenella corrodens,yes,Eikenacor,Eikenaspe,Antibiogram,Yes,no,1,no,no,no,460,HACEK m.u.v. Kingella kingae CLSI M45A,Eikeco,52591004
-515568,Eikenaspe,Eikenella,,,,,,515568,Eikenaspe,Eikenella species,Germ,Eikenella species,yes,Eikenaspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,460,HACEK m.u.v. Kingella kingae CLSI M45A,Eikesp,4346009
+775886,Eikenacor,Eikenella,corrodens,,,,,775886,Eikenacor,Eikenella corrodens,Germ,Eikenella corrodens,yes,Eikenacor,Eikenaspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Eikeco,52591004
+515568,Eikenaspe,Eikenella,,,,,,515568,Eikenaspe,Eikenella species,Germ,Eikenella species,yes,Eikenaspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Eikesp,4346009
 775890,Elizaamen,Elizabethkingia,meningoseptica,,,,,775890,Elizaamen,Elizabethkingia meningoseptica,Germ,Elizabethkingia meningoseptica,yes,Elizaamen,Elizaaspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,,425774009
 775891,Elizaamir,Elizabethkingia,miricola,,,,,775891,Elizaamir,Elizabethkingia miricola,Germ,Elizabethkingia miricola,yes,Elizaamir,Elizaaspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Elizmi,444815005
 515572,Elizaaspe,Elizabethkingia,,,,,,515572,Elizaaspe,Elizabethkingia species,Germ,Elizabethkingia species,yes,Elizaaspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Elizsp,426244005
@@ -1179,7 +1179,7 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 ,Endolxnan-cyst,NULL,NULL,NULL,,,,,Endolxnan-cyst,Endolimax nana cyste,Parasite,Endolimax nana cyst,yes,Endolxnan-cyst,Endolxnan,Antibiogram,Yes,no,1,no,no,no,,,,609304001
 ,Endolxnan-troph,NULL,NULL,NULL,,,,,Endolxnan-troph,Endolimax nana trophozoeit,Parasite,Endolimax nana trophozoiet,yes,Endolxnan-troph,Endolxnan,Antibiogram,Yes,no,1,no,no,no,,,,609303007
 ,Endolxspe,NULL,NULL,NULL,,,,,Endolxspe,Endolimax species,Parasite,Endolimax species,yes,Endolxspe,Parasiet,Antibiogram,Yes,no,1,no,no,no,,,,75866001
-775918,Enhydraer,Enhydrobacter,aerosaccus,,,,,775918,Enhydraer,Enhydrobacter aerosaccus,Germ,Enhydrobacter aerosaccus,yes,Enhydraer,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,,,Enhyae,
+775918,Enhydraer,Enhydrobacter,aerosaccus,,,,,775918,Enhydraer,Enhydrobacter aerosaccus,Germ,Enhydrobacter aerosaccus,yes,Enhydraer,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Enhyae,
 ,Entamacol,NULL,NULL,NULL,,,,,Entamacol,Entamoeba coli,Parasite,Entamoeba coli,yes,Entamacol,Entamaspe,Antibiogram,Yes,no,1,no,no,no,,,,79235009
 ,Entamacol-cyst,NULL,NULL,NULL,,,,,Entamacol-cyst,Entamoeba coli cyst,Parasite,Entamoeba coli cyst,yes,Entamacol-cyst,Entamacol,Antibiogram,Yes,no,1,no,no,no,,,,699408003
 ,Entamacol-troph,NULL,NULL,NULL,,,,,Entamacol-troph,Entamoeba coli trophozoite,Parasite,Entamoeba coli trophozoiet,yes,Entamacol-troph,Entamacol,Antibiogram,Yes,no,1,no,no,no,,,,699396005
@@ -1321,7 +1321,7 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 ,Filobmmag,NULL,NULL,NULL,,,,,Filobmmag,Filobasidium magnum,Germ,Filobasidium magnum (Cryptococcus magnus),yes,Filobmmag,Filobmspe,,,,,,,,,,,
 ,Filobmspe,NULL,NULL,NULL,,,,,Filobmspe,Filobasidium species,Germ,Filobasidium species,yes,Filobmspe,Schimmel,Antibiogram,Yes,no,1,no,no,no,,,,422389006
 776212,Finegamag,Finegoldia,magna,,,,,776212,Finegamag,Finegoldia magna,Germ,Finegoldia (Peptostreptococcus) magna,no,Finegamag,Finegaspe,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,Finema,417469002
-515633,Finegaspe,Finegoldia,,,,,,515633,Finegaspe,Finegoldia species,Germ,Finegoldia species,no,Finegaspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,Finesp,417248002
+515633,Finegaspe,Finegoldia,,,,,,515633,Finegaspe,Finegoldia species,Germ,Finegoldia species,no,Finegaspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,Finesp,417248002
 789941,Flavomara,Flavobacterium,araucananum,,,,,789941,Flavomara,Flavobacterium araucananum,Germ,Flavobacterium araucananum,yes,Flavomara,Flavomspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,,20021000146103
 776236,Flavomfle,Flavobacterium,flevense,,,,,776236,Flavomfle,Flavobacterium flevense,Germ,Flavobacterium flevense,yes,Flavomfle,Flavomspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,,113745004
 776241,Flavomgel,Flavobacterium,gelidilacus,,,,,776241,Flavomgel,Flavobacterium gelidilacus,Germ,Flavobacterium gelidilacus,yes,Flavomgel,Flavomspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,,432964002
@@ -1340,8 +1340,8 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 788422,Flavorpla,Flavonifractor,plautii,,,,,788422,Flavorpla,Flavonifractor plautii,Germ,Flavonifractor plautii,no,Flavorpla,Flavorspe,Antibiogram,Yes,no,1,no,no,no,,,Flafpl,447490001
 517953,Flavorspe,Flavonifractor,,,,,,517953,Flavorspe,Flavonifractor species,Germ,Flavonifractor species,no,Flavorspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,,,,447035004
 776319,Francaphi,Francisella,philomiragia,,,,,776319,Francaphi,Francisella philomiragia,Germ,Francisella philomiragia,yes,Francaphi,Francaspe,Antibiogram,Yes,no,1,no,no,no,,,,113756004
-515653,Francaspe,Francisella,,,,,,515653,Francaspe,Francisella species,Germ,Francisella species,yes,Francaspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,,,,50255000
-783871,Francatul,Francisella,tularensis,,,,,783871,Francatul,Francisella tularensis,Germ,Francisella tularensis,yes,Francatul,Francaspe,Antibiogram,Yes,no,1,no,no,no,,,Frantu,51526001
+515653,Francaspe,Francisella,,,,,,515653,Francaspe,Francisella species,Germ,Francisella species,yes,Francaspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,?,,,50255000
+783871,Francatul,Francisella,tularensis,,,,,783871,Francatul,Francisella tularensis,Germ,Francisella tularensis,yes,Francatul,Francaspe,Antibiogram,Yes,no,1,no,no,no,?,,Frantu,51526001
 14816,Frediahum,Fredinandcohnia,humi,,,,,14816,Frediahum,Fredinandcohnia humi,Germ,Fredinandcohnia (Bacillus) humi,yes,Frediahum,Frediaspe,Antibiogram,Yes,no,1,no,no,no,,,,
 ,Frediaspe,NULL,NULL,NULL,,,,,Frediaspe,Fredinandcohnia (Bacillus) species,Germ,Fredinandcohnia (Bacillus) species,?,Frediaspe,Gramposstaaf,,,,,,,,,,,
 515657,Frigomspe,Frigoribacterium,,,,,,515657,Frigomspe,Frigoribacterium species,Germ,Frigoribacterium species,?,Frigomspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,,,Frigsp,432344004
@@ -1387,10 +1387,10 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 776427,Gardnavag,Gardnerella,vaginalis,,,,,776427,Gardnavag,Gardnerella vaginalis,Germ,Gardnerella vaginalis,yes,Gardnavag,Gardnaspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,Gardva,64071004
 783897,Gemelaber,Gemella,bergeri,,,,,783897,Gemelaber,Gemella bergeri,Germ,Gemella bergeri,yes,Gemelaber,Gemelaspe,Antibiogram,Yes,no,1,no,no,no,,,,131310006
 776433,Gemelacun,Gemella,cuniculi,,,,,776433,Gemelacun,Gemella cuniculi,Germ,Gemella cuniculi,yes,Gemelacun,Gemelaspe,Antibiogram,Yes,no,1,no,no,no,,,,431636007
-783898,Gemelahae,Gemella,haemolysans,,,,,783898,Gemelahae,Gemella haemolysans,Germ,Gemella haemolysans,yes,Gemelahae,Gemelaspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Gemeha,37511002
-776434,Gemelamor,Gemella,morbillorum,,,,,776434,Gemelamor,Gemella morbillorum,Germ,Gemella morbillorum,yes,Gemelamor,Gemelaspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Gememo,113765006
-783900,Gemelasan,Gemella,sanguinis,,,,,783900,Gemelasan,Gemella sanguinis,Germ,Gemella sanguinis,yes,Gemelasan,Gemelaspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Gemesa,125038007
-515682,Gemelaspe,Gemella,,,,,,515682,Gemelaspe,Gemella species,Germ,Gemella species,yes,Gemelaspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Gemesp,11590002
+783898,Gemelahae,Gemella,haemolysans,,,,,783898,Gemelahae,Gemella haemolysans,Germ,Gemella haemolysans,yes,Gemelahae,Gemelaspe,Antibiogram,Yes,no,1,no,no,no,?,?,Gemeha,37511002
+776434,Gemelamor,Gemella,morbillorum,,,,,776434,Gemelamor,Gemella morbillorum,Germ,Gemella morbillorum,yes,Gemelamor,Gemelaspe,Antibiogram,Yes,no,1,no,no,no,?,?,Gememo,113765006
+783900,Gemelasan,Gemella,sanguinis,,,,,783900,Gemelasan,Gemella sanguinis,Germ,Gemella sanguinis,yes,Gemelasan,Gemelaspe,Antibiogram,Yes,no,1,no,no,no,?,?,Gemesa,125038007
+515682,Gemelaspe,Gemella,,,,,,515682,Gemelaspe,Gemella species,Germ,Gemella species,yes,Gemelaspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,?,?,Gemesp,11590002
 776445,Geobaskau,Geobacillus,kaustophilus,,,,,776445,Geobaskau,Geobacillus kaustophilus,Germ,Geobacillus kaustophilus,?,Geobaskau,Geobasspe,Antibiogram,Yes,no,1,no,no,no,,,,433613007
 517040,Geobasspe,Geobacillus,,,,,,517040,Geobasspe,Geobacillus species,Germ,Geobacillus species,?,Geobasspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,,,,432566007
 776449,Geobasste,Geobacillus,stearothermophilus,,,,,776449,Geobasste,Geobacillus stearothermophilus,Germ,Geobacillus stearothermophilus,?,Geobasste,Geobasspe,Antibiogram,Yes,no,1,no,no,no,,,,433616004
@@ -1414,9 +1414,9 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 798107,Gleimaeur,Gleimia,europaea,,,,,798107,Gleimaeur,Gleimia europaea,Germ,Gleimia (Actinomyces) europaea,no,Gleimaeur,Gleimaspe,Antibiogram,Yes,no,1,no,no,no,,,,
 798110,Gleimahom,Gleimia,hominis,,,,,798110,Gleimahom,Gleimia hominis,Germ,Gleimia (Actinomyces) hominis,no,Gleimahom,Gleimaspe,Antibiogram,Yes,no,1,no,no,no,,,,
 520433,Gleimaspe,Gleimia,,,,,,520433,Gleimaspe,Gleimia species,Germ,Gleimia (Actinomyces) species,?,Gleimaspe,Gramposstaaf,,,,,,,,,,,
-776521,Globiasan,Globicatella,sanguinis,,,,,776521,Globiasan,Globicatella sanguinis,Germ,Globicatella sanguinis,yes,Globiasan,Globiaspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Globsa,414345009
-515707,Globiaspe,Globicatella,,,,,,515707,Globiaspe,Globicatella species,Germ,Globicatella species,yes,Globiaspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Globsp,414344008
-776522,Globiasul,Globicatella,sulfidifaciens,,,,,776522,Globiasul,Globicatella sulfidifaciens,Germ,Globicatella sulfidifaciens,yes,Globiasul,Globiaspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,,414347001
+776521,Globiasan,Globicatella,sanguinis,,,,,776521,Globiasan,Globicatella sanguinis,Germ,Globicatella sanguinis,yes,Globiasan,Globiaspe,Antibiogram,Yes,no,1,no,no,no,?,?,Globsa,414345009
+515707,Globiaspe,Globicatella,,,,,,515707,Globiaspe,Globicatella species,Germ,Globicatella species,yes,Globiaspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,?,?,Globsp,414344008
+776522,Globiasul,Globicatella,sulfidifaciens,,,,,776522,Globiasul,Globicatella sulfidifaciens,Germ,Globicatella sulfidifaciens,yes,Globiasul,Globiaspe,Antibiogram,Yes,no,1,no,no,no,?,?,,414347001
 776550,Glucorcer,Gluconobacter,cerinus,,,,,776550,Glucorcer,Gluconobacter cerinus,Germ,Gluconobacter cerinus,?,Glucorcer,Glucorspe,Antibiogram,Yes,no,1,no,no,no,,,,433838004
 776553,Glucoroxy,Gluconobacter,oxydans,,,,,776553,Glucoroxy,Gluconobacter oxydans,Germ,Gluconobacter oxydans,?,Glucoroxy,Glucorspe,Antibiogram,Yes,no,1,no,no,no,,,,431639000
 515714,Glucorspe,Gluconobacter,,,,,,515714,Glucorspe,Gluconobacter species,Germ,Gluconobacter species,?,Glucorspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,,,,396954007
@@ -1448,24 +1448,24 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 ,Gramnegstaaf,NULL,NULL,NULL,,,,,Gramnegstaaf,Gram negatieve staaf,Germ,Gram negatieve staaf,?,Gramnegstaaf,Bacterie,Antibiogram,Yes,no,1,no,no,no,,,Gramne,0
 ,Gramposcoc,NULL,NULL,NULL,,,,,Gramposcoc,Gram positieve coc,Germ,Gram positieve coc,?,Gramposcoc,Bacterie,Antibiogram,Yes,no,1,no,no,no,,,Grampc,0
 ,Gramposstaaf,NULL,NULL,NULL,,,,,Gramposstaaf,Gram positieve staaf,Germ,Gram positieve staaf,?,Gramposstaaf,Bacterie,Antibiogram,Yes,no,1,no,no,no,,,Gramps,0
-776611,Granuaadi,Granulicatella,adiacens,,,,,776611,Granuaadi,Granulicatella adiacens,Germ,Granulicatella adiacens,?,Granuaadi,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,450,Abiotrophia en Granulicatella CLSI M45A,Granad,113713009
-776612,Granuabal,Granulicatella,balaenopterae,,,,,776612,Granuabal,Granulicatella balaenopterae,Germ,Granulicatella balaenopterae,?,Granuabal,Granuaspe,Antibiogram,Yes,no,1,no,no,no,450,Abiotrophia en Granulicatella CLSI M45A,,431281004
-776613,Granuaele,Granulicatella,elegans,,,,,776613,Granuaele,Granulicatella elegans,Germ,Granulicatella elegans,?,Granuaele,Granuaspe,Antibiogram,Yes,no,1,no,no,no,450,Abiotrophia en Granulicatella CLSI M45A,Granel,115944008
-515722,Granuaspe,Granulicatella,,,,,,515722,Granuaspe,Granulicatella species,Germ,Granulicatella species,?,Granuaspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,450,Abiotrophia en Granulicatella CLSI M45A,Gransp,409814005
+776611,Granuaadi,Granulicatella,adiacens,,,,,776611,Granuaadi,Granulicatella adiacens,Germ,Granulicatella adiacens,?,Granuaadi,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,?,?,Granad,113713009
+776612,Granuabal,Granulicatella,balaenopterae,,,,,776612,Granuabal,Granulicatella balaenopterae,Germ,Granulicatella balaenopterae,?,Granuabal,Granuaspe,Antibiogram,Yes,no,1,no,no,no,?,?,,431281004
+776613,Granuaele,Granulicatella,elegans,,,,,776613,Granuaele,Granulicatella elegans,Germ,Granulicatella elegans,?,Granuaele,Granuaspe,Antibiogram,Yes,no,1,no,no,no,?,?,Granel,115944008
+515722,Granuaspe,Granulicatella,,,,,,515722,Granuaspe,Granulicatella species,Germ,Granulicatella species,?,Granuaspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,?,?,Gransp,409814005
 ,Graphmspe,NULL,NULL,NULL,,,,,Graphmspe,Graphium species,Germ,Graphium species,yes,Graphmspe,Schimmel,Antibiogram,Yes,no,1,no,no,no,,,Grapsp,21755009
-776622,Grimoahol,Grimontia,hollisae,,,,,776622,Grimoahol,Grimontia hollisae,Germ,Grimontia (Vibrio) hollisae,?,Grimoahol,Grimoaspe,Antibiogram,Yes,no,1,no,no,no,480,Vibrio CLSI M45A,,433669003
+776622,Grimoahol,Grimontia,hollisae,,,,,776622,Grimoahol,Grimontia hollisae,Germ,Grimontia (Vibrio) hollisae,?,Grimoahol,Grimoaspe,Antibiogram,Yes,no,1,no,no,no,?,?,,433669003
 515729,Grimoaspe,Grimontia,,,,,,515729,Grimoaspe,Grimontia species,Germ,Grimontia species,?,Grimoaspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,,,,431444000
 517738,Haemarspe,Haematobacter,,,,,,517738,Haemarspe,Haematobacter species,Germ,Haematobacter species,yes,Haemarspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,,,Haebsp,
-776643,Haemosduc,Haemophilus,ducreyi,,,,,776643,Haemosduc,Haemophilus ducreyi,Germ,Haemophilus ducreyi,yes,Haemosduc,Haemosspe,Antibiogram,Yes,no,1,no,no,no,,,Haemdu,64889004
-783938,Haemoshae,Haemophilus,haemoglobinophilus,,,,,783938,Haemoshae,Haemophilus haemoglobinophilus,Germ,Haemophilus haemoglobinophilus,yes,Haemoshae,Haemosspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Haemha,72339004
-783939,Haemoshael,Haemophilus,haemolyticus,,,,,783939,Haemoshael,Haemophilus haemolyticus,Germ,Haemophilus haemolyticus,yes,Haemoshael,Haemosspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Haemhm,54950008
+776643,Haemosduc,Haemophilus,ducreyi,,,,,776643,Haemosduc,Haemophilus ducreyi,Germ,Haemophilus ducreyi,yes,Haemosduc,Haemosspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Haemdu,64889004
+783938,Haemoshae,Haemophilus,haemoglobinophilus,,,,,783938,Haemoshae,Haemophilus haemoglobinophilus,Germ,Haemophilus haemoglobinophilus,yes,Haemoshae,Haemosspe,Antibiogram,Yes,no,1,no,no,no,90,Haemophilus influenzae,Haemha,72339004
+783939,Haemoshael,Haemophilus,haemolyticus,,,,,783939,Haemoshael,Haemophilus haemolyticus,Germ,Haemophilus haemolyticus,yes,Haemoshael,Haemosspe,Antibiogram,Yes,no,1,no,no,no,90,Haemophilus influenzae,Haemhm,54950008
 776645,Haemosinf,Haemophilus,influenzae,,,,,776645,Haemosinf,Haemophilus influenzae,Germ,Haemophilus influenzae,yes,Haemosinf,Haemosspe,Antibiogram,Yes,no,1,no,no,no,90,Haemophilus influenzae,Haemin,44470000
-776646,Haemospar,Haemophilus,parahaemolyticus,,,,,776646,Haemospar,Haemophilus parahaemolyticus,Germ,Haemophilus parahaemolyticus,yes,Haemospar,Haemosspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Haempc,89800007
+776646,Haemospar,Haemophilus,parahaemolyticus,,,,,776646,Haemospar,Haemophilus parahaemolyticus,Germ,Haemophilus parahaemolyticus,yes,Haemospar,Haemosspe,Antibiogram,Yes,no,1,no,no,no,90,Haemophilus influenzae,Haempc,89800007
 776647,Haemospari,Haemophilus,parainfluenzae,,,,,776647,Haemospari,Haemophilus parainfluenzae,Germ,Haemophilus parainfluenzae,yes,Haemospari,Haemosspe,Antibiogram,Yes,no,1,no,no,no,90,Haemophilus influenzae,Haempa,51593004
-783942,Haemosparp,Haemophilus,paraphrohaemolyticus,,,,,783942,Haemosparp,Haemophilus paraphrohaemolyticus,Germ,Haemophilus paraphrohaemolyticus,yes,Haemosparp,Haemosspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Haempp,83899007
-776648,Haemospit,Haemophilus,pittmaniae,,,,,776648,Haemospit,Haemophilus pittmaniae,Germ,Haemophilus pittmaniae,yes,Haemospit,Haemosspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Haempi,432919004
-515740,Haemosspe,Haemophilus,,,,,,515740,Haemosspe,Haemophilus species,Germ,Haemophilus species,yes,Haemosspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Haemsp,71268004
-789886,Haemosspu,Haemophilus,sputorum,,,,,789886,Haemosspu,Haemophilus sputorum,Germ,Haemophilus sputorum,yes,Haemosspu,Haemosspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Haemspu,709678009
+783942,Haemosparp,Haemophilus,paraphrohaemolyticus,,,,,783942,Haemosparp,Haemophilus paraphrohaemolyticus,Germ,Haemophilus paraphrohaemolyticus,yes,Haemosparp,Haemosspe,Antibiogram,Yes,no,1,no,no,no,90,Haemophilus influenzae,Haempp,83899007
+776648,Haemospit,Haemophilus,pittmaniae,,,,,776648,Haemospit,Haemophilus pittmaniae,Germ,Haemophilus pittmaniae,yes,Haemospit,Haemosspe,Antibiogram,Yes,no,1,no,no,no,90,Haemophilus influenzae,Haempi,432919004
+515740,Haemosspe,Haemophilus,,,,,,515740,Haemosspe,Haemophilus species,Germ,Haemophilus species,yes,Haemosspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,90,Haemophilus influenzae,Haemsp,71268004
+789886,Haemosspu,Haemophilus,sputorum,,,,,789886,Haemosspu,Haemophilus sputorum,Germ,Haemophilus sputorum,yes,Haemosspu,Haemosspe,Antibiogram,Yes,no,1,no,no,no,90,Haemophilus influenzae,Haemspu,709678009
 776651,Hafniaalv,Hafnia,alvei,,,,,776651,Hafniaalv,Hafnia alvei,Germ,Hafnia alvei,yes,Hafniaalv,Hafniaspe,Antibiogram,Yes,no,1,no,no,no,10.07,Hafnia alvei,Hafnal,76694001
 2055,Hafniaceae,NULL,NULL,NULL,,,,2055,Hafniaceae,Hafniaceae,Germ,Familie Hafniaceae,?,Hafniaceae,Entebales,,,,,,,,,,,
 515741,Hafniaspe,Hafnia,,,,,,515741,Hafniaspe,Hafnia species,Germ,Hafnia species,yes,Hafniaspe,Hafniaceae,Antibiogram,Yes,no,1,no,no,no,10.07,Hafnia alvei,Hafnsp,20523001
@@ -1501,7 +1501,7 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 ,Hanseauva,NULL,NULL,NULL,,,,,Hanseauva,Hanseniaspora uvarum,Germ,Hanseniaspora uvarum,yes,Hanseauva,Hanseaspe,Antibiogram,Yes,no,1,no,no,no,,,Hansuv,699750004
 793805,Hatheahis,Hathewaya,histolytica,,,,,793805,Hatheahis,Hathewaya histolytica,Germ,Hathewaya histolytica (Clostridium histolyticum),no,Hatheahis,Hawataspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,,87443003
 793806,Hathealim,Hathewaya,limosa,,,,,793806,Hathealim,Hathewaya limosa,Germ,Hathewaya limosa (Clostridium limosum),no,Hathealim,Hawataspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,Hathli,48305001
-518884,Hawataspe,Hathewaya,,,,,,518884,Hawataspe,Hathewaya species,Germ,Hathewaya (Clostridium) species,?,Hawataspe,Gramposstaaf,,,,,,,,240,Gram positieve anaeroben,,
+518884,Hawataspe,Hathewaya,,,,,,518884,Hawataspe,Hathewaya species,Germ,Hathewaya (Clostridium) species,no,Hawataspe,Gramposstaaf,,,,,,,,240,Gram positieve anaeroben,,
 776862,Helcoskun,Helcococcus,kunzii,,,,,776862,Helcoskun,Helcococcus kunzii,Germ,Helcococcus kunzii,yes,Helcoskun,Helcosspe,Antibiogram,Yes,no,1,no,no,no,,,Helcku,127527002
 776863,Helcosovi,Helcococcus,ovis,,,,,776863,Helcosovi,Helcococcus ovis,Germ,Helcococcus ovis,yes,Helcosovi,Helcosspe,Antibiogram,Yes,no,1,no,no,no,,,,432570004
 515783,Helcosspe,Helcococcus,,,,,,515783,Helcosspe,Helcococcus species,Germ,Helcococcus species,yes,Helcosspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,,,Helcsp,127526006
@@ -1538,7 +1538,7 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 784016,Histossom,Histophilus,somni,,,,,784016,Histossom,Histophilus somni,Germ,Histophilus somni,?,Histossom,Histosspe,Antibiogram,Yes,no,1,no,no,no,,,,433940005
 517249,Histosspe,Histophilus,,,,,,517249,Histosspe,Histophilus species,Germ,Histophilus species,?,Histosspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,,,,432186000
 791622,Hungaahat,Hungatella,hathewayi,,,,,791622,Hungaahat,Hungatella hathewayi,Germ,Hungatella (Clostridium) hathewayi,no,Hungaahat,Hungaaspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,,416526002
-518513,Hungaaspe,Hungatella,,,,,,518513,Hungaaspe,Hungetella species,Germ,Hungatella (Clostridium) species,?,Hungaaspe,Gramposstaaf,,,,,,,,240,Gram positieve anaeroben,,
+518513,Hungaaspe,Hungatella,,,,,,518513,Hungaaspe,Hungetella species,Germ,Hungatella (Clostridium) species,no,Hungaaspe,Gramposstaaf,,,,,,,,240,Gram positieve anaeroben,,
 776945,Hydroafla,Hydrogenophaga,flava,,,,,776945,Hydroafla,Hydrogenophaga flava,Germ,Hydrogenophaga flava,?,Hydroafla,Hydroaspe,Antibiogram,Yes,no,1,no,no,no,,,,113691001
 776948,Hydroapse,Hydrogenophaga,pseudoflava,,,,,776948,Hydroapse,Hydrogenophaga pseudoflava,Germ,Hydrogenophaga pseudoflava,?,Hydroapse,Hydroaspe,Antibiogram,Yes,no,1,no,no,no,,,,113693003
 515823,Hydroaspe,Hydrogenophaga,,,,,,515823,Hydroaspe,Hydrogenophaga species,Germ,Hydrogenophaga species,?,Hydroaspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,,,,115155007
@@ -1598,16 +1598,16 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 ,Kazachum,NULL,NULL,NULL,,,,,Kazachum,Kazachstania humilis,Germ,Kazachstania humilis (Candida humilis),yes,Kazachum,Kazacaspe,,,,,,,,,,,
 777091,Kerstagyi,Kerstersia,gyiorum,,,,,777091,Kerstagyi,Kerstersia gyiorum,Germ,Kerstersia gyiorum,?,Kerstagyi,Kerstaspe,Antibiogram,Yes,no,1,no,no,no,,,Kersgy,417628000
 515880,Kerstaspe,Kerstersia,,,,,,515880,Kerstaspe,Kerstersia species,Germ,Kerstersia species,?,Kerstaspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,,,,417655009
-777106,Kingeaden,Kingella,denitrificans,,,,,777106,Kingeaden,Kingella denitrificans,Germ,Kingella denitrificans,yes,Kingeaden,Kingeaspe,Antibiogram,Yes,no,1,no,no,no,460,HACEK m.u.v. Kingella kingae CLSI M45A,,78676004
+777106,Kingeaden,Kingella,denitrificans,,,,,777106,Kingeaden,Kingella denitrificans,Germ,Kingella denitrificans,yes,Kingeaden,Kingeaspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,,78676004
 777108,Kingeakin,Kingella,kingae,,,,,777108,Kingeakin,Kingella kingae,Germ,Kingella kingae,yes,Kingeakin,Kingeaspe,Antibiogram,Yes,no,1,no,no,no,340,Kingella kingae,Kingki,90422000
-795545,Kingeaneg,Kingella,negevensis,,,,,795545,Kingeaneg,Kingella negevensis,Germ,Kingella negevensis,yes,Kingeaneg,Kingeaspe,Antibiogram,Yes,no,1,no,no,no,460,HACEK m.u.v. Kingella kingae CLSI M45A,Kingne,
-777109,Kingeaora,Kingella,oralis,,,,,777109,Kingeaora,Kingella oralis,Germ,Kingella oralis,yes,Kingeaora,Kingeaspe,Antibiogram,Yes,no,1,no,no,no,460,HACEK m.u.v. Kingella kingae CLSI M45A,,129080004
-777110,Kingeapot,Kingella,potus,,,,,777110,Kingeapot,Kingella potus,Germ,Kingella potus,yes,Kingeapot,Kingeaspe,Antibiogram,Yes,no,1,no,no,no,460,HACEK m.u.v. Kingella kingae CLSI M45A,,423288009
-515886,Kingeaspe,Kingella,,,,,,515886,Kingeaspe,Kingella species,Germ,Kingella species,yes,Kingeaspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,460,HACEK m.u.v. Kingella kingae CLSI M45A,Kingsp,32017003
+795545,Kingeaneg,Kingella,negevensis,,,,,795545,Kingeaneg,Kingella negevensis,Germ,Kingella negevensis,yes,Kingeaneg,Kingeaspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Kingne,
+777109,Kingeaora,Kingella,oralis,,,,,777109,Kingeaora,Kingella oralis,Germ,Kingella oralis,yes,Kingeaora,Kingeaspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,,129080004
+777110,Kingeapot,Kingella,potus,,,,,777110,Kingeapot,Kingella potus,Germ,Kingella potus,yes,Kingeapot,Kingeaspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,,423288009
+515886,Kingeaspe,Kingella,,,,,,515886,Kingeaspe,Kingella species,Germ,Kingella species,yes,Kingeaspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Kingsp,32017003
 795572,Kitasaaur,Kitasatospora,aureofaciens,,,,,795572,Kitasaaur,Kitasatospora aureofaciens,Germ,Kitasatospora aureofaciens,?,Kitasaaur,Kitasaspe,Antibiogram,Yes,no,1,no,no,no,,,,
 777129,Kitasapho,Kitasatospora,phosalacinea,,,,,777129,Kitasapho,Kitasatospora phosalacinea,Germ,Kitasatospora phosalacinea,?,Kitasapho,Kitasaspe,Antibiogram,Yes,no,1,no,no,no,,,,4951000146106
 515888,Kitasaspe,Kitasatospora,,,,,,515888,Kitasaspe,Kitasatospora species,Germ,Kitasatospora species,?,Kitasaspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,,,,4651000146101
-777146,Klebsaaer,Klebsiella,aerogenes,,,,,777146,Klebsaaer,Klebsiella aerogenes,Germ,Klebsiella (Enterobacter) aerogenes,yes,Klebsaaer,Klebsaspe,Antibiogram,Yes,no,1,no,no,no,10.1,Klebsiella aerogenes,,
+777146,Klebsaaer,Klebsiella,aerogenes,,,,,777146,Klebsaaer,Klebsiella aerogenes,Germ,Klebsiella (Enterobacter) aerogenes,yes,Klebsaaer,Klebsaspe,Antibiogram,Yes,no,1,no,no,no,10.10,Klebsiella aerogenes,,
 777149,Klebsaoxy,Klebsiella,oxytoca,,,,,777149,Klebsaoxy,Klebsiella oxytoca,Germ,Klebsiella oxytoca,yes,Klebsaoxy,Klebsaspe,Antibiogram,Yes,no,1,no,no,no,10.09,Klebsiella oxytoca,Klebox,40886007
 777151,Klebsapne,Klebsiella,pneumoniae,,,,,777151,Klebsapne,Klebsiella pneumoniae,Germ,Klebsiella pneumoniae,yes,Klebsapne,Klebsaspe,Antibiogram,Yes,no,1,no,no,no,10.08,Klebsiella pneumoniae,Klebpn,56415008
 777152,Klebsapne-o,Klebsiella,pneumoniae,ozaenae,,,,777152,Klebsapne-o,Klebsiella pneumoniae - ozaenae,Germ,Klebsiella pneumoniae ssp. ozaenae,yes,Klebsapne-o,Klebsapne,Antibiogram,Yes,no,1,no,no,no,10.08,Klebsiella pneumoniae,,65186004
@@ -1658,7 +1658,7 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 5942,Lacriaalgx,Lacrimispora,algidixylanolytica,,,,,5942,Lacriaalgx,Lacrimispora algidixylanolytica,Germ,Lacrimispora algidixylanolytica (Clostridium algidixylanolyticum),no,Lacriaalgx,Lacriaspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,,
 5947,Lacriacel,Lacrimispora,celerecrescens,,,,,5947,Lacriacel,Lacrimispora celerecrescens,Germ,Lacrimispora (Clostridium) celerecrescens,no,Lacriacel,Lacriaspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,,
 5951,Lacriaind,Lacrimispora,indolis,,,,,5951,Lacriaind,Lacrimispora indolis,Germ,Lacrimispora (Clostridium) indolis,no,Lacriaind,Lacriaspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,Lacrin,
-4941,Lacriaspe,Lacrimispora,,,,,,4941,Lacriaspe,Lacrimispora species,Germ,Lacrimispora (Clostridium) species,?,Lacriaspe,Gramposstaaf,,,,,,,,240,Gram positieve anaeroben,Lacrsp,
+4941,Lacriaspe,Lacrimispora,,,,,,4941,Lacriaspe,Lacrimispora species,Germ,Lacrimispora (Clostridium) species,no,Lacriaspe,Gramposstaaf,,,,,,,,240,Gram positieve anaeroben,Lacrsp,
 5954,Lacriasph,Lacrimispora,sphenoides,,,,,5954,Lacriasph,Lacrimispora sphenoides,Germ,Lacrimispora (Clostridium) sphenoides,no,Lacriasph,Lacriaspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,,
 10711,Lacticscas,Lacticaseibacillus,casei,,,,,10711,Lacticscas,Lacticaseibacillus casei,Germ,Lacticaseibacillus (Lactobacillus) casei,no,Lacticscas,Lacticsspe,Antibiogram,Yes,no,1,no,no,no,240.02,Lactobacillus sp.,,
 10776,Lacticsman,Lacticaseibacillus,manihotivorans,,,,,10776,Lacticsman,Lacticaseibacillus manihotivorans,Germ,Lacticaseibacillus (Lactobacillus) manihotivorans,no,Lacticsman,Lacticsspe,Antibiogram,Yes,no,1,no,no,no,240.02,Lactobacillus sp.,,
@@ -1805,19 +1805,19 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 784153,Leptoawad,Leptotrichia,wadei,,,,,784153,Leptoawad,Leptotrichia wadei,Germ,Leptotrichia wadei,no,Leptoawad,Leptoaspe,Antibiogram,Yes,no,1,no,no,no,300,Gram negative anaerobes,Leptwa,433194001
 777516,Leptoxmob,Leptothrix,mobilis,,,,,777516,Leptoxmob,Leptothrix mobilis,Germ,Leptothrix mobilis,?,Leptoxmob,Leptoxspe,Antibiogram,Yes,no,1,no,no,no,,,,113818006
 515951,Leptoxspe,Leptothrix,,,,,,515951,Leptoxspe,Leptothrix species,Germ,Leptothrix species,?,Leptoxspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,,,,75280001
-777536,Leucoccar,Leuconostoc,carnosum,,,,,777536,Leucoccar,Leuconostoc carnosum,Germ,Leuconostoc carnosum,yes,Leucoccar,Leucocspe,Antibiogram,Yes,no,1,no,no,no,200,Leuconostoc spp,,113820009
-777537,Leucoccit,Leuconostoc,citreum,,,,,777537,Leucoccit,Leuconostoc citreum,Germ,Leuconostoc citreum,yes,Leucoccit,Leucocspe,Antibiogram,Yes,no,1,no,no,no,200,Leuconostoc spp,,113821008
-777546,Leucocgel,Leuconostoc,gelidum,,,,,777546,Leucocgel,Leuconostoc gelidum,Germ,Leuconostoc gelidum,yes,Leucocgel,Leucocspe,Antibiogram,Yes,no,1,no,no,no,200,Leuconostoc spp,,113823006
-787000,Leucochol,Leuconostoc,holzapfelii,,,,,787000,Leucochol,Leuconostoc holzapfelii,Germ,Leuconostoc holzapfelii,yes,Leucochol,Leucocspe,Antibiogram,Yes,no,1,no,no,no,200,Leuconostoc spp,,5161000146105
-777547,Leucocinh,Leuconostoc,inhae,,,,,777547,Leucocinh,Leuconostoc inhae,Germ,Leuconostoc inhae,yes,Leucocinh,Leucocspe,Antibiogram,Yes,no,1,no,no,no,200,Leuconostoc spp,,431295001
-777548,Leucoclac,Leuconostoc,lactis,,,,,777548,Leucoclac,Leuconostoc lactis,Germ,Leuconostoc lactis,yes,Leucoclac,Leucocspe,Antibiogram,Yes,no,1,no,no,no,200,Leuconostoc spp,Leucla,70285009
-777549,Leucocmes,Leuconostoc,mesenteroides,,,,,777549,Leucocmes,Leuconostoc mesenteroides,Germ,Leuconostoc mesenteroides,yes,Leucocmes,Leucocspe,Antibiogram,Yes,no,1,no,no,no,200,Leuconostoc spp,Leucms,71403009
-777551,Leucocmes-c,Leuconostoc,mesenteroides,cremoris,,,,777551,Leucocmes-c,Leuconostoc mesenteroides - cremoris,Germ,Leuconostoc mesenteroides,yes,Leucocmes-c,Leucocmes,Antibiogram,Yes,no,1,no,no,no,200,Leuconostoc spp,,35041008
-777552,Leucocmes-d,Leuconostoc,mesenteroides,dextranicum,,,,777552,Leucocmes-d,Leuconostoc mesenteroides - dextranicum,Germ,Leuconostoc mesenteroides,yes,Leucocmes-d,Leucocmes,Antibiogram,Yes,no,1,no,no,no,200,Leuconostoc spp,,86938009
-777553,Leucocmes-m,Leuconostoc,mesenteroides,mesenteroides,,,,777553,Leucocmes-m,Leuconostoc mesenteroides - mesenteroides,Germ,Leuconostoc mesenteroides,yes,Leucocmes-m,Leucocmes,Antibiogram,Yes,no,1,no,no,no,200,Leuconostoc spp,,67140002
-787854,Leucocpal,Leuconostoc,palmae,,,,,787854,Leucocpal,Leuconostoc palmae,Germ,Leuconostoc palmae,yes,Leucocpal,Leucocspe,Antibiogram,Yes,no,1,no,no,no,200,Leuconostoc spp,,5171000146104
-777558,Leucocpse,Leuconostoc,pseudomesenteroides,,,,,777558,Leucocpse,Leuconostoc pseudomesenteroides,Germ,Leuconostoc pseudomesenteroides,yes,Leucocpse,Leucocspe,Antibiogram,Yes,no,1,no,no,no,200,Leuconostoc spp,,243235006
-18094,Leucocspe,Leuconostoc,,,,,,18094,Leucocspe,Leuconostoc species,Germ,Leuconostoc species,yes,Leucocspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,200,Leuconostoc spp,Leucsp,43639007
+777536,Leucoccar,Leuconostoc,carnosum,,,,,777536,Leucoccar,Leuconostoc carnosum,Germ,Leuconostoc carnosum,yes,Leucoccar,Leucocspe,Antibiogram,Yes,no,1,no,no,no,?,?,,113820009
+777537,Leucoccit,Leuconostoc,citreum,,,,,777537,Leucoccit,Leuconostoc citreum,Germ,Leuconostoc citreum,yes,Leucoccit,Leucocspe,Antibiogram,Yes,no,1,no,no,no,?,?,,113821008
+777546,Leucocgel,Leuconostoc,gelidum,,,,,777546,Leucocgel,Leuconostoc gelidum,Germ,Leuconostoc gelidum,yes,Leucocgel,Leucocspe,Antibiogram,Yes,no,1,no,no,no,?,?,,113823006
+787000,Leucochol,Leuconostoc,holzapfelii,,,,,787000,Leucochol,Leuconostoc holzapfelii,Germ,Leuconostoc holzapfelii,yes,Leucochol,Leucocspe,Antibiogram,Yes,no,1,no,no,no,?,?,,5161000146105
+777547,Leucocinh,Leuconostoc,inhae,,,,,777547,Leucocinh,Leuconostoc inhae,Germ,Leuconostoc inhae,yes,Leucocinh,Leucocspe,Antibiogram,Yes,no,1,no,no,no,?,?,,431295001
+777548,Leucoclac,Leuconostoc,lactis,,,,,777548,Leucoclac,Leuconostoc lactis,Germ,Leuconostoc lactis,yes,Leucoclac,Leucocspe,Antibiogram,Yes,no,1,no,no,no,?,?,Leucla,70285009
+777549,Leucocmes,Leuconostoc,mesenteroides,,,,,777549,Leucocmes,Leuconostoc mesenteroides,Germ,Leuconostoc mesenteroides,yes,Leucocmes,Leucocspe,Antibiogram,Yes,no,1,no,no,no,?,?,Leucms,71403009
+777551,Leucocmes-c,Leuconostoc,mesenteroides,cremoris,,,,777551,Leucocmes-c,Leuconostoc mesenteroides - cremoris,Germ,Leuconostoc mesenteroides,yes,Leucocmes-c,Leucocmes,Antibiogram,Yes,no,1,no,no,no,?,?,,35041008
+777552,Leucocmes-d,Leuconostoc,mesenteroides,dextranicum,,,,777552,Leucocmes-d,Leuconostoc mesenteroides - dextranicum,Germ,Leuconostoc mesenteroides,yes,Leucocmes-d,Leucocmes,Antibiogram,Yes,no,1,no,no,no,?,?,,86938009
+777553,Leucocmes-m,Leuconostoc,mesenteroides,mesenteroides,,,,777553,Leucocmes-m,Leuconostoc mesenteroides - mesenteroides,Germ,Leuconostoc mesenteroides,yes,Leucocmes-m,Leucocmes,Antibiogram,Yes,no,1,no,no,no,?,?,,67140002
+787854,Leucocpal,Leuconostoc,palmae,,,,,787854,Leucocpal,Leuconostoc palmae,Germ,Leuconostoc palmae,yes,Leucocpal,Leucocspe,Antibiogram,Yes,no,1,no,no,no,?,?,,5171000146104
+777558,Leucocpse,Leuconostoc,pseudomesenteroides,,,,,777558,Leucocpse,Leuconostoc pseudomesenteroides,Germ,Leuconostoc pseudomesenteroides,yes,Leucocpse,Leucocspe,Antibiogram,Yes,no,1,no,no,no,?,?,,243235006
+18094,Leucocspe,Leuconostoc,,,,,,18094,Leucocspe,Leuconostoc species,Germ,Leuconostoc species,yes,Leucocspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,?,?,Leucsp,43639007
 786950,Leucorchi,Leucobacter,chironomi,,,,,786950,Leucorchi,Leucobacter chironomi,Germ,Leucobacter chironomi,yes,Leucorchi,Leucorspe,Antibiogram,Yes,no,1,no,no,no,,,,5141000146109
 789782,Leucorden,Leucobacter,denitrificans,,,,,789782,Leucorden,Leucobacter denitrificans,Germ,Leucobacter denitrificans,yes,Leucorden,Leucorspe,Antibiogram,Yes,no,1,no,no,no,,,,5151000146107
 515956,Leucorspe,Leucobacter,,,,,,515956,Leucorspe,Leucobacter species,Germ,Leucobacter species,yes,Leucorspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,,,,433196004
@@ -1888,13 +1888,13 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 518218,Lonsdaspe,Lonsdalea,,,,,,518218,Lonsdaspe,Lonsdalea species,Germ,Lonsdalea species,yes,Lonsdaspe,Entbactceae,,,,,,,,,,,
 777607,Luteirrhi,Luteibacter,rhizovicinus,,,,,777607,Luteirrhi,Luteibacter rhizovicinus,Germ,Luteibacter rhizovicinus,yes,Luteirrhi,Luteirspe,Antibiogram,Yes,no,1,no,no,no,,,,5181000146102
 515981,Luteirspe,Luteibacter,,,,,,515981,Luteirspe,Luteibacter species,Germ,Luteibacter species,yes,Luteirspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,,,,4681000146106
-786255,Lysinsbor,Lysinibacillus,boronitolerans,,,,,786255,Lysinsbor,Lysinibacillus boronitolerans,Germ,Lysinibacillus boronitolerans,?,Lysinsbor,Lysinsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Lysibo,445654004
-791127,Lysinscon,Lysinibacillus,contaminans,,,,,791127,Lysinscon,Lysinibacillus contaminans,Germ,Lysinibacillus contaminans,?,Lysinscon,Lysinsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,14421000146106
-786256,Lysinsfus,Lysinibacillus,fusiformis,,,,,786256,Lysinsfus,Lysinibacillus fusiformis,Germ,Lysinibacillus fusiformis,?,Lysinsfus,Lysinsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Lysifu,445617008
-790233,Lysinsody,Lysinibacillus,odysseyi,,,,,790233,Lysinsody,Lysinibacillus odysseyi,Germ,Lysinibacillus odysseyi,?,Lysinsody,Lysinsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,428958007
-517559,Lysinsspe,Lysinibacillus,,,,,,517559,Lysinsspe,Lysinibacillus species,Germ,Lysinibacillus species,?,Lysinsspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Lysisp,444611003
-786260,Lysinssph,Lysinibacillus,sphaericus,,,,,786260,Lysinssph,Lysinibacillus sphaericus,Germ,Lysinibacillus sphaericus,?,Lysinssph,Lysinsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Lysish,445591001
-788385,Lysinsxyl,Lysinibacillus,xylanilyticus,,,,,788385,Lysinsxyl,Lysinibacillus xylanilyticus,Germ,Lysinibacillus xylanilyticus,?,Lysinsxyl,Lysinsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Lysixy,
+786255,Lysinsbor,Lysinibacillus,boronitolerans,,,,,786255,Lysinsbor,Lysinibacillus boronitolerans,Germ,Lysinibacillus boronitolerans,?,Lysinsbor,Lysinsspe,Antibiogram,Yes,no,1,no,no,no,?,?,Lysibo,445654004
+791127,Lysinscon,Lysinibacillus,contaminans,,,,,791127,Lysinscon,Lysinibacillus contaminans,Germ,Lysinibacillus contaminans,?,Lysinscon,Lysinsspe,Antibiogram,Yes,no,1,no,no,no,?,?,,14421000146106
+786256,Lysinsfus,Lysinibacillus,fusiformis,,,,,786256,Lysinsfus,Lysinibacillus fusiformis,Germ,Lysinibacillus fusiformis,?,Lysinsfus,Lysinsspe,Antibiogram,Yes,no,1,no,no,no,?,?,Lysifu,445617008
+790233,Lysinsody,Lysinibacillus,odysseyi,,,,,790233,Lysinsody,Lysinibacillus odysseyi,Germ,Lysinibacillus odysseyi,?,Lysinsody,Lysinsspe,Antibiogram,Yes,no,1,no,no,no,?,?,,428958007
+517559,Lysinsspe,Lysinibacillus,,,,,,517559,Lysinsspe,Lysinibacillus species,Germ,Lysinibacillus species,?,Lysinsspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,?,?,Lysisp,444611003
+786260,Lysinssph,Lysinibacillus,sphaericus,,,,,786260,Lysinssph,Lysinibacillus sphaericus,Germ,Lysinibacillus sphaericus,?,Lysinssph,Lysinsspe,Antibiogram,Yes,no,1,no,no,no,?,?,Lysish,445591001
+788385,Lysinsxyl,Lysinibacillus,xylanilyticus,,,,,788385,Lysinsxyl,Lysinibacillus xylanilyticus,Germ,Lysinibacillus xylanilyticus,?,Lysinsxyl,Lysinsspe,Antibiogram,Yes,no,1,no,no,no,?,?,Lysixy,
 777632,Macrosbov,Macrococcus,bovicus,,,,,777632,Macrosbov,Macrococcus bovicus,Germ,Macrococcus bovicus,?,Macrosbov,Macrosspe,Antibiogram,Yes,no,1,no,no,no,130,Staphylococcus spp,Macrbo,
 777634,Macroscas,Macrococcus,caseolyticus,,,,,777634,Macroscas,Macrococcus caseolyticus,Germ,Macrococcus caseolyticus,?,Macroscas,Macrosspe,Antibiogram,Yes,no,1,no,no,no,130,Staphylococcus spp,Macrca,416613009
 515988,Macrosspe,Macrococcus,,,,,,515988,Macrosspe,Macrococcus species,Germ,Macrococcus species,?,Macrosspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,130,Staphylococcus spp,Macrsp,414633005
@@ -2253,13 +2253,13 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 778639,Neissasub,Neisseria,subflava,,,,,778639,Neissasub,Neisseria subflava,Germ,Neisseria subflava,yes,Neissasub,Neissaspe,Antibiogram,Yes,no,1,no,no,no,110,Neisseria spp,Neissu,77700001
 778640,Neissawea,Neisseria,weaveri,,,,,778640,Neissawea,Neisseria weaveri,Germ,Neisseria weaveri,yes,Neissawea,Neissaspe,Antibiogram,Yes,no,1,no,no,no,110,Neisseria spp,Neiswe,113894007
 785315,Neissazoo,Neisseria,zoodegmatis,,,,,785315,Neissazoo,Neisseria zoodegmatis,Germ,Neisseria zoodegmatis,yes,Neissazoo,Neissaspe,Antibiogram,Yes,no,1,no,no,no,110,Neisseria spp,Neiszo,449121005
-7352,Neobasbat,Neobacillus,bataviensis,,,,,7352,Neobasbat,Neobacillus bataviensis,Germ,Neobacillus (Bacillus) bataviensis,yes,Neobasbat,Neobasspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,
-7358,Neobasdre,Neobacillus,drentensis,,,,,7358,Neobasdre,Neobacillus drentensis,Germ,Neobacillus (Bacillus) drentensis,yes,Neobasdre,Neobasspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,
-5937,Neobasnia,Neobacillus,niacini,,,,,5937,Neobasnia,Neobacillus niacini,Germ,Neobacillus (Bacillus) niacini,yes,Neobasnia,Neobasspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,
-7378,Neobasnov,Neobacillus,novalis,,,,,7378,Neobasnov,Neobacillus novalis,Germ,Neobacillus (Bacillus) novalis,yes,Neobasnov,Neobasspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,
-7389,Neobassol,Neobacillus,soli,,,,,7389,Neobassol,Neobacillus soli,Germ,Neobacillus (Bacillus) soli,yes,Neobassol,Neobasspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,
-4945,Neobasspe,Neobacillus,,,,,,4945,Neobasspe,Neobacillus species,Germ,Neobacillus (Bacillus) species,?,Neobasspe,Gramposstaaf,,,,,,,,220,Bacillus spp,,
-7393,Neobasvir,Neobacillus,vireti,,,,,7393,Neobasvir,Neobacillus vireti,Germ,Neobacillus (Bacillus) vireti,yes,Neobasvir,Neobasspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,
+7352,Neobasbat,Neobacillus,bataviensis,,,,,7352,Neobasbat,Neobacillus bataviensis,Germ,Neobacillus (Bacillus) bataviensis,yes,Neobasbat,Neobasspe,Antibiogram,Yes,no,1,no,no,no,?,?,,
+7358,Neobasdre,Neobacillus,drentensis,,,,,7358,Neobasdre,Neobacillus drentensis,Germ,Neobacillus (Bacillus) drentensis,yes,Neobasdre,Neobasspe,Antibiogram,Yes,no,1,no,no,no,?,?,,
+5937,Neobasnia,Neobacillus,niacini,,,,,5937,Neobasnia,Neobacillus niacini,Germ,Neobacillus (Bacillus) niacini,yes,Neobasnia,Neobasspe,Antibiogram,Yes,no,1,no,no,no,?,?,,
+7378,Neobasnov,Neobacillus,novalis,,,,,7378,Neobasnov,Neobacillus novalis,Germ,Neobacillus (Bacillus) novalis,yes,Neobasnov,Neobasspe,Antibiogram,Yes,no,1,no,no,no,?,?,,
+7389,Neobassol,Neobacillus,soli,,,,,7389,Neobassol,Neobacillus soli,Germ,Neobacillus (Bacillus) soli,yes,Neobassol,Neobasspe,Antibiogram,Yes,no,1,no,no,no,?,?,,
+4945,Neobasspe,Neobacillus,,,,,,4945,Neobasspe,Neobacillus species,Germ,Neobacillus (Bacillus) species,?,Neobasspe,Gramposstaaf,,,,,,,,?,?,,
+7393,Neobasvir,Neobacillus,vireti,,,,,7393,Neobasvir,Neobacillus vireti,Germ,Neobacillus (Bacillus) vireti,yes,Neobasvir,Neobasspe,Antibiogram,Yes,no,1,no,no,no,?,?,,
 ,Neocoasol,NULL,NULL,NULL,,,,,Neocoasol,Neocosmospora solani,Germ,Neocosmospora (Fusarium) solani,yes,Neocoasol,Neocoaspe,Antibiogram,Yes,no,1,no,no,no,,,,
 ,Neocoaspe,NULL,NULL,NULL,,,,,Neocoaspe,Neocosmospora species,Germ,Neocosmospora species,yes,Neocoaspe,Schimmel,,,,,,,,,,,
 ,Neoscmdim,NULL,NULL,NULL,,,,,Neoscmdim,Neoscytalidium dimidiatum,Germ,Neoscytalidium dimidiatum (Scytalidium hyalinum),yes,Neoscmdim,Neoscmspe,Antibiogram,Yes,no,1,no,no,no,,,,715363007
@@ -2343,7 +2343,7 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 788158,Oceanssoj,Oceanobacillus,sojae,,,,,788158,Oceanssoj,Oceanobacillus sojae,Germ,Oceanobacillus sojae,?,Oceanssoj,Oceansspe,Antibiogram,Yes,no,1,no,no,no,,,Oceaso,450365005
 516196,Oceansspe,Oceanobacillus,,,,,,516196,Oceansspe,Oceanobacillus species,Germ,Oceanobacillus species,?,Oceansspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,,,Oceasp,430499000
 517748,Odorirspe,Odoribacter,,,,,,517748,Odorirspe,Odoribacter species,Germ,Odoribacter species,?,Odorirspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,,,,418523002
-787189,Odorirspl,Odoribacter,splanchnicus,,,,,787189,Odorirspl,Odoribacter splanchnicus,Germ,Odoribacter splanchnicus,?,Odorirspl,Odorirspe,Antibiogram,Yes,no,1,no,no,no,300,Gram negative anaerobes,Odorspl,446487001
+787189,Odorirspl,Odoribacter,splanchnicus,,,,,787189,Odorirspl,Odoribacter splanchnicus,Germ,Odoribacter splanchnicus,no,Odorirspl,Odorirspe,Antibiogram,Yes,no,1,no,no,no,300,Gram negative anaerobes,Odorspl,446487001
 ,Ogataamet,NULL,NULL,NULL,,,,,Ogataamet,Ogataea methylivora,Germ,Ogataea methylivora (Pichia methylivora),yes,Ogataamet,Ogataaspe,Antibiogram,Yes,no,1,no,no,no,,,,
 ,Ogataapol,NULL,NULL,NULL,,,,,Ogataapol,Ogataea polymorpha,Germ,Ogataea polymorpha (Candida thermophila),yes,Ogataapol,Ogataaspe,Antibiogram,Yes,no,1,no,no,no,,,,707830000
 ,Ogataaspe,NULL,NULL,NULL,,,,,Ogataaspe,Ogataea species,Germ,Ogataea species,yes,Ogataaspe,Schimmel,Antibiogram,Yes,no,1,no,no,no,,,,707829005
@@ -2367,79 +2367,79 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 794234,Paenarure,Paenarthrobacter,ureafaciens,,,,,794234,Paenarure,Paenarthrobacter ureafaciens,Germ,Paenarthrobacter (Artrhobacter) ureafaciens,yes,Paenarure,Paenarspe,Antibiogram,Yes,no,1,no,no,no,,,,
 793947,Paeniclgho,Paeniclostridium,ghonii,,,,,793947,Paeniclgho,Paeniclostridium ghonii,Germ,Paeniclostridium (Clostridium) ghonii,no,Paeniclgho,Paeniclspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,,
 793946,Paeniclsor,Paeniclostridium,sordellii,,,,,793946,Paeniclsor,Paeniclostridium sordellii,Germ,Paeniclostridium (Clostridium) sordellii,no,Paeniclsor,Paeniclspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,,
-518915,Paeniclspe,Paeniclostridium,,,,,,518915,Paeniclspe,Paeniclostridium species,Germ,Paeniclostridium (Clostridium) species,?,Paeniclspe,Gramposstaaf,,,,,,,,240,Gram positieve anaeroben,,
+518915,Paeniclspe,Paeniclostridium,,,,,,518915,Paeniclspe,Paeniclostridium species,Germ,Paeniclostridium (Clostridium) species,no,Paeniclspe,Gramposstaaf,,,,,,,,240,Gram positieve anaeroben,,
 794247,Paenirgan,Paeniglutamicibacter,gangotriensis,,,,,794247,Paenirgan,Paeniglutamicibacter gangotriensis,Germ,Paeniglutamicibacter (Artrhobacter) gangotriensis,yes,Paenirgan,Paenirspe,Antibiogram,Yes,no,1,no,no,no,,,,
 794248,Paenirker,Paeniglutamicibacter,kerguelensis,,,,,794248,Paenirker,Paeniglutamicibacter kerguelensis,Germ,Paeniglutamicibacter (Artrhobacter) kerguelensis,yes,Paenirker,Paenirspe,Antibiogram,Yes,no,1,no,no,no,,,,
 794249,Paenirpsy,Paeniglutamicibacter,psychrophenolicus,,,,,794249,Paenirpsy,Paeniglutamicibacter psychrophenolicus,Germ,Paeniglutamicibacter (Artrhobacter) psychrophenolicus,yes,Paenirpsy,Paenirspe,Antibiogram,Yes,no,1,no,no,no,,,,
 518965,Paenirspe,Paeniglutamicibacter,,,,,,518965,Paenirspe,Paeniglutamicibacter species,Germ,Paeniglutamicibacter (Arthrobacter) species,?,Paenirspe,Gramposstaaf,,,,,,,,,,,
 774237,Paenirsul,Paeniglutamicibacter,sulfureus,,,,,774237,Paenirsul,Paeniglutamicibacter sulfureus,Germ,Paeniglutamicibacter (Artrhobacter) sulfureus,yes,Paenirsul,Paenirspe,Antibiogram,Yes,no,1,no,no,no,,,Paensu,
-779040,Paenisaga,Paenibacillus,agarexedens,,,,,779040,Paenisaga,Paenibacillus agarexedens,Germ,Paenibacillus agarexedens,yes,Paenisaga,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,429906007
-779041,Paenisagai,Paenibacillus,agaridevorans,,,,,779041,Paenisagai,Paenibacillus agaridevorans,Germ,Paenibacillus agaridevorans,yes,Paenisagai,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,429907003
-779042,Paenisalg,Paenibacillus,alginolyticus,,,,,779042,Paenisalg,Paenibacillus alginolyticus,Germ,Paenibacillus alginolyticus,yes,Paenisalg,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,114087003
-779044,Paenisalv,Paenibacillus,alvei,,,,,779044,Paenisalv,Paenibacillus alvei,Germ,Paenibacillus alvei,yes,Paenisalv,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,114088008
-779045,Paenisamy,Paenibacillus,amylolyticus,,,,,779045,Paenisamy,Paenibacillus amylolyticus,Germ,Paenibacillus amylolyticus,yes,Paenisamy,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Paenam,114089000
-779046,Paenisana,Paenibacillus,anaericanus,,,,,779046,Paenisana,Paenibacillus anaericanus,Germ,Paenibacillus anaericanus,yes,Paenisana,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,5551000146104
-779047,Paenisapi,Paenibacillus,apiarius,,,,,779047,Paenisapi,Paenibacillus apiarius,Germ,Paenibacillus apiarius,yes,Paenisapi,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,114090009
-779048,Paenisass,Paenibacillus,assamensis,,,,,779048,Paenisass,Paenibacillus assamensis,Germ,Paenibacillus assamensis,yes,Paenisass,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,5561000146101
-779049,Paenisazo,Paenibacillus,azoreducens,,,,,779049,Paenisazo,Paenibacillus azoreducens,Germ,Paenibacillus azoreducens,yes,Paenisazo,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,429909000
-779052,Paenisbar,Paenibacillus,barcinonensis,,,,,779052,Paenisbar,Paenibacillus barcinonensis,Germ,Paenibacillus barcinonensis,yes,Paenisbar,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Paenba,700083006
-784550,Paenisbare,Paenibacillus,barengoltzii,,,,,784550,Paenisbare,Paenibacillus barengoltzii,Germ,Paenibacillus barengoltzii,yes,Paenisbare,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Paenbg,446797009
-779053,Paenisbor,Paenibacillus,borealis,,,,,779053,Paenisbor,Paenibacillus borealis,Germ,Paenibacillus borealis,yes,Paenisbor,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,430493004
-779054,Paenisbra,Paenibacillus,brasilensis,,,,,779054,Paenisbra,Paenibacillus brasilensis,Germ,Paenibacillus brasilensis,yes,Paenisbra,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,430494005
-779055,Paenischi,Paenibacillus,chibensis,,,,,779055,Paenischi,Paenibacillus chibensis,Germ,Paenibacillus chibensis,yes,Paenischi,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,114092001
-779056,Paenischin,Paenibacillus,chinjuensis,,,,,779056,Paenischin,Paenibacillus chinjuensis,Germ,Paenibacillus chinjuensis,yes,Paenischin,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,430496007
-779057,Paenischit,Paenibacillus,chitinolyticus,,,,,779057,Paenischit,Paenibacillus chitinolyticus,Germ,Paenibacillus chitinolyticus,yes,Paenischit,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,430024009
-779058,Paenischo,Paenibacillus,chondroitinus,,,,,779058,Paenischo,Paenibacillus chondroitinus,Germ,Paenibacillus chondroitinus,yes,Paenischo,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,114093006
-779059,Paeniscin,Paenibacillus,cineris,,,,,779059,Paeniscin,Paenibacillus cineris,Germ,Paenibacillus cineris,yes,Paeniscin,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Paenci,430025005
-779060,Paeniscoo,Paenibacillus,cookii,,,,,779060,Paeniscoo,Paenibacillus cookii,Germ,Paenibacillus cookii,yes,Paeniscoo,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,430026006
-779061,Paeniscur,Paenibacillus,curdlanolyticus,,,,,779061,Paeniscur,Paenibacillus curdlanolyticus,Germ,Paenibacillus curdlanolyticus,yes,Paeniscur,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,114094000
-779062,Paenisdae,Paenibacillus,daejeonensis,,,,,779062,Paenisdae,Paenibacillus daejeonensis,Germ,Paenibacillus daejeonensis,yes,Paenisdae,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,430027002
-784552,Paenisden,Paenibacillus,dendritiformis,,,,,784552,Paenisden,Paenibacillus dendritiformis,Germ,Paenibacillus dendritiformis,yes,Paenisden,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,430608007
-779063,Paenisdur,Paenibacillus,durus,,,,,779063,Paenisdur,Paenibacillus durus,Germ,Paenibacillus durus,yes,Paenisdur,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,114091008
-788340,Paeniseda,Paenibacillus,edaphicus,,,,,788340,Paeniseda,Paenibacillus edaphicus,Germ,Paenibacillus edaphicus,yes,Paeniseda,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,8501000146105
-779064,Paenisehi,Paenibacillus,ehimensis,,,,,779064,Paenisehi,Paenibacillus ehimensis,Germ,Paenibacillus ehimensis,yes,Paenisehi,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,430609004
-779065,Paenisfav,Paenibacillus,favisporus,,,,,779065,Paenisfav,Paenibacillus favisporus,Germ,Paenibacillus favisporus,yes,Paenisfav,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Paenfa,417265006
-785402,Paenisgan,Paenibacillus,gansuensis,,,,,785402,Paenisgan,Paenibacillus gansuensis,Germ,Paenibacillus gansuensis,yes,Paenisgan,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,5571000146107
-779068,Paenisglu,Paenibacillus,glucanolyticus,,,,,779068,Paenisglu,Paenibacillus glucanolyticus,Germ,Paenibacillus glucanolyticus,yes,Paenisglu,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Paengl,430611008
-779069,Paenisgly,Paenibacillus,glycanilyticus,,,,,779069,Paenisgly,Paenibacillus glycanilyticus,Germ,Paenibacillus glycanilyticus,yes,Paenisgly,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,430464004
-779071,Paenisgra,Paenibacillus,graminis,,,,,779071,Paenisgra,Paenibacillus graminis,Germ,Paenibacillus graminis,yes,Paenisgra,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,430465003
-786783,Paenishum,Paenibacillus,humicus,,,,,786783,Paenishum,Paenibacillus humicus,Germ,Paenibacillus humicus,yes,Paenishum,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Paenhu,708386006
-779073,Paenisill,Paenibacillus,illinoisensis,,,,,779073,Paenisill,Paenibacillus illinoisensis,Germ,Paenibacillus illinoisensis,yes,Paenisill,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Paenil,114096003
-779075,Paeniskob,Paenibacillus,kobensis,,,,,779075,Paeniskob,Paenibacillus kobensis,Germ,Paenibacillus kobensis,yes,Paeniskob,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,114097007
-779076,Paenislac,Paenibacillus,lactis,,,,,779076,Paenislac,Paenibacillus lactis,Germ,Paenibacillus lactis,yes,Paenislac,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Paenla,430629003
-779077,Paenislar,Paenibacillus,larvae,,,,,779077,Paenislar,Paenibacillus larvae,Germ,Paenibacillus larvae,yes,Paenislar,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,114098002
-779080,Paenislau,Paenibacillus,lautus,,,,,779080,Paenislau,Paenibacillus lautus,Germ,Paenibacillus lautus,yes,Paenislau,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Paenlau,114100002
-791706,Paenislen,Paenibacillus,lentus,,,,,791706,Paenislen,Paenibacillus lentus,Germ,Paenibacillus lentus,yes,Paenislen,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,20201000146104
-779082,Paenismac,Paenibacillus,macerans,,,,,779082,Paenismac,Paenibacillus macerans,Germ,Paenibacillus macerans,yes,Paenismac,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Paenma,114101003
-779083,Paenismacq,Paenibacillus,macquariensis,,,,,779083,Paenismacq,Paenibacillus macquariensis,Germ,Paenibacillus macquariensis,yes,Paenismacq,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,114102005
-779084,Paenismas,Paenibacillus,massiliensis,,,,,779084,Paenismas,Paenibacillus massiliensis,Germ,Paenibacillus massiliensis,yes,Paenismas,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,430917005
-784560,Paenismen,Paenibacillus,mendelii,,,,,784560,Paenismen,Paenibacillus mendelii,Germ,Paenibacillus mendelii,yes,Paenismen,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,437869001
-779085,Paenismot,Paenibacillus,motobuensis,,,,,779085,Paenismot,Paenibacillus motobuensis,Germ,Paenibacillus motobuensis,yes,Paenismot,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,5581000146109
-779086,Paenisnap,Paenibacillus,naphthalenovorans,,,,,779086,Paenisnap,Paenibacillus naphthalenovorans,Germ,Paenibacillus naphthalenovorans,yes,Paenisnap,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,430918000
-779087,Paenisnem,Paenibacillus,nematophilus,,,,,779087,Paenisnem,Paenibacillus nematophilus,Germ,Paenibacillus nematophilus,yes,Paenisnem,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,430919008
-779088,Paenisodo,Paenibacillus,odorifer,,,,,779088,Paenisodo,Paenibacillus odorifer,Germ,Paenibacillus odorifer,yes,Paenisodo,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,430920002
-779089,Paenispab,Paenibacillus,pabuli,,,,,779089,Paenispab,Paenibacillus pabuli,Germ,Paenibacillus pabuli,yes,Paenispab,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Paenpa,114103000
-784561,Paenispas,Paenibacillus,pasadenensis,,,,,784561,Paenispas,Paenibacillus pasadenensis,Germ,Paenibacillus pasadenensis,yes,Paenispas,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Paenps,441637001
-779090,Paenispeo,Paenibacillus,peoriae,,,,,779090,Paenispeo,Paenibacillus peoriae,Germ,Paenibacillus peoriae,yes,Paenispeo,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,114104006
-779091,Paenisphy,Paenibacillus,phyllosphaerae,,,,,779091,Paenisphy,Paenibacillus phyllosphaerae,Germ,Paenibacillus phyllosphaerae,yes,Paenisphy,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,5591000146106
-779092,Paenispol,Paenibacillus,polymyxa,,,,,779092,Paenispol,Paenibacillus polymyxa,Germ,Paenibacillus polymyxa,yes,Paenispol,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Paenpo,114105007
-787248,Paenispro,Paenibacillus,provencensis,,,,,787248,Paenispro,Paenibacillus provencensis,Germ,Paenibacillus provencensis,yes,Paenispro,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Paenpr,
-788793,Paenisres,Paenibacillus,residui,,,,,788793,Paenisres,Paenibacillus residui,Germ,Paenibacillus residui,yes,Paenisres,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Paenre,14491000146109
-779095,Paenisrhi,Paenibacillus,rhizosphaerae,,,,,779095,Paenisrhi,Paenibacillus rhizosphaerae,Germ,Paenibacillus rhizosphaerae,yes,Paenisrhi,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,5601000146101
-785852,Paenissab,Paenibacillus,sabinae,,,,,785852,Paenissab,Paenibacillus sabinae,Germ,Paenibacillus sabinae,yes,Paenissab,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,5611000146104
-516243,Paenisspe,Paenibacillus,,,,,,516243,Paenisspe,Paenibacillus species,Germ,Paenibacillus species,yes,Paenisspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Paensp,114086007
-779099,Paenisste,Paenibacillus,stellifer,,,,,779099,Paenisste,Paenibacillus stellifer,Germ,Paenibacillus stellifer,yes,Paenisste,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Paenst,429361009
-785539,Paenistai,Paenibacillus,taiwanensis,,,,,785539,Paenistai,Paenibacillus taiwanensis,Germ,Paenibacillus taiwanensis,yes,Paenistai,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,5621000146109
-779100,Paenister,Paenibacillus,terrae,,,,,779100,Paenister,Paenibacillus terrae,Germ,Paenibacillus terrae,yes,Paenister,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,429847009
-779101,Paenisthi,Paenibacillus,thiaminolyticus,,,,,779101,Paenisthi,Paenibacillus thiaminolyticus,Germ,Paenibacillus thiaminolyticus,yes,Paenisthi,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,114106008
-779102,Paenistim,Paenibacillus,timonensis,,,,,779102,Paenistim,Paenibacillus timonensis,Germ,Paenibacillus timonensis,yes,Paenistim,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Paenti,429848004
-779103,Paenistur,Paenibacillus,turicensis,,,,,779103,Paenistur,Paenibacillus turicensis,Germ,Paenibacillus turicensis,yes,Paenistur,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,429454006
-787247,Paenisuri,Paenibacillus,urinalis,,,,,787247,Paenisuri,Paenibacillus urinalis,Germ,Paenibacillus urinalis,yes,Paenisuri,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Paenur,445240003
-779104,Paenisval,Paenibacillus,validus,,,,,779104,Paenisval,Paenibacillus validus,Germ,Paenibacillus validus,yes,Paenisval,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,114107004
-779105,Paeniswyn,Paenibacillus,wynnii,,,,,779105,Paeniswyn,Paenibacillus wynnii,Germ,Paenibacillus wynnii,yes,Paeniswyn,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,5631000146106
-785659,Paenisxin,Paenibacillus,xinjiangensis,,,,,785659,Paenisxin,Paenibacillus xinjiangensis,Germ,Paenibacillus xinjiangensis,yes,Paenisxin,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,5641000146103
-779106,Paenisxyl,Paenibacillus,xylanilyticus,,,,,779106,Paenisxyl,Paenibacillus xylanilyticus,Germ,Paenibacillus xylanilyticus,yes,Paenisxyl,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,429849007
-779107,Paeniszan,Paenibacillus,zanthoxyli,,,,,779107,Paeniszan,Paenibacillus zanthoxyli,Germ,Paenibacillus zanthoxyli,yes,Paeniszan,Paenisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,5651000146100
+779040,Paenisaga,Paenibacillus,agarexedens,,,,,779040,Paenisaga,Paenibacillus agarexedens,Germ,Paenibacillus agarexedens,yes,Paenisaga,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,429906007
+779041,Paenisagai,Paenibacillus,agaridevorans,,,,,779041,Paenisagai,Paenibacillus agaridevorans,Germ,Paenibacillus agaridevorans,yes,Paenisagai,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,429907003
+779042,Paenisalg,Paenibacillus,alginolyticus,,,,,779042,Paenisalg,Paenibacillus alginolyticus,Germ,Paenibacillus alginolyticus,yes,Paenisalg,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,114087003
+779044,Paenisalv,Paenibacillus,alvei,,,,,779044,Paenisalv,Paenibacillus alvei,Germ,Paenibacillus alvei,yes,Paenisalv,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,114088008
+779045,Paenisamy,Paenibacillus,amylolyticus,,,,,779045,Paenisamy,Paenibacillus amylolyticus,Germ,Paenibacillus amylolyticus,yes,Paenisamy,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Paenam,114089000
+779046,Paenisana,Paenibacillus,anaericanus,,,,,779046,Paenisana,Paenibacillus anaericanus,Germ,Paenibacillus anaericanus,yes,Paenisana,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,5551000146104
+779047,Paenisapi,Paenibacillus,apiarius,,,,,779047,Paenisapi,Paenibacillus apiarius,Germ,Paenibacillus apiarius,yes,Paenisapi,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,114090009
+779048,Paenisass,Paenibacillus,assamensis,,,,,779048,Paenisass,Paenibacillus assamensis,Germ,Paenibacillus assamensis,yes,Paenisass,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,5561000146101
+779049,Paenisazo,Paenibacillus,azoreducens,,,,,779049,Paenisazo,Paenibacillus azoreducens,Germ,Paenibacillus azoreducens,yes,Paenisazo,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,429909000
+779052,Paenisbar,Paenibacillus,barcinonensis,,,,,779052,Paenisbar,Paenibacillus barcinonensis,Germ,Paenibacillus barcinonensis,yes,Paenisbar,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Paenba,700083006
+784550,Paenisbare,Paenibacillus,barengoltzii,,,,,784550,Paenisbare,Paenibacillus barengoltzii,Germ,Paenibacillus barengoltzii,yes,Paenisbare,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Paenbg,446797009
+779053,Paenisbor,Paenibacillus,borealis,,,,,779053,Paenisbor,Paenibacillus borealis,Germ,Paenibacillus borealis,yes,Paenisbor,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,430493004
+779054,Paenisbra,Paenibacillus,brasilensis,,,,,779054,Paenisbra,Paenibacillus brasilensis,Germ,Paenibacillus brasilensis,yes,Paenisbra,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,430494005
+779055,Paenischi,Paenibacillus,chibensis,,,,,779055,Paenischi,Paenibacillus chibensis,Germ,Paenibacillus chibensis,yes,Paenischi,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,114092001
+779056,Paenischin,Paenibacillus,chinjuensis,,,,,779056,Paenischin,Paenibacillus chinjuensis,Germ,Paenibacillus chinjuensis,yes,Paenischin,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,430496007
+779057,Paenischit,Paenibacillus,chitinolyticus,,,,,779057,Paenischit,Paenibacillus chitinolyticus,Germ,Paenibacillus chitinolyticus,yes,Paenischit,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,430024009
+779058,Paenischo,Paenibacillus,chondroitinus,,,,,779058,Paenischo,Paenibacillus chondroitinus,Germ,Paenibacillus chondroitinus,yes,Paenischo,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,114093006
+779059,Paeniscin,Paenibacillus,cineris,,,,,779059,Paeniscin,Paenibacillus cineris,Germ,Paenibacillus cineris,yes,Paeniscin,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Paenci,430025005
+779060,Paeniscoo,Paenibacillus,cookii,,,,,779060,Paeniscoo,Paenibacillus cookii,Germ,Paenibacillus cookii,yes,Paeniscoo,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,430026006
+779061,Paeniscur,Paenibacillus,curdlanolyticus,,,,,779061,Paeniscur,Paenibacillus curdlanolyticus,Germ,Paenibacillus curdlanolyticus,yes,Paeniscur,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,114094000
+779062,Paenisdae,Paenibacillus,daejeonensis,,,,,779062,Paenisdae,Paenibacillus daejeonensis,Germ,Paenibacillus daejeonensis,yes,Paenisdae,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,430027002
+784552,Paenisden,Paenibacillus,dendritiformis,,,,,784552,Paenisden,Paenibacillus dendritiformis,Germ,Paenibacillus dendritiformis,yes,Paenisden,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,430608007
+779063,Paenisdur,Paenibacillus,durus,,,,,779063,Paenisdur,Paenibacillus durus,Germ,Paenibacillus durus,yes,Paenisdur,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,114091008
+788340,Paeniseda,Paenibacillus,edaphicus,,,,,788340,Paeniseda,Paenibacillus edaphicus,Germ,Paenibacillus edaphicus,yes,Paeniseda,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,8501000146105
+779064,Paenisehi,Paenibacillus,ehimensis,,,,,779064,Paenisehi,Paenibacillus ehimensis,Germ,Paenibacillus ehimensis,yes,Paenisehi,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,430609004
+779065,Paenisfav,Paenibacillus,favisporus,,,,,779065,Paenisfav,Paenibacillus favisporus,Germ,Paenibacillus favisporus,yes,Paenisfav,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Paenfa,417265006
+785402,Paenisgan,Paenibacillus,gansuensis,,,,,785402,Paenisgan,Paenibacillus gansuensis,Germ,Paenibacillus gansuensis,yes,Paenisgan,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,5571000146107
+779068,Paenisglu,Paenibacillus,glucanolyticus,,,,,779068,Paenisglu,Paenibacillus glucanolyticus,Germ,Paenibacillus glucanolyticus,yes,Paenisglu,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Paengl,430611008
+779069,Paenisgly,Paenibacillus,glycanilyticus,,,,,779069,Paenisgly,Paenibacillus glycanilyticus,Germ,Paenibacillus glycanilyticus,yes,Paenisgly,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,430464004
+779071,Paenisgra,Paenibacillus,graminis,,,,,779071,Paenisgra,Paenibacillus graminis,Germ,Paenibacillus graminis,yes,Paenisgra,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,430465003
+786783,Paenishum,Paenibacillus,humicus,,,,,786783,Paenishum,Paenibacillus humicus,Germ,Paenibacillus humicus,yes,Paenishum,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Paenhu,708386006
+779073,Paenisill,Paenibacillus,illinoisensis,,,,,779073,Paenisill,Paenibacillus illinoisensis,Germ,Paenibacillus illinoisensis,yes,Paenisill,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Paenil,114096003
+779075,Paeniskob,Paenibacillus,kobensis,,,,,779075,Paeniskob,Paenibacillus kobensis,Germ,Paenibacillus kobensis,yes,Paeniskob,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,114097007
+779076,Paenislac,Paenibacillus,lactis,,,,,779076,Paenislac,Paenibacillus lactis,Germ,Paenibacillus lactis,yes,Paenislac,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Paenla,430629003
+779077,Paenislar,Paenibacillus,larvae,,,,,779077,Paenislar,Paenibacillus larvae,Germ,Paenibacillus larvae,yes,Paenislar,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,114098002
+779080,Paenislau,Paenibacillus,lautus,,,,,779080,Paenislau,Paenibacillus lautus,Germ,Paenibacillus lautus,yes,Paenislau,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Paenlau,114100002
+791706,Paenislen,Paenibacillus,lentus,,,,,791706,Paenislen,Paenibacillus lentus,Germ,Paenibacillus lentus,yes,Paenislen,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,20201000146104
+779082,Paenismac,Paenibacillus,macerans,,,,,779082,Paenismac,Paenibacillus macerans,Germ,Paenibacillus macerans,yes,Paenismac,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Paenma,114101003
+779083,Paenismacq,Paenibacillus,macquariensis,,,,,779083,Paenismacq,Paenibacillus macquariensis,Germ,Paenibacillus macquariensis,yes,Paenismacq,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,114102005
+779084,Paenismas,Paenibacillus,massiliensis,,,,,779084,Paenismas,Paenibacillus massiliensis,Germ,Paenibacillus massiliensis,yes,Paenismas,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,430917005
+784560,Paenismen,Paenibacillus,mendelii,,,,,784560,Paenismen,Paenibacillus mendelii,Germ,Paenibacillus mendelii,yes,Paenismen,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,437869001
+779085,Paenismot,Paenibacillus,motobuensis,,,,,779085,Paenismot,Paenibacillus motobuensis,Germ,Paenibacillus motobuensis,yes,Paenismot,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,5581000146109
+779086,Paenisnap,Paenibacillus,naphthalenovorans,,,,,779086,Paenisnap,Paenibacillus naphthalenovorans,Germ,Paenibacillus naphthalenovorans,yes,Paenisnap,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,430918000
+779087,Paenisnem,Paenibacillus,nematophilus,,,,,779087,Paenisnem,Paenibacillus nematophilus,Germ,Paenibacillus nematophilus,yes,Paenisnem,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,430919008
+779088,Paenisodo,Paenibacillus,odorifer,,,,,779088,Paenisodo,Paenibacillus odorifer,Germ,Paenibacillus odorifer,yes,Paenisodo,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,430920002
+779089,Paenispab,Paenibacillus,pabuli,,,,,779089,Paenispab,Paenibacillus pabuli,Germ,Paenibacillus pabuli,yes,Paenispab,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Paenpa,114103000
+784561,Paenispas,Paenibacillus,pasadenensis,,,,,784561,Paenispas,Paenibacillus pasadenensis,Germ,Paenibacillus pasadenensis,yes,Paenispas,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Paenps,441637001
+779090,Paenispeo,Paenibacillus,peoriae,,,,,779090,Paenispeo,Paenibacillus peoriae,Germ,Paenibacillus peoriae,yes,Paenispeo,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,114104006
+779091,Paenisphy,Paenibacillus,phyllosphaerae,,,,,779091,Paenisphy,Paenibacillus phyllosphaerae,Germ,Paenibacillus phyllosphaerae,yes,Paenisphy,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,5591000146106
+779092,Paenispol,Paenibacillus,polymyxa,,,,,779092,Paenispol,Paenibacillus polymyxa,Germ,Paenibacillus polymyxa,yes,Paenispol,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Paenpo,114105007
+787248,Paenispro,Paenibacillus,provencensis,,,,,787248,Paenispro,Paenibacillus provencensis,Germ,Paenibacillus provencensis,yes,Paenispro,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Paenpr,
+788793,Paenisres,Paenibacillus,residui,,,,,788793,Paenisres,Paenibacillus residui,Germ,Paenibacillus residui,yes,Paenisres,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Paenre,14491000146109
+779095,Paenisrhi,Paenibacillus,rhizosphaerae,,,,,779095,Paenisrhi,Paenibacillus rhizosphaerae,Germ,Paenibacillus rhizosphaerae,yes,Paenisrhi,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,5601000146101
+785852,Paenissab,Paenibacillus,sabinae,,,,,785852,Paenissab,Paenibacillus sabinae,Germ,Paenibacillus sabinae,yes,Paenissab,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,5611000146104
+516243,Paenisspe,Paenibacillus,,,,,,516243,Paenisspe,Paenibacillus species,Germ,Paenibacillus species,yes,Paenisspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,?,?,Paensp,114086007
+779099,Paenisste,Paenibacillus,stellifer,,,,,779099,Paenisste,Paenibacillus stellifer,Germ,Paenibacillus stellifer,yes,Paenisste,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Paenst,429361009
+785539,Paenistai,Paenibacillus,taiwanensis,,,,,785539,Paenistai,Paenibacillus taiwanensis,Germ,Paenibacillus taiwanensis,yes,Paenistai,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,5621000146109
+779100,Paenister,Paenibacillus,terrae,,,,,779100,Paenister,Paenibacillus terrae,Germ,Paenibacillus terrae,yes,Paenister,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,429847009
+779101,Paenisthi,Paenibacillus,thiaminolyticus,,,,,779101,Paenisthi,Paenibacillus thiaminolyticus,Germ,Paenibacillus thiaminolyticus,yes,Paenisthi,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,114106008
+779102,Paenistim,Paenibacillus,timonensis,,,,,779102,Paenistim,Paenibacillus timonensis,Germ,Paenibacillus timonensis,yes,Paenistim,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Paenti,429848004
+779103,Paenistur,Paenibacillus,turicensis,,,,,779103,Paenistur,Paenibacillus turicensis,Germ,Paenibacillus turicensis,yes,Paenistur,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,429454006
+787247,Paenisuri,Paenibacillus,urinalis,,,,,787247,Paenisuri,Paenibacillus urinalis,Germ,Paenibacillus urinalis,yes,Paenisuri,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Paenur,445240003
+779104,Paenisval,Paenibacillus,validus,,,,,779104,Paenisval,Paenibacillus validus,Germ,Paenibacillus validus,yes,Paenisval,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,114107004
+779105,Paeniswyn,Paenibacillus,wynnii,,,,,779105,Paeniswyn,Paenibacillus wynnii,Germ,Paenibacillus wynnii,yes,Paeniswyn,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,5631000146106
+785659,Paenisxin,Paenibacillus,xinjiangensis,,,,,785659,Paenisxin,Paenibacillus xinjiangensis,Germ,Paenibacillus xinjiangensis,yes,Paenisxin,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,5641000146103
+779106,Paenisxyl,Paenibacillus,xylanilyticus,,,,,779106,Paenisxyl,Paenibacillus xylanilyticus,Germ,Paenibacillus xylanilyticus,yes,Paenisxyl,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,429849007
+779107,Paeniszan,Paenibacillus,zanthoxyli,,,,,779107,Paeniszan,Paenibacillus zanthoxyli,Germ,Paenibacillus zanthoxyli,yes,Paeniszan,Paenisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,5651000146100
 517749,Paludmspe,Paludibacterium,,,,,,517749,Paludmspe,Paludibacterium species,Germ,Paludibacterium species,?,Paludmspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,,,Palusp,aanvragen
 779126,Pandoaapi,Pandoraea,apista,,,,,779126,Pandoaapi,Pandoraea apista,Germ,Pandoraea apista,yes,Pandoaapi,Pandoaspe,Antibiogram,Yes,no,1,no,no,no,,,Pandap,414999009
 779127,Pandoanor,Pandoraea,norimbergensis,,,,,779127,Pandoanor,Pandoraea norimbergensis,Germ,Pandoraea norimbergensis,yes,Pandoanor,Pandoaspe,Antibiogram,Yes,no,1,no,no,no,,,,415000009
@@ -2479,7 +2479,7 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 785241,Parabsmer,Parabacteroides,merdae,,,,,785241,Parabsmer,Parabacteroides merdae,Germ,Parabacteroides merdae,no,Parabsmer,Parabsspe,Antibiogram,Yes,no,1,no,no,no,300,Gram negative anaerobes,Parame,447513003
 516255,Parabsspe,Parabacteroides,,,,,,516255,Parabsspe,Parabacteroides species,Germ,Parabacteroides species,no,Parabsspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,300,Gram negative anaerobes,Parabsp,447036003
 793944,Paracmbif,Paraclostridium,bifermentans,,,,,793944,Paracmbif,Paraclostridium bifermentans,Germ,Paraclostridium (Clostridium) bifermentans,no,Paracmbif,Paracmspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,,
-518914,Paracmspe,Paraclostridium,,,,,,518914,Paracmspe,Paraclostridium species,Germ,Paraclostridium (Clostridium) species,?,Paracmspe,Gramposstaaf,,,,,,,,240,Gram positieve anaeroben,,
+518914,Paracmspe,Paraclostridium,,,,,,518914,Paracmspe,Paraclostridium species,Germ,Paraclostridium (Clostridium) species,no,Paracmspe,Gramposstaaf,,,,,,,,240,Gram positieve anaeroben,,
 779156,Paracsden,Paracoccus,denitrificans,,,,,779156,Paracsden,Paracoccus denitrificans,Germ,Paracoccus denitrificans,?,Paracsden,Paracsspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,,415019004
 787200,Paracsmar,Paracoccus,marinus,,,,,787200,Paracsmar,Paracoccus marinus,Germ,Paracoccus marinus,?,Paracsmar,Paracsspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Paracma,14511000146102
 516256,Paracsspe,Paracoccus,,,,,,516256,Paracsspe,Paracoccus species,Germ,Paracoccus species,?,Paracsspe,Gramnegcoc,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Paracsp,415013003
@@ -2495,17 +2495,17 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 ,Parasiet,NULL,NULL,NULL,,,,,Parasiet,Parasiet,Parasite,Parasiet,yes,Parasiet,?,Antibiogram,Yes,no,1,no,no,no,,,para,0
 26739,Parazscom,Parazoarcus,communis,,,,,26739,Parazscom,Parazoarcus communis,Germ,Parazoarcus communis,?,Parazscom,Parazsspe,,,,,,,,,,,
 26531,Parazsspe,Parazoarcus,,,,,,26531,Parazsspe,Parazoarcus species,Germ,Parazoarcus species,?,Parazsspe,Gramnegstaaf,,,,,,,,,,,
-785693,Parvismic,Parvimonas,micra,,,,,785693,Parvismic,Parvimonas micra,Germ,Parvimonas micra,no,Parvismic,Parvisspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,Parvmi,434293007
-517468,Parvisspe,Parvimonas,,,,,,517468,Parvisspe,Parvimonas species,Germ,Parvimonas species,no,Parvisspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,Parvsp,430005006
-779178,Pasteaaer,Pasteurella,aerogenes,,,,,779178,Pasteaaer,Pasteurella aerogenes,Germ,Pasteurella aerogenes,yes,Pasteaaer,Pasteaspe,Antibiogram,Yes,no,1,no,no,no,470,Pasteurella m.u.v. P. multocida CLSI M45A,Pastae,87075007
-784579,Pasteabet,Pasteurella,bettyae,,,,,784579,Pasteabet,Pasteurella bettyae,Germ,Pasteurella bettyae,yes,Pasteabet,Pasteaspe,Antibiogram,Yes,no,1,no,no,no,470,Pasteurella m.u.v. P. multocida CLSI M45A,Pastbe,113902004
-779179,Pasteacan,Pasteurella,canis,,,,,779179,Pasteacan,Pasteurella canis,Germ,Pasteurella canis,yes,Pasteacan,Pasteaspe,Antibiogram,Yes,no,1,no,no,no,470,Pasteurella m.u.v. P. multocida CLSI M45A,Pastca,7784009
-784581,Pasteadag,Pasteurella,dagmatis,,,,,784581,Pasteadag,Pasteurella dagmatis,Germ,Pasteurella dagmatis,yes,Pasteadag,Pasteaspe,Antibiogram,Yes,no,1,no,no,no,470,Pasteurella m.u.v. P. multocida CLSI M45A,Pastda,80948000
-779181,Pasteamai,Pasteurella,mairii,,,,,779181,Pasteamai,Pasteurella mairii,Germ,Pasteurella mairii,yes,Pasteamai,Pasteaspe,Antibiogram,Yes,no,1,no,no,no,470,Pasteurella m.u.v. P. multocida CLSI M45A,,113905002
+785693,Parvismic,Parvimonas,micra,,,,,785693,Parvismic,Parvimonas micra,Germ,Parvimonas micra,no,Parvismic,Parvisspe,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,Parvmi,434293007
+517468,Parvisspe,Parvimonas,,,,,,517468,Parvisspe,Parvimonas species,Germ,Parvimonas species,no,Parvisspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,Parvsp,430005006
+779178,Pasteaaer,Pasteurella,aerogenes,,,,,779178,Pasteaaer,Pasteurella aerogenes,Germ,Pasteurella aerogenes,yes,Pasteaaer,Pasteaspe,Antibiogram,Yes,no,1,no,no,no,320,Pasteurella multocida,Pastae,87075007
+784579,Pasteabet,Pasteurella,bettyae,,,,,784579,Pasteabet,Pasteurella bettyae,Germ,Pasteurella bettyae,yes,Pasteabet,Pasteaspe,Antibiogram,Yes,no,1,no,no,no,320,Pasteurella multocida,Pastbe,113902004
+779179,Pasteacan,Pasteurella,canis,,,,,779179,Pasteacan,Pasteurella canis,Germ,Pasteurella canis,yes,Pasteacan,Pasteaspe,Antibiogram,Yes,no,1,no,no,no,320,Pasteurella multocida,Pastca,7784009
+784581,Pasteadag,Pasteurella,dagmatis,,,,,784581,Pasteadag,Pasteurella dagmatis,Germ,Pasteurella dagmatis,yes,Pasteadag,Pasteaspe,Antibiogram,Yes,no,1,no,no,no,320,Pasteurella multocida,Pastda,80948000
+779181,Pasteamai,Pasteurella,mairii,,,,,779181,Pasteamai,Pasteurella mairii,Germ,Pasteurella mairii,yes,Pasteamai,Pasteaspe,Antibiogram,Yes,no,1,no,no,no,320,Pasteurella multocida,,113905002
 779182,Pasteamul,Pasteurella,multocida,,,,,779182,Pasteamul,Pasteurella multocida,Germ,Pasteurella multocida,yes,Pasteamul,Pasteaspe,Antibiogram,Yes,no,1,no,no,no,320,Pasteurella multocida,Pastmu,10879005
 779183,Pasteamul-m,Pasteurella,multocida,multocida,,,,779183,Pasteamul-m,Pasteurella multocida - multocida,Germ,Pasteurella multocida ssp. multocida,yes,Pasteamul-m,Pasteamul,Antibiogram,Yes,no,1,no,no,no,320,Pasteurella multocida,,71068007
-516266,Pasteaspe,Pasteurella,,,,,,516266,Pasteaspe,Pasteurella species,Germ,Pasteurella species,yes,Pasteaspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,470,Pasteurella m.u.v. P. multocida CLSI M45A,Pastsp,87579009
-784594,Pasteasto,Pasteurella,stomatis,,,,,784594,Pasteasto,Pasteurella stomatis,Germ,Pasteurella stomatis,yes,Pasteasto,Pasteaspe,Antibiogram,Yes,no,1,no,no,no,470,Pasteurella m.u.v. P. multocida CLSI M45A,Pastst,46827009
+516266,Pasteaspe,Pasteurella,,,,,,516266,Pasteaspe,Pasteurella species,Germ,Pasteurella species,yes,Pasteaspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,320,Pasteurella multocida,Pastsp,87579009
+784594,Pasteasto,Pasteurella,stomatis,,,,,784594,Pasteasto,Pasteurella stomatis,Germ,Pasteurella stomatis,yes,Pasteasto,Pasteaspe,Antibiogram,Yes,no,1,no,no,no,320,Pasteurella multocida,Pastst,46827009
 10786,Paucisoli,Paucilactobacillus,oligofermentans,,,,,10786,Paucisoli,Paucilactobacillus oligofermentans,Germ,Paucilactobacillus (Lactobacillus) oligofermentans,no,Paucisoli,Paucisspe,Antibiogram,Yes,no,1,no,no,no,240.02,Lactobacillus sp.,,
 10549,Paucisspe,Paucilactobacillus,,,,,,10549,Paucisspe,Paucilactobacillus species,Germ,Paucilactobacillus (Lactobacillus) species,?,Paucisspe,Gramposstaaf,,,,,,,,240.02,Lactobacillus sp.,,
 10818,Paucissue,Paucilactobacillus,suebicus,,,,,10818,Paucissue,Paucilactobacillus suebicus,Germ,Paucilactobacillus (Lactobacillus) suebicus,no,Paucissue,Paucisspe,Antibiogram,Yes,no,1,no,no,no,240.02,Lactobacillus sp.,,
@@ -2520,9 +2520,9 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 2054,Pectoraceae,NULL,NULL,NULL,,,,2054,Pectoraceae,Pectobacteriaceae,Germ,Familie Pectobacteriaceae,?,Pectoraceae,Entebales,,,,,,,,,,,
 ,Pedicshum-c,NULL,NULL,NULL,,,,,Pedicshum-c,Pediculus humanus capitis,Parasite,Pediculus humanus capitis (hoofdluis),yes,Pedicshum-c,Pedicsspe,Antibiogram,Yes,no,1,no,no,no,,,,29568001
 ,Pedicsspe,NULL,NULL,NULL,,,,,Pedicsspe,Pediculus species,Parasite,Pediculus species (luizen),yes,Pedicsspe,Parasiet,Antibiogram,Yes,no,1,no,no,no,,,,48683001
-779204,Pediosaci,Pediococcus,acidilactici,,,,,779204,Pediosaci,Pediococcus acidilactici,Germ,Pediococcus acidilactici,yes,Pediosaci,Pediosspe,Antibiogram,Yes,no,1,no,no,no,210,Pediococcus spp,Pediac,243237003
-779214,Pediospen,Pediococcus,pentosaceus,,,,,779214,Pediospen,Pediococcus pentosaceus,Germ,Pediococcus pentosaceus,yes,Pediospen,Pediosspe,Antibiogram,Yes,no,1,no,no,no,210,Pediococcus spp,Pedipe,243242006
-516274,Pediosspe,Pediococcus,,,,,,516274,Pediosspe,Pediococcus species,Germ,Pediococcus species,yes,Pediosspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,210,Pediococcus spp,,243236007
+779204,Pediosaci,Pediococcus,acidilactici,,,,,779204,Pediosaci,Pediococcus acidilactici,Germ,Pediococcus acidilactici,yes,Pediosaci,Pediosspe,Antibiogram,Yes,no,1,no,no,no,?,?,Pediac,243237003
+779214,Pediospen,Pediococcus,pentosaceus,,,,,779214,Pediospen,Pediococcus pentosaceus,Germ,Pediococcus pentosaceus,yes,Pediospen,Pediosspe,Antibiogram,Yes,no,1,no,no,no,?,?,Pedipe,243242006
+516274,Pediosspe,Pediococcus,,,,,,516274,Pediosspe,Pediococcus species,Germ,Pediococcus species,yes,Pediosspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,?,?,,243236007
 787459,Pedobragr,Pedobacter,agri,,,,,787459,Pedobragr,Pedobacter agri,Germ,Pedobacter agri,?,Pedobragr,Pedobrspe,Antibiogram,Yes,no,1,no,no,no,,,,20211000146102
 779224,Pedobrhep,Pedobacter,heparinus,,,,,779224,Pedobrhep,Pedobacter heparinus,Germ,Pedobacter heparinus,?,Pedobrhep,Pedobrspe,Antibiogram,Yes,no,1,no,no,no,,,,113554004
 516275,Pedobrspe,Pedobacter,,,,,,516275,Pedobrspe,Pedobacter species,Germ,Pedobacter species,?,Pedobrspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,,,Pedosp,115128003
@@ -2555,18 +2555,18 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 7575,Peptarspe,Peptacetobacter,,,,,,7575,Peptarspe,Peptacetobacter species,Germ,Peptacetobacter (Clostridium) species,no,Peptarspe,Gramposstaaf,,,,,,,,240,Gram positieve anaeroben,,
 779369,Peptocnig,Peptococcus,niger,,,,,779369,Peptocnig,Peptococcus niger,Germ,Peptococcus niger,no,Peptocnig,Peptocspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,Pepcni,112344007
 516286,Peptocspe,Peptococcus,,,,,,516286,Peptocspe,Peptococcus species,Germ,Peptococcus species,no,Peptocspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,,20585006
-779373,Peptosasa,Peptoniphilus,asaccharolyticus,,,,,779373,Peptosasa,Peptoniphilus asaccharolyticus,Germ,Peptoniphilus asaccharolyticus,no,Peptosasa,Peptosspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,,433440001
-790367,Peptoscox,Peptoniphilus,coxii,,,,,790367,Peptoscox,Peptoniphilus coxii,Germ,Peptoniphilus coxii,no,Peptoscox,Peptosspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,Peptco,707327001
-787354,Peptosgor,Peptoniphilus,gorbachii,,,,,787354,Peptosgor,Peptoniphilus gorbachii,Germ,Peptoniphilus gorbachii,no,Peptosgor,Peptosspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,Peptgo,712908002
-779374,Peptoshar,Peptoniphilus,harei,,,,,779374,Peptoshar,Peptoniphilus harei,Germ,Peptoniphilus harei,no,Peptoshar,Peptosspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,Peptha,433373007
-779375,Peptosind,Peptoniphilus,indolicus,,,,,779375,Peptosind,Peptoniphilus indolicus,Germ,Peptoniphilus indolicus,no,Peptosind,Peptosspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,Peptin,433374001
-779376,Peptosivo,Peptoniphilus,ivorii,,,,,779376,Peptosivo,Peptoniphilus ivorii,Germ,Peptoniphilus ivorii,no,Peptosivo,Peptosspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,Peptiv,433375000
-790206,Peptoskoe,Peptoniphilus,koenoeneniae,,,,,790206,Peptoskoe,Peptoniphilus koenoeneniae,Germ,Peptoniphilus koenoeneniae,no,Peptoskoe,Peptosspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,,20221000146107
-779377,Peptoslac,Peptoniphilus,lacrimalis,,,,,779377,Peptoslac,Peptoniphilus lacrimalis,Germ,Peptoniphilus lacrimalis,no,Peptoslac,Peptosspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,Peptla,433376004
-787353,Peptosols,Peptoniphilus,olsenii,,,,,787353,Peptosols,Peptoniphilus olsenii,Germ,Peptoniphilus olsenii,no,Peptosols,Peptosspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,Peptol,20231000146109
-790691,Peptossen,Peptoniphilus,senegalensis,,,,,790691,Peptossen,Peptoniphilus senegalensis,Germ,Peptoniphilus senegalensis,no,Peptossen,Peptosspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,Peptse,
-516287,Peptosspe,Peptoniphilus,,,,,,516287,Peptosspe,Peptoniphilus species,Germ,Peptoniphilus species,no,Peptosspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,Peptss,430742009
-790368,Peptostyr,Peptoniphilus,tyrrelliae,,,,,790368,Peptostyr,Peptoniphilus tyrrelliae,Germ,Peptoniphilus tyrrelliae,no,Peptostyr,Peptosspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,Peptty,20241000146101
+779373,Peptosasa,Peptoniphilus,asaccharolyticus,,,,,779373,Peptosasa,Peptoniphilus asaccharolyticus,Germ,Peptoniphilus asaccharolyticus,no,Peptosasa,Peptosspe,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,,433440001
+790367,Peptoscox,Peptoniphilus,coxii,,,,,790367,Peptoscox,Peptoniphilus coxii,Germ,Peptoniphilus coxii,no,Peptoscox,Peptosspe,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,Peptco,707327001
+787354,Peptosgor,Peptoniphilus,gorbachii,,,,,787354,Peptosgor,Peptoniphilus gorbachii,Germ,Peptoniphilus gorbachii,no,Peptosgor,Peptosspe,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,Peptgo,712908002
+779374,Peptoshar,Peptoniphilus,harei,,,,,779374,Peptoshar,Peptoniphilus harei,Germ,Peptoniphilus harei,no,Peptoshar,Peptosspe,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,Peptha,433373007
+779375,Peptosind,Peptoniphilus,indolicus,,,,,779375,Peptosind,Peptoniphilus indolicus,Germ,Peptoniphilus indolicus,no,Peptosind,Peptosspe,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,Peptin,433374001
+779376,Peptosivo,Peptoniphilus,ivorii,,,,,779376,Peptosivo,Peptoniphilus ivorii,Germ,Peptoniphilus ivorii,no,Peptosivo,Peptosspe,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,Peptiv,433375000
+790206,Peptoskoe,Peptoniphilus,koenoeneniae,,,,,790206,Peptoskoe,Peptoniphilus koenoeneniae,Germ,Peptoniphilus koenoeneniae,no,Peptoskoe,Peptosspe,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,,20221000146107
+779377,Peptoslac,Peptoniphilus,lacrimalis,,,,,779377,Peptoslac,Peptoniphilus lacrimalis,Germ,Peptoniphilus lacrimalis,no,Peptoslac,Peptosspe,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,Peptla,433376004
+787353,Peptosols,Peptoniphilus,olsenii,,,,,787353,Peptosols,Peptoniphilus olsenii,Germ,Peptoniphilus olsenii,no,Peptosols,Peptosspe,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,Peptol,20231000146109
+790691,Peptossen,Peptoniphilus,senegalensis,,,,,790691,Peptossen,Peptoniphilus senegalensis,Germ,Peptoniphilus senegalensis,no,Peptossen,Peptosspe,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,Peptse,
+516287,Peptosspe,Peptoniphilus,,,,,,516287,Peptosspe,Peptoniphilus species,Germ,Peptoniphilus species,no,Peptosspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,Peptss,430742009
+790368,Peptostyr,Peptoniphilus,tyrrelliae,,,,,790368,Peptostyr,Peptoniphilus tyrrelliae,Germ,Peptoniphilus tyrrelliae,no,Peptostyr,Peptosspe,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,Peptty,20241000146101
 779378,Peptotana,Peptostreptococcus,anaerobius,,,,,779378,Peptotana,Peptostreptococcus anaerobius,Germ,Peptostreptococcus anaerobius,no,Peptotana,Peptotspe,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,Peptan,19217002
 790822,Peptotcan,Peptostreptococcus,canis,,,,,790822,Peptotcan,Peptostreptococcus canis,Germ,Peptostreptococcus canis,no,Peptotcan,Peptotspe,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,Peptca,20251000146103
 516288,Peptotspe,Peptostreptococcus,,,,,,516288,Peptotspe,Peptostreptococcus species,Germ,Peptostreptococcus species,no,Peptotspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,240.03,Peptostreptococcus sp.,Peptsp,243417000
@@ -2956,15 +2956,15 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 14787,Rosseamar,Rossellomorea,marisflavi,,,,,14787,Rosseamar,Rossellomorea marisflavi,Germ,Rossellomorea (Bacillus) marisflavi,yes,Rosseamar,Rosseaspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,
 14531,Rosseaspe,Rossellomorea,,,,,,14531,Rosseaspe,Rossellomorea species,Germ,Rossellomorea (Bacillus) species,yes,Rosseaspe,Gramposstaaf,,,,,,,,220,Bacillus spp,Rosssp,
 14789,Rosseavie,Rossellomorea,vietnamensis,,,,,14789,Rosseavie,Rossellomorea vietnamensis,Germ,Rossellomorea (Bacillus) vietnamensis,yes,Rosseavie,Rosseaspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Rossvi,
-780592,Rothiaaer,Rothia,aeria,,,,,780592,Rothiaaer,Rothia aeria,Germ,Rothia aeria,yes,Rothiaaer,Rothiaspe,Antibiogram,Yes,no,1,no,no,no,430,Rothia mucilanosa CLSI M45A,Rothae,417029007
-780593,Rothiaama,Rothia,amarae,,,,,780593,Rothiaama,Rothia amarae,Germ,Rothia amarae,yes,Rothiaama,Rothiaspe,Antibiogram,Yes,no,1,no,no,no,430,Rothia mucilanosa CLSI M45A,Rotham,438496006
-780594,Rothiaden,Rothia,dentocariosa,,,,,780594,Rothiaden,Rothia dentocariosa,Germ,Rothia dentocariosa,yes,Rothiaden,Rothiaspe,Antibiogram,Yes,no,1,no,no,no,430,Rothia mucilanosa CLSI M45A,Rothde,35379007
-798263,Rothiakor,Rothia,koreensis,,,,,798263,Rothiakor,Rothia koreensis,Germ,Rothia koreensis,yes,Rothiakor,Rothiaspe,Antibiogram,Yes,no,1,no,no,no,430,Rothia mucilanosa CLSI M45A,Rothko,
-798264,Rothiakri,Rothia,kristinae,,,,,798264,Rothiakri,Rothia kristinae,Germ,Rothia kristinae,yes,Rothiakri,Rothiaspe,Antibiogram,Yes,no,1,no,no,no,430,Rothia mucilanosa CLSI M45A,,
+780592,Rothiaaer,Rothia,aeria,,,,,780592,Rothiaaer,Rothia aeria,Germ,Rothia aeria,yes,Rothiaaer,Rothiaspe,Antibiogram,Yes,no,1,no,no,no,?,?,Rothae,417029007
+780593,Rothiaama,Rothia,amarae,,,,,780593,Rothiaama,Rothia amarae,Germ,Rothia amarae,yes,Rothiaama,Rothiaspe,Antibiogram,Yes,no,1,no,no,no,?,?,Rotham,438496006
+780594,Rothiaden,Rothia,dentocariosa,,,,,780594,Rothiaden,Rothia dentocariosa,Germ,Rothia dentocariosa,yes,Rothiaden,Rothiaspe,Antibiogram,Yes,no,1,no,no,no,?,?,Rothde,35379007
+798263,Rothiakor,Rothia,koreensis,,,,,798263,Rothiakor,Rothia koreensis,Germ,Rothia koreensis,yes,Rothiakor,Rothiaspe,Antibiogram,Yes,no,1,no,no,no,?,?,Rothko,
+798264,Rothiakri,Rothia,kristinae,,,,,798264,Rothiakri,Rothia kristinae,Germ,Rothia kristinae,yes,Rothiakri,Rothiaspe,Antibiogram,Yes,no,1,no,no,no,?,?,,
 780595,Rothiamuc,Rothia,mucilaginosa,,,,,780595,Rothiamuc,Rothia mucilaginosa,Germ,Rothia mucilaginosa,yes,Rothiamuc,Rothiaspe,Antibiogram,Yes,no,1,no,no,no,430,Rothia mucilanosa CLSI M45A,Rothmu,416544005
-780596,Rothianas,Rothia,nasimurium,,,,,780596,Rothianas,Rothia nasimurium,Germ,Rothia nasimurium,yes,Rothianas,Rothiaspe,Antibiogram,Yes,no,1,no,no,no,430,Rothia mucilanosa CLSI M45A,,437792007
-516509,Rothiaspe,Rothia,,,,,,516509,Rothiaspe,Rothia species,Germ,Rothia species,yes,Rothiaspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,430,Rothia mucilanosa CLSI M45A,Rothsp,90163001
-787154,Rothiater,Rothia,terrae,,,,,787154,Rothiater,Rothia terrae,Germ,Rothia terrae,yes,Rothiater,Rothiaspe,Antibiogram,Yes,no,1,no,no,no,430,Rothia mucilanosa CLSI M45A,Rothte,734218006
+780596,Rothianas,Rothia,nasimurium,,,,,780596,Rothianas,Rothia nasimurium,Germ,Rothia nasimurium,yes,Rothianas,Rothiaspe,Antibiogram,Yes,no,1,no,no,no,?,?,,437792007
+516509,Rothiaspe,Rothia,,,,,,516509,Rothiaspe,Rothia species,Germ,Rothia species,yes,Rothiaspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,?,?,Rothsp,90163001
+787154,Rothiater,Rothia,terrae,,,,,787154,Rothiater,Rothia terrae,Germ,Rothia terrae,yes,Rothiater,Rothiaspe,Antibiogram,Yes,no,1,no,no,no,?,?,Rothte,734218006
 780603,Rubrixgel,Rubrivivax,gelatinosus,,,,,780603,Rubrixgel,Rubrivivax gelatinosus,Germ,Rubrivivax gelatinosus,?,Rubrixgel,Rubrixspe,Antibiogram,Yes,no,1,no,no,no,,,,440787006
 516514,Rubrixspe,Rubrivivax,,,,,,516514,Rubrixspe,Rubrivivax species,Germ,Rubrivivax species,?,Rubrixspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,,,,438220008
 798367,Ruminmcell,Ruminiclostridium,cellobioparum,,,,,798367,Ruminmcell,Ruminiclostridium cellobioparum,Germ,Ruminiclostridium (Clostridium) cellobioparum,no,Ruminmcell,Ruminmspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,,
@@ -3073,8 +3073,8 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 780873,Serraafon,Serratia,fonticola,,,,,780873,Serraafon,Serratia fonticola,Germ,Serratia fonticola,yes,Serraafon,Serraaspe,Antibiogram,Yes,no,1,no,no,no,10.21,Serratia spp,Serrfo,112329006
 780874,Serraagri,Serratia,grimesii,,,,,780874,Serraagri,Serratia grimesii,Germ,Serratia grimesii,yes,Serraagri,Serraaspe,Antibiogram,Yes,no,1,no,no,no,10.21,Serratia spp,Serrgr,115005002
 780875,Serraaliq,Serratia,liquefaciens,,,,,780875,Serraaliq,Serratia liquefaciens,Germ,Serratia liquefaciens,yes,Serraaliq,Serraaspe,Antibiogram,Yes,no,1,no,no,no,10.21,Serratia spp,Serrli,23787004
-780876,Serraamar,Serratia,marcescens,,,,,780876,Serraamar,Serratia marcescens,Germ,Serratia marcescens,yes,Serraamar,Serraaspe,Antibiogram,Yes,no,1,no,no,no,10.2,Serratia marcescens,Serrma,33522002
-780877,Serraamar-m,Serratia,marcescens,marcescens,,,,780877,Serraamar-m,Serratia marcescens - marcescens,Germ,Serratia marcescens ssp marcescens,yes,Serraamar-m,Serraamar,Antibiogram,Yes,no,1,no,no,no,10.2,Serratia marcescens,,438911005
+780876,Serraamar,Serratia,marcescens,,,,,780876,Serraamar,Serratia marcescens,Germ,Serratia marcescens,yes,Serraamar,Serraaspe,Antibiogram,Yes,no,1,no,no,no,10.20,Serratia marcescens,Serrma,33522002
+780877,Serraamar-m,Serratia,marcescens,marcescens,,,,780877,Serraamar-m,Serratia marcescens - marcescens,Germ,Serratia marcescens ssp marcescens,yes,Serraamar-m,Serraamar,Antibiogram,Yes,no,1,no,no,no,10.20,Serratia marcescens,,438911005
 780880,Serraaodo,Serratia,odorifera,,,,,780880,Serraaodo,Serratia odorifera,Germ,Serratia odorifera,yes,Serraaodo,Serraaspe,Antibiogram,Yes,no,1,no,no,no,10.21,Serratia spp,Serrod,10413007
 780882,Serraaply,Serratia,plymuthica,,,,,780882,Serraaply,Serratia plymuthica,Germ,Serratia plymuthica,yes,Serraaply,Serraaspe,Antibiogram,Yes,no,1,no,no,no,10.21,Serratia spp,Serrpl,28955009
 780883,Serraapro,Serratia,proteamaculans,,,,,780883,Serraapro,Serratia proteamaculans,Germ,Serratia proteamaculans,yes,Serraapro,Serraaspe,Antibiogram,Yes,no,1,no,no,no,10.21,Serratia spp,Serrpr,116135003
@@ -3179,11 +3179,11 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 ,Spirochete,NULL,NULL,NULL,,,,,Spirochete,Spirochete,Germ,Spirochete,?,Spirochete,Bacterie,Antibiogram,Yes,no,1,no,no,no,,,,
 ,Sporissal,NULL,NULL,NULL,,,,,Sporissal,Sporidiobolus salmonicolor,Germ,Sporidiobolus salmonicolor,yes,Sporissal,Sporisspe,Antibiogram,Yes,no,1,no,no,no,,,,243446007
 ,Sporisspe,NULL,NULL,NULL,,,,,Sporisspe,Sporidiobolus species,Germ,Sporidiobolus species,?,Sporisspe,Schimmel,,,,,,,,,,,
-781140,Sporoaglo,Sporosarcina,globispora,,,,,781140,Sporoaglo,Sporosarcina globispora,Germ,Sporosarcina globispora,yes,Sporoaglo,Sporoaspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,,429567007
-788160,Sporoalut,Sporosarcina,luteola,,,,,788160,Sporoalut,Sporosarcina luteola,Germ,Sporosarcina luteola,yes,Sporoalut,Sporoaspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,Sporlu,
-789681,Sporoanew,Sporosarcina,newyorkensis,,,,,789681,Sporoanew,Sporosarcina newyorkensis,Germ,Sporosarcina newyorkensis,yes,Sporoanew,Sporoaspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,Sporne,
-781144,Sporoapsy,Sporosarcina,psychrophila,,,,,781144,Sporoapsy,Sporosarcina psychrophila,Germ,Sporosarcina psychrophila,yes,Sporoapsy,Sporoaspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,,437845000
-516655,Sporoaspe,Sporosarcina,,,,,,516655,Sporoaspe,Sporosarcina species,Germ,Sporosarcina species,yes,Sporoaspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,Sporsp,115164002
+781140,Sporoaglo,Sporosarcina,globispora,,,,,781140,Sporoaglo,Sporosarcina globispora,Germ,Sporosarcina globispora,yes,Sporoaglo,Sporoaspe,Antibiogram,Yes,no,1,no,no,no,?,?,,429567007
+788160,Sporoalut,Sporosarcina,luteola,,,,,788160,Sporoalut,Sporosarcina luteola,Germ,Sporosarcina luteola,yes,Sporoalut,Sporoaspe,Antibiogram,Yes,no,1,no,no,no,?,?,Sporlu,
+789681,Sporoanew,Sporosarcina,newyorkensis,,,,,789681,Sporoanew,Sporosarcina newyorkensis,Germ,Sporosarcina newyorkensis,yes,Sporoanew,Sporoaspe,Antibiogram,Yes,no,1,no,no,no,?,?,Sporne,
+781144,Sporoapsy,Sporosarcina,psychrophila,,,,,781144,Sporoapsy,Sporosarcina psychrophila,Germ,Sporosarcina psychrophila,yes,Sporoapsy,Sporoaspe,Antibiogram,Yes,no,1,no,no,no,?,?,,437845000
+516655,Sporoaspe,Sporosarcina,,,,,,516655,Sporoaspe,Sporosarcina species,Germ,Sporosarcina species,yes,Sporoaspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,?,?,Sporsp,115164002
 ,Sporohcer,NULL,NULL,NULL,,,,,Sporohcer,Sporopachydermia cereana,Germ,Sporopachydermia cereana,yes,Sporohcer,Sporohspe,Antibiogram,Yes,no,1,no,no,no,,,,6511000146106
 ,Sporohspe,NULL,NULL,NULL,,,,,Sporohspe,Sporopachydermia species,Germ,Sporopachydermia species,yes,Sporohspe,Schimmel,Antibiogram,Yes,no,1,no,no,no,,,,415961008
 ,Sporomros,NULL,NULL,NULL,,,,,Sporomros,Sporobolomyces roseus,Germ,Sporobolomyces roseus,yes,Sporomros,Sporomspe,Antibiogram,Yes,no,1,no,no,no,,,,243481009
@@ -3343,7 +3343,7 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 ,Strepssan-g,NULL,NULL,NULL,,,,,Strepssan-g,Streptococcus sanguinis complex,Germ,Streptococcus sanguinis complex,yes,Strepssan-g,Strepsvir-g,Antibiogram,Yes,no,1,no,no,no,170,viridans streptokokken,,115658008
 781386,Strepssin,Streptococcus,sinensis,,,,,781386,Strepssin,Streptococcus sinensis,Germ,Streptococcus mitis complex (waarschijnlijk S. sinensis),yes,Strepssin,Strepsmit-g,Antibiogram,Yes,no,1,no,no,no,170,viridans streptokokken,,438909001
 781387,Strepssob,Streptococcus,sobrinus,,,,,781387,Strepssob,Streptococcus sobrinus,Germ,"Streptococcus mutans complex (waarschijnlijk, S. sobrinus",yes,Strepssob,Strepsmut-g,Antibiogram,Yes,no,1,no,no,no,170,viridans streptokokken,Streso,43777007
-517118,Strepsspe,Streptococcus,,,,,,517118,Strepsspe,Streptococcus species,Germ,Streptococcus species,yes,Strepsspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,170,viridans streptokokken,Strespp,58800005
+517118,Strepsspe,Streptococcus,,,,,,517118,Strepsspe,Streptococcus species,Germ,Streptococcus species,yes,Strepsspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,?,?,Strespp,58800005
 781389,Strepssui,Streptococcus,suis,,,,,781389,Strepssui,Streptococcus suis,Germ,Streptococcus suis,yes,Strepssui,Strepsspe,Antibiogram,Yes,no,1,no,no,no,170,viridans streptokokken,Stresu,7912006
 781391,Strepstho,Streptococcus,thoraltensis,,,,,781391,Strepstho,Streptococcus thoraltensis,Germ,Streptococcus thoraltensis,yes,Strepstho,Strepsspe,Antibiogram,Yes,no,1,no,no,no,170,viridans streptokokken,,113997004
 781392,Strepsube,Streptococcus,uberis,,,,,781392,Strepsube,Streptococcus uberis,Germ,Streptococcus uberis,yes,Strepsube,Strepsspe,Antibiogram,Yes,no,1,no,no,no,170,viridans streptokokken,Streub,13250005
@@ -3545,14 +3545,14 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 783036,Vibriovul,Vibrio,vulnificus,,,,,783036,Vibriovul,Vibrio vulnificus,Germ,Vibrio vulnificus,yes,Vibriovul,Vibriospe,Antibiogram,Yes,no,1,no,no,no,480,Vibrio CLSI M45A,Vibrvu,55905000
 783037,Vibrioxui,Vibrio,xuii,,,,,783037,Vibrioxui,Vibrio xuii,Germ,Vibrio xuii,yes,Vibrioxui,Vibriospe,Antibiogram,Yes,no,1,no,no,no,480,Vibrio CLSI M45A,,440486001
 516900,Victisspe,Victivallis,,,,,,516900,Victisspe,Victivallis species,Germ,Victivallis species,?,Victisspe,Gramnegcoc,Antibiogram,Yes,no,1,no,no,no,,,,441430009
-783041,Virgishal,Virgibacillus,halodenitrificans,,,,,783041,Virgishal,Virgibacillus halodenitrificans,Germ,Virgibacillus halodenitrificans,?,Virgishal,Victisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,441451007
-783048,Virgispan,Virgibacillus,pantothenticus,,,,,783048,Virgispan,Virgibacillus pantothenticus,Germ,Virgibacillus pantothenticus,?,Virgispan,Virgisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,114109001
-783050,Virgispro,Virgibacillus,proomii,,,,,783050,Virgispro,Virgibacillus proomii,Germ,Virgibacillus proomii,?,Virgispro,Virgisspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Virgpr,439505007
-517158,Virgisspe,Virgibacillus,,,,,,517158,Virgisspe,Virgibacillus species,Germ,Virgibacillus species,?,Virgisspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Virgsp,114108009
-786985,Viridsare,Viridibacillus,arenosi,,,,,786985,Viridsare,Viridibacillus arenosi,Germ,Viridibacillus arenosi,?,Viridsare,Viridsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,444344003
-786981,Viridsarv,Viridibacillus,arvi,,,,,786981,Viridsarv,Viridibacillus arvi,Germ,Viridibacillus arvi,?,Viridsarv,Viridsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,444340007
-786989,Viridsnei,Viridibacillus,neidei,,,,,786989,Viridsnei,Viridibacillus neidei,Germ,Viridibacillus neidei,?,Viridsnei,Viridsspe,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,Virine,444341006
-515216,Viridsspe,Viridibacillus,,,,,,515216,Viridsspe,Viridibacillus species,Germ,Viridibacillus species,?,Viridsspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,220,Bacillus spp,,443018002
+783041,Virgishal,Virgibacillus,halodenitrificans,,,,,783041,Virgishal,Virgibacillus halodenitrificans,Germ,Virgibacillus halodenitrificans,?,Virgishal,Victisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,441451007
+783048,Virgispan,Virgibacillus,pantothenticus,,,,,783048,Virgispan,Virgibacillus pantothenticus,Germ,Virgibacillus pantothenticus,?,Virgispan,Virgisspe,Antibiogram,Yes,no,1,no,no,no,?,?,,114109001
+783050,Virgispro,Virgibacillus,proomii,,,,,783050,Virgispro,Virgibacillus proomii,Germ,Virgibacillus proomii,?,Virgispro,Virgisspe,Antibiogram,Yes,no,1,no,no,no,?,?,Virgpr,439505007
+517158,Virgisspe,Virgibacillus,,,,,,517158,Virgisspe,Virgibacillus species,Germ,Virgibacillus species,?,Virgisspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,?,?,Virgsp,114108009
+786985,Viridsare,Viridibacillus,arenosi,,,,,786985,Viridsare,Viridibacillus arenosi,Germ,Viridibacillus arenosi,?,Viridsare,Viridsspe,Antibiogram,Yes,no,1,no,no,no,?,?,,444344003
+786981,Viridsarv,Viridibacillus,arvi,,,,,786981,Viridsarv,Viridibacillus arvi,Germ,Viridibacillus arvi,?,Viridsarv,Viridsspe,Antibiogram,Yes,no,1,no,no,no,?,?,,444340007
+786989,Viridsnei,Viridibacillus,neidei,,,,,786989,Viridsnei,Viridibacillus neidei,Germ,Viridibacillus neidei,?,Viridsnei,Viridsspe,Antibiogram,Yes,no,1,no,no,no,?,?,Virine,444341006
+515216,Viridsspe,Viridibacillus,,,,,,515216,Viridsspe,Viridibacillus species,Germ,Viridibacillus species,?,Viridsspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,?,?,,443018002
 ,Wangiaspe,NULL,NULL,NULL,,,,,Wangiaspe,Wangiella species,Germ,Wangiella species,yes,Wangiaspe,Schimmel,Antibiogram,Yes,no,1,no,no,no,,,,70200002
 785594,Wauteafal,Wautersiella,falsenii,,,,,785594,Wauteafal,Wautersiella falsenii,Germ,Wautersiella falsenii,yes,Wauteafal,Wauteaspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Wautfa,
 517448,Wauteaspe,Wautersiella,,,,,,517448,Wauteaspe,Wautersiella species,Germ,Wautersiella species,yes,Wauteaspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,,450449008
