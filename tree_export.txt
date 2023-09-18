@@ -55,11 +55,6 @@ Organismen
 │   │   │   ├── Neissasub (Neisseria subflava) 110
 │   │   │   ├── Neissawea (Neisseria weaveri) 110
 │   │   │   └── Neissazoo (Neisseria zoodegmatis) 110
-│   │   ├── Paracsspe (Paracoccus species) 380
-│   │   │   ├── Paracsden (Paracoccus denitrificans) 380
-│   │   │   ├── Paracsmar (Paracoccus marinus) 380
-│   │   │   ├── Paracsver (Paracoccus versutus) 380
-│   │   │   └── Paracsyee (Paracoccus yeei) 380
 │   │   ├── Veillaspe (Veillonella species) 300
 │   │   │   ├── Veillaaty (Veillonella atypica) 300
 │   │   │   ├── Veillacav (Veillonella caviae) 300
@@ -965,6 +960,11 @@ Organismen
 │   │   │   ├── Parabsgol (Parabacteroides goldsteinii) 300
 │   │   │   ├── Parabsjoh (Parabacteroides johnsonii) 300
 │   │   │   └── Parabsmer (Parabacteroides merdae) 300
+│   │   ├── Paracsspe (Paracoccus species) 380
+│   │   │   ├── Paracsden (Paracoccus denitrificans) 380
+│   │   │   ├── Paracsmar (Paracoccus marinus) 380
+│   │   │   ├── Paracsver (Paracoccus versutus) 380
+│   │   │   └── Paracsyee (Paracoccus yeei) 380
 │   │   ├── Parazsspe (Parazoarcus species) nan
 │   │   │   └── Parazscom (Parazoarcus communis) nan
 │   │   ├── Pasteaspe (Pasteurella species) 320
