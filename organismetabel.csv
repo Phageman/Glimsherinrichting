@@ -2482,7 +2482,7 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 518914,Paracmspe,Paraclostridium,,,,,,518914,Paracmspe,Paraclostridium species,Germ,Paraclostridium (Clostridium) species,no,Paracmspe,Gramposstaaf,,,,,,,,240,Gram positieve anaeroben,,
 779156,Paracsden,Paracoccus,denitrificans,,,,,779156,Paracsden,Paracoccus denitrificans,Germ,Paracoccus denitrificans,?,Paracsden,Paracsspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,,415019004
 787200,Paracsmar,Paracoccus,marinus,,,,,787200,Paracsmar,Paracoccus marinus,Germ,Paracoccus marinus,?,Paracsmar,Paracsspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Paracma,14511000146102
-516256,Paracsspe,Paracoccus,,,,,,516256,Paracsspe,Paracoccus species,Germ,Paracoccus species,?,Paracsspe,Gramnegcoc,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Paracsp,415013003
+516256,Paracsspe,Paracoccus,,,,,,516256,Paracsspe,Paracoccus species,Germ,Paracoccus species,?,Paracsspe,Gramnegstaaf,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Paracsp,415013003
 779166,Paracsver,Paracoccus,versutus,,,,,779166,Paracsver,Paracoccus versutus,Germ,Paracoccus versutus,?,Paracsver,Paracsspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,,429910005
 784572,Paracsyee,Paracoccus,yeei,,,,,784572,Paracsyee,Paracoccus yeei,Germ,Paracoccus yeei,?,Paracsyee,Paracsspe,Antibiogram,Yes,no,1,no,no,no,380,Non-species related,Paracye,415033004
 517870,Paraeaspe,Paraeggerthella,,,,,,517870,Paraeaspe,Paraeggerthella species,Germ,Paraeggerthella species,no,Paraeaspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,Paraesp,
