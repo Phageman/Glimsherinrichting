@@ -2998,10 +2998,11 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 784857,Salmoaent,Salmonella,enterica,,,,,784857,Salmoaent,Salmonella enterica,Germ,Salmonella enterica,yes,Salmoaent,Salmoaspe,Antibiogram,Yes,no,1,no,no,no,10.24,Salmonella sp,Salmet,110378009
 516547,Salmoaspe,Salmonella,,,,,,516547,Salmoaspe,Salmonella species,Germ,Salmonella species,yes,Salmoaspe,Entbactceae,Antibiogram,Yes,no,1,no,no,no,10.24,Salmonella sp,Salmsp,27268008
 784859,Salmoatyp,Salmonella,typhi,,,,,784859,Salmoatyp,Salmonella Typhi,Germ,Salmonella Typhi,yes,Salmoatyp,Salmoaent,Antibiogram,Yes,no,1,no,no,no,10.25,Salmonella Typhi,Salmtp,5595000
+780762,Salmoaentt,Salmonella,enteritidis,,,,,780762,Salmoaentt,Salmonella Enteritidis,Germ,Salmonella Enteritidis,yes,Salmoaentt,Salmoaent,Antibiogram,Yes,no,1,no,no,no,10.24,Salmonella sp,Salmen,73525009
+780770,Salmoatypm,Salmonella,typhimurium,,,,,780770,Salmoatypm,Salmonella Typhimurium,Germ,Salmonella Typhimurium,yes,Salmoatypm,Salmoaent,Antibiogram,Yes,no,1,no,no,no,10.24,Salmonella sp,Salmty,50136005
 ,Salmoapar-a,Salmonella,,,,,,,Salmoapar-a,Salmonella Paratyphi A,Germ,Salmonella Paratyphi A,yes,Salmoapar-a,Salmoaent,Antibiogram,Yes,no,1,no,no,no,10.24,Salmonella sp,Salmpt,79128009
 ,Salmoapar-b,Salmonella,,,,,,,Salmoapar-b,Salmonella Paratyphi B,Germ,Salmonella Paratyphi B,yes,Salmoapar-b,Salmoaent,Antibiogram,Yes,no,1,no,no,no,10.24,Salmonella sp,Salmpb,85908006
 ,Salmoapar-c,Salmonella,,,,,,,Salmoapar-c,Salmonella Paratyphi C,Germ,Salmonella Paratyphi C,yes,Salmoapar-c,Salmoaent,Antibiogram,Yes,no,1,no,no,no,10.24,Salmonella sp,Salmpc,32488009
-,Salmoavir,NULL,NULL,NULL,,,,,Salmoavir,Salmonella Virchow,Germ,Salmonella Virchow,yes,Salmoavir,Salmoaent,Antibiogram,Yes,no,1,no,no,no,10.24,Salmonella sp,Salmvi,5929008
 780771,Samsoaery,Samsonia,erythrinae,,,,,780771,Samsoaery,Samsonia erythrinae,Germ,Samsonia erythrinae,yes,Samsoaery,Samsoaspe,Antibiogram,Yes,no,1,no,no,no,,,,441102000
 516548,Samsoaspe,Samsonia,,,,,,516548,Samsoaspe,Samsonia species,Germ,Samsonia species,yes,Samsoaspe,Yersiaceae,Antibiogram,Yes,no,1,no,no,no,,,,437889000
 ,Saprocap,NULL,NULL,NULL,,,,,Saprocap,Saprochaete capitata,Germ,Saprochaete capitata (Geotrichum capitatum),yes,Saprocap,Saproespe,Antibiogram,Yes,no,1,no,no,no,,,,
