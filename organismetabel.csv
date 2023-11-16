@@ -2,8 +2,7 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 ,.Aerocssp?,NULL,NULL,NULL,,,,,.aerocssp?,"Gram-positieve coc, mogelijk Aerococcus species",Germ,"Gram-positieve coc, mogelijk Aerococcus species",yes,.aerocssp?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,.Aureus_thym?,NULL,NULL,NULL,,,,,.aureus_thym?,"Gram-positieve coc, mogelijk thymidine afhankelijke S. aureus",Germ,"Gram-positieve coc, mogelijk thymidine afhankelijke S.aureus",yes,.aureus_thym?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,.Aureus?,NULL,NULL,NULL,,,,,.aureus?,"Gram-positieve coc, mogelijk Staphylococcus aureus",Germ,"Gram-positieve coc, mogelijk Staphylococcus aureus",yes,.aureus?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
-,.Bacilsan?,NULL,NULL,NULL,,,,,.bacilsan?,"Gram-positieve staaf, mogelijk Bacillus anthracis",Germ,"Gram-positieve staaf, mogelijk Bacillus anthracis",yes,.bacilsan?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
-,Bacterie_q,NULL,NULL,NULL,,,,,bacterie_q,Anaerobe bacterie,Germ,Anaerobe bacterie,no,bacterie_q,Procedure,Antibiogram,Yes,no,1,no,no,no,,,,
+,Bacterie_Q,NULL,NULL,NULL,,,,,bacterie_Q,Anaerobe bacterie,Germ,Anaerobe bacterie,no,bacterie_q,Procedure,Antibiogram,Yes,no,1,no,no,no,,,,
 ,Bkcoagpos,NULL,NULL,NULL,,,,,bkcoagpos,"Coagulase positieve staphylococ, mogelijk S. aureus",Germ,"Coagulase positieve staphylococ, mogelijk S. aureus",yes,bkcoagpos,Procedure,Antibiogram,Yes,no,1,no,no,no,,,,
 ,Bkgist,NULL,NULL,NULL,,,,,bkgist,Gist determinatie volgt,Germ,"Gist, determinatie volgt",yes,bkgist,Procedure,Antibiogram,Yes,no,1,no,no,no,,,,
 ,Bkgnc,NULL,NULL,NULL,,,,,bkgnc,"Gram-negatieve coc, determinatie volgt",Germ,"Gram-negatieve coc, determinatie volgt",yes,bkgnc,Procedure,Antibiogram,Yes,no,1,no,no,no,,,,
@@ -11,20 +10,19 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 ,Bkgps,NULL,NULL,NULL,,,,,bkgps,"Gram-positieve staaf, determinatie volgt",Germ,"Gram-positieve staaf, determinatie volgt",yes,bkgps,Procedure,Antibiogram,Yes,no,1,no,no,no,,,,
 ,Bkstaph,NULL,NULL,NULL,,,,,bkstaph,"Gram-positieve coc, mogelijk Staphylococcus species",Germ,"Gram-positieve coc, mogelijk Staphylococcus species",yes,bkstaph,Procedure,Antibiogram,Yes,no,1,no,no,no,,,,
 ,Bkstrep,NULL,NULL,NULL,,,,,bkstrep,"Gram-positieve coc, mogelijk Streptococcus species",Germ,"Gram-positieve coc, mogelijk Streptococcus species",yes,bkstrep,Procedure,Antibiogram,Yes,no,1,no,no,no,,,,
-,.Bordeasp?,NULL,NULL,NULL,,,,,.bordeasp?,"Gram-negatieve staaf, mogelijk Bordetella species",Germ,"Gram-negatieve staaf, mogelijk Bordetella species",yes,.bordeasp?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,.Bruceasp?,NULL,NULL,NULL,,,,,.bruceasp?,"Gram-negatieve staaf, mogelijk Brucella species",Germ,"Gram-negatieve staaf, mogelijk Brucella species",yes,.bruceasp?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,.Burkhasp?,NULL,NULL,NULL,,,,,.burkhasp?,"Gram-negatieve staaf, mogelijk Burkholderia species",Germ,"Gram-negatieve staaf, mogelijk Burkholderia species",yes,.burkhasp?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,.Campyrsp?,NULL,NULL,NULL,,,,,.campyrsp?,"Gram-negatieve staaf, mogelijk Campylobacter species",Germ,"Gram-negatieve staaf, mogelijk Campylobacter species",?,.campyrsp?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
-,.Clostmdi?,NULL,NULL,NULL,,,,,.clostmdi?,"Gram-positieve staaf, mogelijk Clostridium difficile",Germ,"Gram-positieve staaf, mogelijk Clostridium difficile",no,.clostmdi?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
+,.Clostmdi?,NULL,NULL,NULL,,,,,.clostmdi?,"Gram-positieve staaf, mogelijk Clostridioides difficile",Germ,"Gram-positieve staaf, mogelijk Clostridium difficile",no,.clostmdi?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,.Cns?,NULL,NULL,NULL,,,,,.cns?,"Gram-positieve coc, mogelijk coagulase negatieve staphylococ",Germ,"Gram-positieve coc, mogelijk coagulase negatieve staphylococ",yes,.cns?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,.Corynmdi?,NULL,NULL,NULL,,,,,.corynmdi?,"Gram-positieve staaf, mogelijk Corynebacterium diphteriae",Germ,"Gram-positieve staaf, mogelijk Corynebacterium diphteriae",yes,.corynmdi?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,.Dift?,NULL,NULL,NULL,,,,,.dift?,"Gram-positieve staaf, mogelijk Corynebacterium species",Germ,"Gram-positieve staaf, mogelijk Corynebacterium species",yes,.dift?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,.Entc?,NULL,NULL,NULL,,,,,.entc?,"Gram-positieve coc, mogelijk Enterococcus species",Germ,"Gram-positieve coc, mogelijk Enterococcus species",yes,.entc?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
-,Fles,NULL,NULL,NULL,,,,,fles,fles BACTEC/MGIT,Germ,,?,fles,Procedure,Antibiogram,No,no,1,no,no,no,,,,
+,FLES,NULL,NULL,NULL,,,,,FLES,fles BACTEC/MGIT,Germ,,?,fles,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,Floracom,NULL,NULL,NULL,,,,,floracom,Commensale flora,Germ,Commensale flora,?,floracom,Procedure,Antibiogram,Yes,no,1,no,no,no,,,,
 ,Florameng,NULL,NULL,NULL,,,,,florameng,Mengflora,Germ,Mengflora,?,florameng,Procedure,Antibiogram,Yes,no,1,no,no,no,,,meng,
 ,Floramengpos,NULL,NULL,NULL,,,,,floramengpos,Gram-positive mengflora,Germ,Gram-positive mengflora,?,floramengpos,Procedure,Antibiogram,Yes,no,1,no,no,no,,,,
-,Floramengq,NULL,NULL,NULL,,,,,floramengq,Anaerobe mengflora,Germ,Anaerobe mengflora,no,floramengq,Procedure,Antibiogram,Yes,no,1,no,no,no,,,mengan,
+,floramengQ,NULL,NULL,NULL,,,,,floramengQ,Anaerobe mengflora,Germ,Anaerobe mengflora,no,floramengq,Procedure,Antibiogram,Yes,no,1,no,no,no,,,mengan,
 ,Geen,NULL,NULL,NULL,,,,,geen,,Germ,,?,geen,Procedure,Antibiogram,No,no,1,no,no,no,,,geen,
 ,Gist,NULL,NULL,NULL,,,,,gist,Gist,Germ,Gist,yes,gist,Procedure,Antibiogram,Yes,no,1,no,no,no,,,gist,
 ,.Gist?,NULL,NULL,NULL,,,,,.gist?,"Gist, determinatie volgt",Germ,"Gist, determinatie volgt",yes,.gist?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
@@ -40,13 +38,13 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 ,.Nonferm?,NULL,NULL,NULL,,,,,.nonferm?,"Gram-negatieve staaf, mogelijk Pseudomonas species",Germ,"Gram-negatieve staaf, mogelijk Pseudomonas species",yes,.nonferm?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,.O157?,NULL,NULL,NULL,,,,,.o157?,"Escherichia coli, mogelijk serotype O157",Germ,"Escherichia coli, mogelijk serotype O157",yes,.o157?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,.Plesissp?,NULL,NULL,NULL,,,,,.plesissp?,"Gram-negatieve staaf, mogelijk Plesiomonas species",Germ,"Gram-negatieve staaf, mogelijk Plesiomonas species",yes,.plesissp?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
-,.Pneumococ?,NULL,NULL,NULL,,,,,.pneumococ?,"Gram-positieve coc, mogelijk Streptococcus pneumoniae",Germ,"Gram-positieve coc, mogelijk Streptococcus pneumoniae",yes,.pneumococ?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
+,.pneumokok?,NULL,NULL,NULL,,,,,.pneumokok?,"Gram-positieve coc, mogelijk Streptococcus pneumoniae",Germ,"Gram-positieve coc, mogelijk Streptococcus pneumoniae",yes,.pneumococ?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,Procedure,NULL,NULL,NULL,,,,,Procedure,procedure,Germ,procedure,?,Procedure,?,?,No,no,?,no,no,no,,,,
 ,Rein_aerocssp,NULL,NULL,NULL,,,,,rein_aerocssp,"Reinkweek, mogelijk Aerococcus species",Germ,"Reinkweek, mogelijk Aerococcus species",yes,rein_aerocssp,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,Rein_aur_thym,NULL,NULL,NULL,,,,,rein_aur_thym,"Reinkweek, mogelijk thymidine afhankelijke Staphylococcus aureus",Germ,"Reinkweek, mogelijk thymidine afhankelijke Staphylococcus aureus",yes,rein_aur_thym,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,Rein_aureus,NULL,NULL,NULL,,,,,rein_aureus,"Reinkweek, mogelijk Staphylococcus aureus",Germ,"Reinkweek, mogelijk Staphylococcus aureus",yes,rein_aureus,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,Rein_bact,NULL,NULL,NULL,,,,,rein_bact,Reinkweek bacterie,Germ,Reinkweek bacterie,yes,rein_bact,Procedure,Antibiogram,No,no,1,no,no,no,,,reinbact?,
-,Rein_bact_q,NULL,NULL,NULL,,,,,rein_bact_q,Reinkweek anaerobe bacterie,Germ,Reinkweek anaerobe bacterie,no,rein_bact_q,Procedure,Antibiogram,No,no,1,no,no,no,,,,
+,rein_bact_Q,NULL,NULL,NULL,,,,,rein_bact_Q,Reinkweek anaerobe bacterie,Germ,Reinkweek anaerobe bacterie,no,rein_bact_q,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,Rein_cns,NULL,NULL,NULL,,,,,rein_cns,"Reinkweek, mogelijk coagulase negatieve staphylococ",Germ,"Reinkweek, mogelijk coagulase negatieve staphylococ",yes,rein_cns,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,Rein_dift,NULL,NULL,NULL,,,,,rein_dift,"Reinkweek, mogelijk Corynebacterium species",Germ,"Reinkweek, mogelijk Corynebacterium species",yes,rein_dift,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,Rein_entc,NULL,NULL,NULL,,,,,rein_entc,"Reinkweek, mogelijk Enterococcus species",Germ,"Reinkweek, mogelijk Enterococcus species",yes,rein_entc,Procedure,Antibiogram,No,no,1,no,no,no,,,,
@@ -57,10 +55,10 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 ,Rein_moraxaca,NULL,NULL,NULL,,,,,rein_moraxaca,"Reinkweek, mogelijk Moraxella catarrhalis",Germ,"Reinkweek, mogelijk Moraxella catarrhalis",yes,rein_moraxaca,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,Rein_neissago,NULL,NULL,NULL,,,,,rein_neissago,"Reinkweek, mogelijk Neisseria gonorrhoeae",Germ,"Reinkweek, mogelijk Neisseria gonorrhoeae",yes,rein_neissago,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,Rein_nonferm,NULL,NULL,NULL,,,,,rein_nonferm,"Reinkweek, mogelijk Pseudomonas species",Germ,"Reinkweek, mogelijk Pseudomonas species",yes,rein_nonferm,Procedure,Antibiogram,No,no,1,no,no,no,,,,
-,Rein_pneumococ,NULL,NULL,NULL,,,,,rein_pneumococ,"Reinkweek, mogelijk Streptococcus pneumoniae",Germ,"Reinkweek, mogelijk Streptococcus pneumoniae",yes,rein_pneumococ,Procedure,Antibiogram,No,no,1,no,no,no,,,,
+,rein_pneumokok,NULL,NULL,NULL,,,,,rein_pneumokok,"Reinkweek, mogelijk Streptococcus pneumoniae",Germ,"Reinkweek, mogelijk Streptococcus pneumoniae",yes,rein_pneumococ,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,Rein_verg,NULL,NULL,NULL,,,,,rein_verg,"Reinkweek, mogelijk vergroenende streptococ",Germ,"Reinkweek, mogelijk vergroenende streptococ",yes,rein_verg,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,.Salmoasp?,NULL,NULL,NULL,,,,,.salmoasp?,"Gram-negatieve staaf, mogelijk Salmonella species",Germ,"Gram-negatieve staaf, mogelijk Salmonella species",yes,.salmoasp?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
-,.Shigeasp.Eiec?,NULL,NULL,NULL,,,,,.shigeasp.eiec?,"Gram-negatieve staaf, mogelijk Shigella species of EIEC",Germ,"Gram-negatieve staaf, mogelijk Shigella species of EIEC",yes,.shigeasp.eiec?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
+,.Shigeasp.EIEC?,NULL,NULL,NULL,,,,,.shigeasp.EIEC?,"Gram-negatieve staaf, mogelijk Shigella species of EIEC",Germ,"Gram-negatieve staaf, mogelijk Shigella species of EIEC",yes,.shigeasp.eiec?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,.Verg?,NULL,NULL,NULL,,,,,.verg?,"Vergroenende streptokok, determinatie volgt",Germ,"Vergroenende streptokok, determinatie volgt",yes,.verg?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,.Vibrioch?,NULL,NULL,NULL,,,,,.vibrioch?,"Gram-negatieve staaf, mogelijk Vibrio cholerae",Germ,,yes,.vibrioch?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
 ,.Yersiasp?,NULL,NULL,NULL,,,,,.yersiasp?,"Gram-negatieve staaf, mogelijk Yersinia species",Germ,,yes,.yersiasp?,Procedure,Antibiogram,No,no,1,no,no,no,,,,
@@ -1148,8 +1146,8 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 ,Diutiaspe,NULL,NULL,NULL,,,,,Diutiaspe,Diutina species,Germ,Diutina species,yes,Diutiaspe,Schimmel,,,,,,,,,,,
 ,Diutiing,NULL,NULL,NULL,,,,,Diutiing,Diutina catenulata,Germ,Diutina catenulata (Candida catenulata),yes,Diutiing,Diutiaspe,,,,,,,,,,,
 ,Diutirug,NULL,NULL,NULL,,,,,Diutirug,Diutina rugosa,Germ,Diutina rugosa (Candida rugosa),yes,Diutirug,Diutiaspe,,,,,,,,,,,
-783747,Dolosmpig,Dolosigranulum,pigrum,,,,,783747,Dolosmpig,Dolosigranulum pigrum,Germ,Dolosigranulum pigrum,no,Dolosmpig,Dolosmspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,Dolopi,
-517222,Dolosmspe,Dolosigranulum,,,,,,517222,Dolosmspe,Dolosigranulum species,Germ,Dolosigranulum species,no,Dolosmspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,Dolosp,
+783747,Dolosmpig,Dolosigranulum,pigrum,,,,,783747,Dolosmpig,Dolosigranulum pigrum,Germ,Dolosigranulum pigrum,no,Dolosmpig,Dolosmspe,Antibiogram,Yes,no,1,no,no,no,,,Dolopi,
+517222,Dolosmspe,Dolosigranulum,,,,,,517222,Dolosmspe,Dolosigranulum species,Germ,Dolosigranulum species,no,Dolosmspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,,,Dolosp,
 518368,Domibsspe,Domibacillus,,,,,,518368,Domibsspe,Domibacillus species,Germ,Domibacillus species,yes,Domibsspe,Gramposstaaf,Antibiogram,Yes,no,1,no,no,no,,,Domisp,
 ,Dydimaglo,NULL,NULL,NULL,,,814105,,Dydimaglo,Didymella glomerata,Germ,Didymella glomerata,yes,Dydimaglo,Dydimspe,Antibiogram,Yes,no,1,no,no,no,,,,
 ,Dydimspe,NULL,NULL,NULL,,,1548,,Dydimspe,Didymella species,Germ,Didymella species,yes,Dydimspe,Schimmel,,,,,,,,,,,
@@ -1645,9 +1643,9 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 791223,Kosakacow,Kosakonia,cowanii,,,,,791223,Kosakacow,Kosakonia cowanii,Germ,Kosakonia cowanii,yes,Kosakacow,Kosakaspe,Antibiogram,Yes,no,1,no,no,no,,,Kosaco,
 791224,Kosakarad,Kosakonia,radicincitans,,,,,791224,Kosakarad,Kosakonia radicincitans,Germ,Kosakonia radicincitans,yes,Kosakarad,Kosakaspe,Antibiogram,Yes,no,1,no,no,no,,,Kosara,8181000146108
 518439,Kosakaspe,Kosakonia,,,,,,518439,Kosakaspe,Kosakonia species,Germ,Kosakonia species,yes,Kosakaspe,Entbactceae,Antibiogram,Yes,no,1,no,no,no,,,Kosasp,8031000146105
-777226,Kytocssch,Kytococcus,schroeteri,,,,,777226,Kytocssch,Kytococcus schroeteri,Germ,Kytococcus schroeteri,yes,Kytocssch,Kytocsspe,Antibiogram,Yes,no,1,no,no,no,,,Kytosc,428721003
-777227,Kytocssed,Kytococcus,sedentarius,,,,,777227,Kytocssed,Kytococcus sedentarius,Germ,Kytococcus sedentarius,yes,Kytocssed,Kytocsspe,Antibiogram,Yes,no,1,no,no,no,,,Kytose,113775009
-515905,Kytocsspe,Kytococcus,,,,,,515905,Kytocsspe,Kytococcus species,Germ,Kytococcus species,yes,Kytocsspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,,,Kytosp,115141004
+777226,Kytocssch,Kytococcus,schroeteri,,,,,777226,Kytocssch,Kytococcus schroeteri,Germ,Kytococcus schroeteri,yes,Kytocssch,Kytocsspe,Antibiogram,Yes,no,1,no,no,no,130,,Kytosc,428721003
+777227,Kytocssed,Kytococcus,sedentarius,,,,,777227,Kytocssed,Kytococcus sedentarius,Germ,Kytococcus sedentarius,yes,Kytocssed,Kytocsspe,Antibiogram,Yes,no,1,no,no,no,130,,Kytose,113775009
+515905,Kytocsspe,Kytococcus,,,,,,515905,Kytocsspe,Kytococcus species,Germ,Kytococcus species,yes,Kytocsspe,Gramposcoc,Antibiogram,Yes,no,1,no,no,no,130,,Kytosp,115141004
 ,Lachaafer,NULL,NULL,NULL,,,,,Lachaafer,Lachancea fermentati,Germ,Lachancea fermentati,yes,Lachaafer,Lachaaspe,Antibiogram,Yes,no,1,no,no,no,,,,4981000146101
 ,Lachaaspe,NULL,NULL,NULL,,,,,Lachaaspe,Lachancea species,Germ,Lachancea species,yes,Lachaaspe,Schimmel,Antibiogram,Yes,no,1,no,no,no,,,,4661000146103
 790293,Lachnmora,Lachnoanaerobaculum,orale,,,,,790293,Lachnmora,Lachnoanaerobaculum orale,Germ,Lachnoanaerobaculum orale,no,Lachnmora,Lachnmspe,Antibiogram,Yes,no,1,no,no,no,240,Gram positieve anaeroben,Lachor,705171008
