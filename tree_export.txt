@@ -534,24 +534,12 @@ Organismen
 │   │   │   │   │   └── Raoulater (Raoultella terrigena) 10.19
 │   │   │   │   ├── Salmoaspe (Salmonella species) 10.24
 │   │   │   │   │   └── Salmoaent (Salmonella enterica) 10.24
-│   │   │   │   │       ├── Salmoaago (Salmonella Agona) 10.24
-│   │   │   │   │       ├── Salmoaana (Salmonella Anatum) 10.24
-│   │   │   │   │       ├── Salmoacor (Salmonella Corvallis) 10.24
-│   │   │   │   │       ├── Salmoadub (Salmonella Dublin) 10.24
-│   │   │   │   │       ├── Salmoaent-a (Salmonella enterica ssp. arizonae) 10.24
-│   │   │   │   │       ├── Salmoaent-e (Salmonella Butantan) 10.24
 │   │   │   │   │       ├── Salmoaentt (Salmonella Enteritidis) 10.24
-│   │   │   │   │       ├── Salmoagol (Salmonella Goldcoast) 10.24
-│   │   │   │   │       ├── Salmoahad (Salmonella Hadar) 10.24
-│   │   │   │   │       ├── Salmoajav (Salmonella Javiana) 10.24
-│   │   │   │   │       ├── Salmoaken (Salmonella Kentucky) 10.24
-│   │   │   │   │       ├── Salmoamen (Salmonella Menston) 10.24
-│   │   │   │   │       ├── Salmoamgu (Salmonella Mgulani) 10.24
-│   │   │   │   │       ├── Salmoapan (Salmonella Panama) 10.24
-│   │   │   │   │       ├── Salmoatak (Salmonella Takoradi) 10.24
+│   │   │   │   │       ├── Salmoapar-a (Salmonella Paratyphi A) 10.24
+│   │   │   │   │       ├── Salmoapar-b (Salmonella Paratyphi B) 10.24
+│   │   │   │   │       ├── Salmoapar-c (Salmonella Paratyphi C) 10.24
 │   │   │   │   │       ├── Salmoatyp (Salmonella Typhi) 10.25
-│   │   │   │   │       ├── Salmoatypm (Salmonella Typhimurium) 10.24
-│   │   │   │   │       └── Salmoavir (Salmonella Virchow) 10.24
+│   │   │   │   │       └── Salmoatypm (Salmonella Typhimurium) 10.24
 │   │   │   │   ├── Shigeaspe (Shigella species) 10.26
 │   │   │   │   │   ├── Shigeaboy (Shigella boydii) 10.26
 │   │   │   │   │   ├── Shigeadys (Shigella dysenteriae) 10.26
@@ -1469,9 +1457,9 @@ Organismen
 │   │   │   ├── Kocuraros (Kocuria rosea) 130
 │   │   │   ├── Kocurasal (Kocuria salsicia) 130
 │   │   │   └── Kocuravar (Kocuria varians) 130
-│   │   ├── Kytocsspe (Kytococcus species) nan
-│   │   │   ├── Kytocssch (Kytococcus schroeteri) nan
-│   │   │   └── Kytocssed (Kytococcus sedentarius) nan
+│   │   ├── Kytocsspe (Kytococcus species) 130
+│   │   │   ├── Kytocssch (Kytococcus schroeteri) 130
+│   │   │   └── Kytocssed (Kytococcus sedentarius) 130
 │   │   ├── Lactocspe (Lactococcus species) nan
 │   │   │   ├── Lactoccre (Lactococcus cremoris) nan
 │   │   │   │   └── Lactoccre-t (Lactococcus cremoris tructae) nan
@@ -2130,8 +2118,8 @@ Organismen
 │   │   ├── Dietzaspe (Dietzia species) nan
 │   │   │   ├── Dietzamar (Dietzia maris) nan
 │   │   │   └── Dietzanat (Dietzia natronolimnaea) nan
-│   │   ├── Dolosmspe (Dolosigranulum species) 240
-│   │   │   └── Dolosmpig (Dolosigranulum pigrum) 240
+│   │   ├── Dolosmspe (Dolosigranulum species) nan
+│   │   │   └── Dolosmpig (Dolosigranulum pigrum) nan
 │   │   ├── Domibsspe (Domibacillus species) nan
 │   │   ├── Ectobsspe (Ectobacillus species) nan
 │   │   │   └── Ectobsfun (Ectobacillus funiculus) nan
@@ -3088,12 +3076,10 @@ Organismen
 │   ├── .aerocssp? (Gram-positieve coc, mogelijk Aerococcus species) nan
 │   ├── .aureus? (Gram-positieve coc, mogelijk Staphylococcus aureus) nan
 │   ├── .aureus_thym? (Gram-positieve coc, mogelijk thymidine afhankelijke S. aureus) nan
-│   ├── .bacilsan? (Gram-positieve staaf, mogelijk Bacillus anthracis) nan
-│   ├── .bordeasp? (Gram-negatieve staaf, mogelijk Bordetella species) nan
 │   ├── .bruceasp? (Gram-negatieve staaf, mogelijk Brucella species) nan
 │   ├── .burkhasp? (Gram-negatieve staaf, mogelijk Burkholderia species) nan
 │   ├── .campyrsp? (Gram-negatieve staaf, mogelijk Campylobacter species) nan
-│   ├── .clostmdi? (Gram-positieve staaf, mogelijk Clostridium difficile) nan
+│   ├── .clostmdi? (Gram-positieve staaf, mogelijk Clostridioides difficile) nan
 │   ├── .cns? (Gram-positieve coc, mogelijk coagulase negatieve staphylococ) nan
 │   ├── .corynmdi? (Gram-positieve staaf, mogelijk Corynebacterium diphteriae) nan
 │   ├── .dift? (Gram-positieve staaf, mogelijk Corynebacterium species) nan
@@ -3108,13 +3094,14 @@ Organismen
 │   ├── .nonferm? (Gram-negatieve staaf, mogelijk Pseudomonas species) nan
 │   ├── .o157? (Escherichia coli, mogelijk serotype O157) nan
 │   ├── .plesissp? (Gram-negatieve staaf, mogelijk Plesiomonas species) nan
-│   ├── .pneumococ? (Gram-positieve coc, mogelijk Streptococcus pneumoniae) nan
+│   ├── .pneumokok? (Gram-positieve coc, mogelijk Streptococcus pneumoniae) nan
 │   ├── .salmoasp? (Gram-negatieve staaf, mogelijk Salmonella species) nan
-│   ├── .shigeasp.eiec? (Gram-negatieve staaf, mogelijk Shigella species of EIEC) nan
+│   ├── .shigeasp.EIEC? (Gram-negatieve staaf, mogelijk Shigella species of EIEC) nan
 │   ├── .verg? (Vergroenende streptokok, determinatie volgt) nan
 │   ├── .vibrioch? (Gram-negatieve staaf, mogelijk Vibrio cholerae) nan
 │   ├── .yersiasp? (Gram-negatieve staaf, mogelijk Yersinia species) nan
-│   ├── bacterie_q (Anaerobe bacterie) nan
+│   ├── FLES (fles BACTEC/MGIT) nan
+│   ├── bacterie_Q (Anaerobe bacterie) nan
 │   ├── bkcoagpos (Coagulase positieve staphylococ, mogelijk S. aureus) nan
 │   ├── bkgist (Gist determinatie volgt) nan
 │   ├── bkgnc (Gram-negatieve coc, determinatie volgt) nan
@@ -3122,11 +3109,10 @@ Organismen
 │   ├── bkgps (Gram-positieve staaf, determinatie volgt) nan
 │   ├── bkstaph (Gram-positieve coc, mogelijk Staphylococcus species) nan
 │   ├── bkstrep (Gram-positieve coc, mogelijk Streptococcus species) nan
-│   ├── fles (fles BACTEC/MGIT) nan
 │   ├── floracom (Commensale flora) nan
 │   ├── florameng (Mengflora) nan
+│   ├── floramengQ (Anaerobe mengflora) nan
 │   ├── floramengpos (Gram-positive mengflora) nan
-│   ├── floramengq (Anaerobe mengflora) nan
 │   ├── geen (nan) nan
 │   ├── gist (Gist) nan
 │   ├── gmo (Geen micro organismen) nan
@@ -3135,7 +3121,7 @@ Organismen
 │   ├── rein_aur_thym (Reinkweek, mogelijk thymidine afhankelijke Staphylococcus aureus) nan
 │   ├── rein_aureus (Reinkweek, mogelijk Staphylococcus aureus) nan
 │   ├── rein_bact (Reinkweek bacterie) nan
-│   ├── rein_bact_q (Reinkweek anaerobe bacterie) nan
+│   ├── rein_bact_Q (Reinkweek anaerobe bacterie) nan
 │   ├── rein_cns (Reinkweek, mogelijk coagulase negatieve staphylococ) nan
 │   ├── rein_dift (Reinkweek, mogelijk Corynebacterium species) nan
 │   ├── rein_entc (Reinkweek, mogelijk Enterococcus species) nan
@@ -3146,7 +3132,7 @@ Organismen
 │   ├── rein_moraxaca (Reinkweek, mogelijk Moraxella catarrhalis) nan
 │   ├── rein_neissago (Reinkweek, mogelijk Neisseria gonorrhoeae) nan
 │   ├── rein_nonferm (Reinkweek, mogelijk Pseudomonas species) nan
-│   ├── rein_pneumococ (Reinkweek, mogelijk Streptococcus pneumoniae) nan
+│   ├── rein_pneumokok (Reinkweek, mogelijk Streptococcus pneumoniae) nan
 │   └── rein_verg (Reinkweek, mogelijk vergroenende streptococ) nan
 └── Schimmel
     ├── Acaulmspe (Acaulium species) nan
@@ -3204,58 +3190,6 @@ Organismen
     │   └── Boereaexi (Boeremia exigua) nan
     ├── Botrysspe (Botrytis species) nan
     │   └── Botryscin (Botrytis cinerea) nan
-    ├── Brettsspe (Brettanomyces species) nan
-    ├── Candiaspe (Candida species) 400
-    │   ├── Candiaala (Candida alai) nan
-    │   ├── Candiaalb (Candida albicans) 400.01
-    │   ├── Candiaall (Candida allociferrii) 400
-    │   ├── Candiaaur (Candida auris) 400
-    │   ├── Candiabla (Candida blankii) 400
-    │   ├── Candiablat (Candida blattae) 400
-    │   ├── Candiaboh (Candida bohiensis) 400
-    │   ├── Candiaboi (Candida boidinii) 400
-    │   ├── Candiabra (Candida bracarensis) 400
-    │   ├── Candiabue (Candida buenavistaensis) 400
-    │   ├── Candiacas (Candida castellii) 400
-    │   ├── Candiacol (Candida colliculosa) 400
-    │   ├── Candiacyl (Candida cylindracea) 400
-    │   ├── Candiadub (Candida dubliniensis) 400.02
-    │   ├── Candiaduo (Candida duobushaemulonis) 400
-    │   ├── Candiafre (Candida freyschussii) 400
-    │   ├── Candiafri (Candida friedrichii) 400
-    │   ├── Candiafrij (Candida frijolesensis) 400
-    │   ├── Candiagla (Candida glabrata) 400.03
-    │   ├── Candiahae (Candida haemuloni) 400
-    │   ├── Candiahyd (Candida hyderabadensis) 400
-    │   ├── Candiainc (Candida inconspicua) 400
-    │   ├── Candiaint (Candida intermedia) 400
-    │   ├── Candialab (Candida labiduridarum) 400
-    │   ├── Candiamal (Candida maltosa) 400
-    │   ├── Candiamem (Candida membranifaciens) 400
-    │   ├── Candiames (Candida mesenterica) 400
-    │   ├── Candiamul (Candida multis-gemmis) 400
-    │   ├── Candianem (Candida nemodendra) 400
-    │   ├── Candianit (Candida nitratophila) 400
-    │   ├── Candianiv (Candida nivariensis) 400
-    │   ├── Candianori (Candida norvegica) 400
-    │   ├── Candiapal (Candida palmioleophila) 400
-    │   ├── Candiapar-c (Candida parapsilosis complex) 400.05
-    │   │   ├── Candiamet (Candida metapsilosis) 400.05
-    │   │   ├── Candiaort (Candida orthopsilosis) 400.05
-    │   │   └── Candiapar (Candida parapsilosis) 400.05
-    │   ├── Candiapin (Candida pini) 400
-    │   ├── Candiapse (Candida pseudohaemulonii) 400
-    │   ├── Candiarug (Candida rugopelliculosa) 400
-    │   ├── Candiasai (Candida saitoana) 400
-    │   ├── Candiasak (Candida sake) 400
-    │   ├── Candiasoj (Candida sojae) 400
-    │   ├── Candiasol (Candida solani) 400
-    │   ├── Candiasuc (Candida succiphila) 400
-    │   ├── Candiatro (Candida tropicalis) 400.06
-    │   ├── Candiavin (Candida vini) 400
-    │   ├── Candiavis (Candida viswanathii) 400
-    │   ├── Candiazey (Candida zeylanoides) 400
-    │   └── Canibrori (Canibacter oris) nan
     ├── Chaetmspe (Chaetomium species) nan
     │   └── Chaetmglo (Chaetomium globosum) nan
     ├── Chrysrspe (Chrysosporium species) nan
@@ -3264,8 +3198,6 @@ Organismen
     ├── Cladomspe (Cladosporium species) nan
     │   ├── Cladomcla (Cladosporium cladosporioides) nan
     │   └── Cladomher (Cladosporium herbarum) nan
-    ├── Claviaspe (Clavispora species) nan
-    │   └── Clavialus (Clavispora lusitaniae) nan
     ├── Collemspe (Colletotrichum species) nan
     │   └── Collemglo (Colletotrichum gloeosporioides) nan
     ├── Coniomspe (Coniothyrium species) nan
@@ -3293,25 +3225,13 @@ Organismen
     │   ├── Cutannmuc (Cutaneotrichosporon mucoides) nan
     │   ├── Cutannter (Cutaneotrichosporon terricola) nan
     │   └── Cutnnjir (Cutaneotrichosporon jirovecii) nan
-    ├── Cyberaspe (Cyberlindnera species) nan
-    │   ├── Cyberafab (Cyberlindnera fabianii) nan
-    │   ├── Cyberajad (Cyberlindnera jadinii) nan
-    │   └── Cyberamis (Cyberlindnera mississippiensis) nan
     ├── Cystomspe (Cystobasidium species) nan
     │   └── Cystommin (Cystobasidium minutum) nan
-    ├── Debarsspe (Debaryomyces species) nan
-    │   ├── Debarsetc (Debaryomyces etchellsii) nan
-    │   └── Debarshan (Debaryomyces hansenii) nan
     ├── Dekkeaspe (Dekkera species) nan
     │   ├── Dekkeabnaa (Dekkera naardenensis) nan
     │   └── Dekkeabru (Dekkera bruxellensis) nan
     ├── Dichosspe (Dichotomopilus species) nan
     │   └── Dichosfun (Dichotomopilus funicola) nan
-    ├── Dipodsspe (Dipodascus species) nan
-    │   └── Dipodsing (Dipodascus ingens) nan
-    ├── Diutiaspe (Diutina species) nan
-    │   ├── Diutiing (Diutina catenulata) nan
-    │   └── Diutirug (Diutina rugosa) nan
     ├── Dydimspe (Didymella species) nan
     │   └── Dydimaglo (Didymella glomerata) nan
     ├── Emeriaspe (Emericella species) nan
@@ -3343,60 +3263,19 @@ Organismen
     │   └── Fusarmspo (Fusarium sporotrichioides) nan
     ├── Fusicaspe (Fusicolla species) nan
     │   └── Fusicaaqu (Fusicolla aquaeductuum) nan
-    ├── Galacsspe (Galactomyces species) nan
-    │   └── Geotrmsil (Geotrichum silvicola) nan
     ├── Geomysspe (Geomyces species) nan
-    ├── Geotrmspe (Geotrichum species) nan
-    │   ├── Geotrmcan (Geotrichum candidum) nan
-    │   ├── Geotrmfra (Geotrichum fragrans) nan
-    │   └── Geotrmkle (Geotrichum klebahnii) nan
     ├── Goffeaspe (Goffeauzyma species) nan
     │   └── Goffeagas (Goffeauzyma gastrica) nan
     ├── Graphmspe (Graphium species) nan
     ├── Hannaaspe (Hannaella species) nan
     │   └── Hannaalut (Hannaella luteola) nan
-    ├── Hanseaspe (Hanseniaspora species) nan
-    │   ├── Hansealac (Hanseniaspora lachancei) nan
-    │   ├── Hanseaopu (Hanseniaspora opuntiae) nan
-    │   └── Hanseauva (Hanseniaspora uvarum) nan
     ├── Histoaspe (Histoplasma species) nan
     │   └── Histoacap (Histoplasma capsulatum) nan
-    ├── Hyphoaspe (Hyphopichia species) nan
-    │   └── Hyphoabur (Hyphopichia burtonii) nan
     ├── Issataspe (Issatchenkia species) nan
     │   └── Issataori (Issatchenkia orientalis) nan
-    ├── Kazacaspe (Kazachstania species) nan
-    │   ├── Kazacaafr (Kazachstania africana) nan
-    │   ├── Kazacabov (Kazachstania bovina) nan
-    │   ├── Kazacaexi (Kazachstania exigua) nan
-    │   ├── Kazacakun (Kazachstania kunashirensis) nan
-    │   ├── Kazacalod (Kazachstania lodderae) nan
-    │   ├── Kazacapin (Kazachstania pintolopesii) nan
-    │   ├── Kazacasin (Kazachstania sinensis) nan
-    │   ├── Kazacaslo (Kazachstania slooffiae) nan
-    │   ├── Kazacaspen (Kazachstania spencerorum) nan
-    │   ├── Kazacatel (Kazachstania telluris) nan
-    │   ├── Kazacatra (Kazachstania transvaalensis) nan
-    │   ├── Kazacauni (Kazachstania unispora) nan
-    │   └── Kazachum (Kazachstania humilis) nan
-    ├── Kluyvsspe (Kluyveromyces species) nan
-    │   ├── Kluyvsaes (Kluyveromyces aestuarii) nan
-    │   ├── Kluyvsdob (Kluyveromyces dobzhanskii) nan
-    │   ├── Kluyvslac (Kluyveromyces lactis) nan
-    │   ├── Kluyvsmar (Kluyveromyces marxianus) nan
-    │   ├── Kluyvsnon (Kluyveromyces nonfermentans) nan
-    │   └── Kluyvswic (Kluyveromyces wickerhamii) nan
-    ├── Kodamaspe (Kodamaea species) nan
-    │   └── Kodamaohm (Kodamaea ohmeri) nan
-    ├── Lachaaspe (Lachancea species) nan
-    │   └── Lachaafer (Lachancea fermentati) nan
     ├── Lecytaspe (Lecythophora species) nan
     ├── Lichtaspe (Lichtheimia species) nan
     │   └── Lichtacor (Lichtheimia corymbifera) nan
-    ├── Loddesspe (Lodderomyces species) nan
-    │   └── Loddeselo (Lodderomyces elongisporus) nan
-    ├── Magnusspe (Magnusiomyces species) nan
-    │   └── Magnuscla (Magnusiomyces clavatus) nan
     ├── Malasaspe (Malassezia species) nan
     │   ├── Malasafur (Malassezia furfur) nan
     │   ├── Malasaobt (Malassezia obtusa) nan
@@ -3405,12 +3284,6 @@ Organismen
     │   └── Margashof (Margarinomyces hoffmannii) nan
     ├── Metarmspe (Metarhizium species) nan
     │   └── Metarmmar (Metarhizium marquandii) nan
-    ├── Metscaspe (Metschnikowia species) nan
-    │   ├── Metscapul (Metschnikowia pulcherrima) nan
-    │   └── Metscareu (Metschnikowia reukaufii) nan
-    ├── Meyeraspe (Meyerozyma species) nan
-    │   ├── Meyeracar (Meyerozyma carpophila) nan
-    │   └── Meyeragui (Meyerozyma guilliermondii) 400.07
     ├── Microcspe (Microascus species) nan
     │   └── Microcbre (Microascus brevicaulis) nan
     ├── Microrspe (Microsporum species) nan
@@ -3422,8 +3295,6 @@ Organismen
     │   └── Microrpra (Microsporum praecox) nan
     ├── Microstaspe (Microstroma species) nan
     │   └── Microabac (Microstroma bacarum) nan
-    ├── Milleaspe (Millerozyma species) nan
-    │   └── Milleafar (Millerozyma farinosa) nan
     ├── Moeszsspe (Moesziomyces species) nan
     │   └── Moeszsbul (Moesziomyces bullatus) nan
     ├── Monilaspe (Monilinia species) nan
@@ -3459,10 +3330,6 @@ Organismen
     │   └── Neocoasol (Neocosmospora solani) nan
     ├── Neoscmspe (Neoscytalidium species) nan
     │   └── Neoscmdim (Neoscytalidium dimidiatum) nan
-    ├── Ogataaspe (Ogataea species) nan
-    │   ├── Ogataamet (Ogataea methylivora) nan
-    │   ├── Ogataapol (Ogataea polymorpha) nan
-    │   └── Ogataathe (Ogataea thermophila) nan
     ├── Paecisspe (Paecilomyces species) nan
     │   └── Paecisvar (Paecilomyces variotii) nan
     ├── Papilaspe (Papiliotrema species) nan
@@ -3499,18 +3366,6 @@ Organismen
     ├── Phialmspe (Phialemonium species) nan
     ├── Phomaspe (Phoma species) nan
     │   └── Phomaher (Phoma herbarum) nan
-    ├── Pichiaspe (Pichia species) nan
-    │   ├── Pichiacac (Pichia cactophila) nan
-    │   ├── Pichiafer (Pichia fermentans) nan
-    │   ├── Pichiahol (Pichia holstii) nan
-    │   ├── Pichiaklu (Pichia kluyveri) nan
-    │   ├── Pichiaman (Pichia manshurica) nan
-    │   ├── Pichiamem (Pichia membranifaciens) nan
-    │   ├── Pichianak (Pichia nakasei) nan
-    │   ├── Pichianor (Pichia norvegensis) nan
-    │   ├── Pichiaocc (Pichia occidentalis) nan
-    │   ├── Pichiapse (Pichia pseudocactophila) nan
-    │   └── Pichiater (Pichia terricola) nan
     ├── Piskuaspe (Piskurozyma species) nan
     │   └── Piskuacap (Piskurozyma capsuligena) nan
     ├── Plectaspe (Plectosphaerella species) nan
@@ -3518,8 +3373,6 @@ Organismen
     ├── Plectmspe (Plectosporium species) nan
     ├── Pleuraspe (Pleurostoma species) nan
     │   └── Pleuraric (Pleurostoma richardsiae) nan
-    ├── Pricesspe (Priceomyces species) nan
-    │   └── Pricescar (Priceomyces carsonii) nan
     ├── Pseudalspe (Pseudallescheria species) nan
     │   └── Pseudaboy (Pseudallescheria boydii) nan
     ├── Pseudaspe (Pseudoteratosphaeria species) nan
@@ -3541,28 +3394,192 @@ Organismen
     │   ├── Rhodoaglu (Rhodotorula glutinis) nan
     │   ├── Rhodoamuc (Rhodotorula mucilaginosa) nan
     │   └── Rhodoator (Rhodotorula toruloides) nan
-    ├── Sacchpspe (Saccharomycopsis species) nan
-    │   └── Sacchpsch (Saccharomycopsis schoenii) nan
-    ├── Sacchsspe (Saccharomyces species) nan
-    │   └── Sacchscer (Saccharomyces cerevisiae) nan
+    ├── Saccharomycotin (Saccharomycotina) nan
+    │   ├── Brettsspe (Brettanomyces species) nan
+    │   ├── Candiaspe (Candida species) 400
+    │   │   ├── Candiaala (Candida alai) nan
+    │   │   ├── Candiaalb (Candida albicans) 400.01
+    │   │   ├── Candiaall (Candida allociferrii) 400
+    │   │   ├── Candiaaur (Candida auris) 400
+    │   │   ├── Candiabla (Candida blankii) 400
+    │   │   ├── Candiablat (Candida blattae) 400
+    │   │   ├── Candiaboh (Candida bohiensis) 400
+    │   │   ├── Candiaboi (Candida boidinii) 400
+    │   │   ├── Candiabra (Candida bracarensis) 400
+    │   │   ├── Candiabue (Candida buenavistaensis) 400
+    │   │   ├── Candiacas (Candida castellii) 400
+    │   │   ├── Candiacol (Candida colliculosa) 400
+    │   │   ├── Candiacyl (Candida cylindracea) 400
+    │   │   ├── Candiadub (Candida dubliniensis) 400.02
+    │   │   ├── Candiaduo (Candida duobushaemulonis) 400
+    │   │   ├── Candiafre (Candida freyschussii) 400
+    │   │   ├── Candiafri (Candida friedrichii) 400
+    │   │   ├── Candiafrij (Candida frijolesensis) 400
+    │   │   ├── Candiagla (Candida glabrata) 400.03
+    │   │   ├── Candiahae (Candida haemuloni) 400
+    │   │   ├── Candiahyd (Candida hyderabadensis) 400
+    │   │   ├── Candiainc (Candida inconspicua) 400
+    │   │   ├── Candiaint (Candida intermedia) 400
+    │   │   ├── Candialab (Candida labiduridarum) 400
+    │   │   ├── Candiamal (Candida maltosa) 400
+    │   │   ├── Candiamem (Candida membranifaciens) 400
+    │   │   ├── Candiames (Candida mesenterica) 400
+    │   │   ├── Candiamul (Candida multis-gemmis) 400
+    │   │   ├── Candianem (Candida nemodendra) 400
+    │   │   ├── Candianit (Candida nitratophila) 400
+    │   │   ├── Candianiv (Candida nivariensis) 400
+    │   │   ├── Candianori (Candida norvegica) 400
+    │   │   ├── Candiapal (Candida palmioleophila) 400
+    │   │   ├── Candiapar-c (Candida parapsilosis complex) 400.05
+    │   │   │   ├── Candiamet (Candida metapsilosis) 400.05
+    │   │   │   ├── Candiaort (Candida orthopsilosis) 400.05
+    │   │   │   └── Candiapar (Candida parapsilosis) 400.05
+    │   │   ├── Candiapin (Candida pini) 400
+    │   │   ├── Candiapse (Candida pseudohaemulonii) 400
+    │   │   ├── Candiarug (Candida rugopelliculosa) 400
+    │   │   ├── Candiasai (Candida saitoana) 400
+    │   │   ├── Candiasak (Candida sake) 400
+    │   │   ├── Candiasoj (Candida sojae) 400
+    │   │   ├── Candiasol (Candida solani) 400
+    │   │   ├── Candiasuc (Candida succiphila) 400
+    │   │   ├── Candiatro (Candida tropicalis) 400.06
+    │   │   ├── Candiavin (Candida vini) 400
+    │   │   ├── Candiavis (Candida viswanathii) 400
+    │   │   ├── Candiazey (Candida zeylanoides) 400
+    │   │   └── Canibrori (Canibacter oris) nan
+    │   ├── Claviaspe (Clavispora species) nan
+    │   │   └── Clavialus (Clavispora lusitaniae) nan
+    │   ├── Cyberaspe (Cyberlindnera species) nan
+    │   │   ├── Cyberafab (Cyberlindnera fabianii) nan
+    │   │   ├── Cyberajad (Cyberlindnera jadinii) nan
+    │   │   └── Cyberamis (Cyberlindnera mississippiensis) nan
+    │   ├── Debarsspe (Debaryomyces species) nan
+    │   │   ├── Debarsetc (Debaryomyces etchellsii) nan
+    │   │   └── Debarshan (Debaryomyces hansenii) nan
+    │   ├── Dipodsspe (Dipodascus species) nan
+    │   │   └── Dipodsing (Dipodascus ingens) nan
+    │   ├── Diutiaspe (Diutina species) nan
+    │   │   ├── Diutiing (Diutina catenulata) nan
+    │   │   └── Diutirug (Diutina rugosa) nan
+    │   ├── Galacsspe (Galactomyces species) nan
+    │   │   └── Geotrmsil (Geotrichum silvicola) nan
+    │   ├── Geotrmspe (Geotrichum species) nan
+    │   │   ├── Geotrmcan (Geotrichum candidum) nan
+    │   │   ├── Geotrmfra (Geotrichum fragrans) nan
+    │   │   └── Geotrmkle (Geotrichum klebahnii) nan
+    │   ├── Hanseaspe (Hanseniaspora species) nan
+    │   │   ├── Hansealac (Hanseniaspora lachancei) nan
+    │   │   ├── Hanseaopu (Hanseniaspora opuntiae) nan
+    │   │   └── Hanseauva (Hanseniaspora uvarum) nan
+    │   ├── Hyphoaspe (Hyphopichia species) nan
+    │   │   └── Hyphoabur (Hyphopichia burtonii) nan
+    │   ├── Kazacaspe (Kazachstania species) nan
+    │   │   ├── Kazacaafr (Kazachstania africana) nan
+    │   │   ├── Kazacabov (Kazachstania bovina) nan
+    │   │   ├── Kazacaexi (Kazachstania exigua) nan
+    │   │   ├── Kazacakun (Kazachstania kunashirensis) nan
+    │   │   ├── Kazacalod (Kazachstania lodderae) nan
+    │   │   ├── Kazacapin (Kazachstania pintolopesii) nan
+    │   │   ├── Kazacasin (Kazachstania sinensis) nan
+    │   │   ├── Kazacaslo (Kazachstania slooffiae) nan
+    │   │   ├── Kazacaspen (Kazachstania spencerorum) nan
+    │   │   ├── Kazacatel (Kazachstania telluris) nan
+    │   │   ├── Kazacatra (Kazachstania transvaalensis) nan
+    │   │   ├── Kazacauni (Kazachstania unispora) nan
+    │   │   └── Kazachum (Kazachstania humilis) nan
+    │   ├── Kluyvsspe (Kluyveromyces species) nan
+    │   │   ├── Kluyvsaes (Kluyveromyces aestuarii) nan
+    │   │   ├── Kluyvsdob (Kluyveromyces dobzhanskii) nan
+    │   │   ├── Kluyvslac (Kluyveromyces lactis) nan
+    │   │   ├── Kluyvsmar (Kluyveromyces marxianus) nan
+    │   │   ├── Kluyvsnon (Kluyveromyces nonfermentans) nan
+    │   │   └── Kluyvswic (Kluyveromyces wickerhamii) nan
+    │   ├── Kodamaspe (Kodamaea species) nan
+    │   │   └── Kodamaohm (Kodamaea ohmeri) nan
+    │   ├── Lachaaspe (Lachancea species) nan
+    │   │   └── Lachaafer (Lachancea fermentati) nan
+    │   ├── Loddesspe (Lodderomyces species) nan
+    │   │   └── Loddeselo (Lodderomyces elongisporus) nan
+    │   ├── Magnusspe (Magnusiomyces species) nan
+    │   │   └── Magnuscla (Magnusiomyces clavatus) nan
+    │   ├── Metscaspe (Metschnikowia species) nan
+    │   │   ├── Metscapul (Metschnikowia pulcherrima) nan
+    │   │   └── Metscareu (Metschnikowia reukaufii) nan
+    │   ├── Meyeraspe (Meyerozyma species) nan
+    │   │   ├── Meyeracar (Meyerozyma carpophila) nan
+    │   │   └── Meyeragui (Meyerozyma guilliermondii) 400.07
+    │   ├── Milleaspe (Millerozyma species) nan
+    │   │   └── Milleafar (Millerozyma farinosa) nan
+    │   ├── Ogataaspe (Ogataea species) nan
+    │   │   ├── Ogataamet (Ogataea methylivora) nan
+    │   │   ├── Ogataapol (Ogataea polymorpha) nan
+    │   │   └── Ogataathe (Ogataea thermophila) nan
+    │   ├── Pichiaspe (Pichia species) nan
+    │   │   ├── Pichiacac (Pichia cactophila) nan
+    │   │   ├── Pichiafer (Pichia fermentans) nan
+    │   │   ├── Pichiahol (Pichia holstii) nan
+    │   │   ├── Pichiaklu (Pichia kluyveri) nan
+    │   │   ├── Pichiaman (Pichia manshurica) nan
+    │   │   ├── Pichiamem (Pichia membranifaciens) nan
+    │   │   ├── Pichianak (Pichia nakasei) nan
+    │   │   ├── Pichianor (Pichia norvegensis) nan
+    │   │   ├── Pichiaocc (Pichia occidentalis) nan
+    │   │   ├── Pichiapse (Pichia pseudocactophila) nan
+    │   │   └── Pichiater (Pichia terricola) nan
+    │   ├── Pricesspe (Priceomyces species) nan
+    │   │   └── Pricescar (Priceomyces carsonii) nan
+    │   ├── Sacchpspe (Saccharomycopsis species) nan
+    │   │   └── Sacchpsch (Saccharomycopsis schoenii) nan
+    │   ├── Sacchsspe (Saccharomyces species) nan
+    │   │   └── Sacchscer (Saccharomyces cerevisiae) nan
+    │   ├── Saproespe (Saprochaete species) nan
+    │   │   └── Saprocap (Saprochaete capitata) nan
+    │   ├── Schefspe (Scheffersomyces species) nan
+    │   │   ├── Schefsins (Scheffersomyces insectosus) nan
+    │   │   └── Schefsshe (Scheffersomyces shehatae) nan
+    │   ├── Schwasspe (Schwanniomyces species) nan
+    │   │   └── Schwasetc (Schwanniomyces etchellsii) nan
+    │   ├── Sporohspe (Sporopachydermia species) nan
+    │   │   └── Sporohcer (Sporopachydermia cereana) nan
+    │   ├── Starmaspe (Starmerella species) 400
+    │   │   ├── Starmalac-con (Starmerella lactis-condensi) 400
+    │   │   └── Starmamag (Starmerella magnoliae) 400
+    │   ├── Suhomsspe (Suhomyces species) nan
+    │   │   └── Suhomsamb (Suhomyces ambrosiae) nan
+    │   ├── Torulaspe (Torulaspora species) nan
+    │   │   └── Toruladel (Torulaspora delbrueckii) nan
+    │   ├── Trichsaspe (Trichomonascus species) nan
+    │   │   └── Trichscif (Trichomonascus ciferrii) nan
+    │   ├── Wickespe (Wickerhamiella species) nan
+    │   │   ├── Wickeainf (Wickerhamiella infanticola) nan
+    │   │   ├── Wickeapar (Wickerhamiella pararugosa) nan
+    │   │   ├── Wickeaspa (Wickerhamiella spandovensis) nan
+    │   │   └── Wickeaver (Wickerhamiella versatilis) nan
+    │   ├── Wickesspe (Wickerhamomyces species) nan
+    │   │   ├── Wickesano (Wickerhamomyces anomalus) nan
+    │   │   ├── Wickescif (Wickerhamomyces ciferrii) nan
+    │   │   └── Wickessub (Wickerhamomyces subpelliculosus) nan
+    │   ├── Yarroaspe (Yarrowia species) nan
+    │   │   ├── Yarroadef (Yarrowia deformans) nan
+    │   │   └── Yarroalip (Yarrowia lipolytica) nan
+    │   ├── Zygossspe (Zygosaccharomyces species) nan
+    │   │   ├── Zygossbai (Zygosaccharomyces bailii) nan
+    │   │   ├── Zygosslen (Zygosaccharomyces lentus) nan
+    │   │   ├── Zygossmic (Zygosaccharomyces microellipsoides) nan
+    │   │   └── Zygossrou (Zygosaccharomyces rouxii) nan
+    │   └── Zygotaspe (Zygotorulaspora species) nan
+    │       └── Zygotaflo (Zygotorulaspora florentina) nan
     ├── Saitoaspe (Saitozyma species) nan
     │   └── Saitoafla (Saitozyma flava) nan
-    ├── Saproespe (Saprochaete species) nan
-    │   └── Saprocap (Saprochaete capitata) nan
     ├── Scedomspe (Scedosporium species) nan
     │   ├── Scedomaur (Scedosporium aurantiacum) nan
     │   ├── Scedomboy (Scedosporium boydii) nan
     │   └── Scedompro (Scedosporium prolificans) nan
-    ├── Schefspe (Scheffersomyces species) nan
-    │   ├── Schefsins (Scheffersomyces insectosus) nan
-    │   └── Schefsshe (Scheffersomyces shehatae) nan
     ├── Schind (Schimmel, niet nader te determineren) nan
     ├── Schizmspe (Schizophyllum species) nan
     │   └── Schizmcom (Schizophyllum commune) nan
     ├── Schizsspe (Schizosaccharomyces species) nan
     │   └── Schizspom (Schizosaccharomyces pombe) nan
-    ├── Schwasspe (Schwanniomyces species) nan
-    │   └── Schwasetc (Schwanniomyces etchellsii) nan
     ├── Scolemspe (Scolecobasidium species) nan
     │   └── Scolemcon (Scolecobasidium constrictum) nan
     ├── Scopusspe (Scopulariopsis species) nan
@@ -3573,18 +3590,11 @@ Organismen
     │   └── Solicater (Solicoccozyma terrea) nan
     ├── Sporisspe (Sporidiobolus species) nan
     │   └── Sporissal (Sporidiobolus salmonicolor) nan
-    ├── Sporohspe (Sporopachydermia species) nan
-    │   └── Sporohcer (Sporopachydermia cereana) nan
     ├── Sporomspe (Sporobolomyces species) nan
     │   └── Sporomros (Sporobolomyces roseus) nan
     ├── Sporoxspe (Sporothrix species) nan
     │   └── Sporoxsch (Sporothrix schenckii) nan
-    ├── Starmaspe (Starmerella species) 400
-    │   ├── Starmalac-con (Starmerella lactis-condensi) 400
-    │   └── Starmamag (Starmerella magnoliae) 400
     ├── Stempmspe (Stemphylium species) nan
-    ├── Suhomsspe (Suhomyces species) nan
-    │   └── Suhomsamb (Suhomyces ambrosiae) nan
     ├── Talarsspe (Talaromyces species) nan
     │   ├── Talarsfun (Talaromyces funiculosus) nan
     │   ├── Talarspse (Talaromyces pseudostromaticus) nan
@@ -3592,8 +3602,6 @@ Organismen
     │   └── Talarsrug (Talaromyces rugulosus) nan
     ├── Tausoaspe (Tausonia species) nan
     │   └── Tausoapul (Tausonia pullulans) nan
-    ├── Torulaspe (Torulaspora species) nan
-    │   └── Toruladel (Torulaspora delbrueckii) nan
     ├── Torulsspe (Torulopsis species) nan
     │   └── Torulshol (Torulopsis holmii) nan
     │       └── Torulshol-h (Torulopsis holmii - holmii) nan
@@ -3611,8 +3619,6 @@ Organismen
     │   ├── Trichnjap (Trichosporon japonicum) nan
     │   ├── Trichnmyc (Trichosporon mycotoxinivorans) nan
     │   └── Trichnovo (Trichosporon ovoides) nan
-    ├── Trichsaspe (Trichomonascus species) nan
-    │   └── Trichscif (Trichomonascus ciferrii) nan
     ├── Trichtben (Trichophyton benhamiae) nan
     ├── Trichtspe (Trichophyton species) nan
     │   ├── Trichtequ (Trichophyton equinum) nan
@@ -3627,23 +3633,4 @@ Organismen
     │   └── Udenispun (Udeniomyces puniceus) nan
     ├── Vanriaspe (Vanrija species) nan
     │   └── Vanriahum (Vanrija humicola) nan
-    ├── Wangiaspe (Wangiella species) nan
-    ├── Wickespe (Wickerhamiella species) nan
-    │   ├── Wickeainf (Wickerhamiella infanticola) nan
-    │   ├── Wickeapar (Wickerhamiella pararugosa) nan
-    │   ├── Wickeaspa (Wickerhamiella spandovensis) nan
-    │   └── Wickeaver (Wickerhamiella versatilis) nan
-    ├── Wickesspe (Wickerhamomyces species) nan
-    │   ├── Wickesano (Wickerhamomyces anomalus) nan
-    │   ├── Wickescif (Wickerhamomyces ciferrii) nan
-    │   └── Wickessub (Wickerhamomyces subpelliculosus) nan
-    ├── Yarroaspe (Yarrowia species) nan
-    │   ├── Yarroadef (Yarrowia deformans) nan
-    │   └── Yarroalip (Yarrowia lipolytica) nan
-    ├── Zygossspe (Zygosaccharomyces species) nan
-    │   ├── Zygossbai (Zygosaccharomyces bailii) nan
-    │   ├── Zygosslen (Zygosaccharomyces lentus) nan
-    │   ├── Zygossmic (Zygosaccharomyces microellipsoides) nan
-    │   └── Zygossrou (Zygosaccharomyces rouxii) nan
-    └── Zygotaspe (Zygotorulaspora species) nan
-        └── Zygotaflo (Zygotorulaspora florentina) nan
+    └── Wangiaspe (Wangiella species) nan
