@@ -2699,7 +2699,7 @@ recordid,Mnemonic0,genus_name,sp_epithet,subsp_epithet,virotax,ncbi,mycobankno,r
 516408,Proviaspe,Providencia,,,,,,516408,Proviaspe,Providencia species,Germ,Providencia species,yes,Proviaspe,Morgaaceae,Antibiogram,Yes,no,1,no,no,no,10.16,Providencia spp,Provsp,112284001
 779892,Proviastu,Providencia,stuartii,,,,,779892,Proviastu,Providencia stuartii,Germ,Providencia stuartii,yes,Proviastu,Proviaspe,Antibiogram,Yes,no,1,no,no,no,10.18,Providencia stuartii,Provst,1445008
 779893,Proviaver,Providencia,vermicola,,,,,779893,Proviaver,Providencia vermicola,Germ,Providencia vermicola,yes,Proviaver,Proviaspe,Antibiogram,Yes,no,1,no,no,no,10.16,Providencia spp,Provve,6031000146109
-,Pseudaboy,NULL,NULL,NULL,,,,,Pseudaboy,Pseudallescheria boydii,Germ,Pseudallescheria boydii (Scedosorium apiospermum),yes,Pseudaboy,Pseudalspe,Antibiogram,Yes,no,1,no,no,no,,,,91088000
+,Pseudaboy,NULL,NULL,NULL,,,,,Pseudaboy,Pseudallescheria boydii,Germ,Pseudallescheria boydii (Scedosporium apiospermum),yes,Pseudaboy,Pseudalspe,Antibiogram,Yes,no,1,no,no,no,,,,91088000
 26619,Pseudalsdec,Pseudalkalibacillus,decolorationis,,,,,26619,Pseudalsdec,Pseudalkalibacillus decolorationis,Germ,Pseudalkalibacillus decolorationis,yes,Pseudalsdec,Pseudalsspe,,,,,,,,,,,
 26621,Pseudalshwa,Pseudalkalibacillus,hwajinpoensis,,,,,26621,Pseudalshwa,Pseudalkalibacillus hwajinpoensis,Germ,Pseudalkalibacillus hwajinpoensis,yes,Pseudalshwa,Pseudalsspe,,,,,,,,,,,
 ,Pseudalspe,NULL,NULL,NULL,,,,,Pseudalspe,Pseudallescheria species,Germ,Pseudallescheria species,yes,Pseudalspe,Schimmel,Antibiogram,Yes,no,1,no,no,no,,,,
